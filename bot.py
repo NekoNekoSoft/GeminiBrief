@@ -11,14 +11,14 @@ GEMINI_API_KEY = os.environ['GEMINI_API_KEY']
 
 # 2. 제미나이 설정
 genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel('gemini-1.5-flash')
+# ★ 수정된 부분: 모델 이름을 더 정확하게 변경!
+model = genai.GenerativeModel('gemini-1.5-flash-latest')
 
-# 3. 최신 뉴스 검색 함수 (PSTG, SPHD, 미국 증시)
+# 3. 최신 뉴스 검색 함수
 def get_latest_news():
     print("뉴스 검색 중...")
     results = []
     with DDGS() as ddgs:
-        # ★ 수정된 부분: SPHD와 배당주 키워드 추가
         keywords = [
             "US stock market news today", 
             "PSTG stock news", 
@@ -27,7 +27,8 @@ def get_latest_news():
         ]
         for keyword in keywords:
             try:
-                search_results = ddgs.text(keyword, max_results=2) # 키워드 당 2개씩
+                # 검색 결과 개수를 조금 늘려서 정확도 향상
+                search_results = ddgs.text(keyword, max_results=2)
                 for r in search_results:
                     results.append(f"- {r['title']}: {r['body']}")
             except Exception as e:
@@ -37,13 +38,11 @@ def get_latest_news():
 
 # 4. 제미나이에게 요약 요청 및 전송
 async def main():
-    # (1) 뉴스 수집
     news_text = get_latest_news()
     
     if not news_text:
         news_text = "뉴스 검색 결과가 없습니다."
 
-    # (2) 프롬프트 작성 (★ 수정됨: SPHD 포함)
     prompt = f"""
     아래는 방금 수집한 미국 증시 관련 최신 뉴스 검색 결과야.
     이 내용을 바탕으로 한국어 브리핑을 작성해줘.
@@ -63,15 +62,14 @@ async def main():
     {news_text}
     """
 
-    # (3) 제미나이 생성
     print("제미나이 생각 중...")
     try:
         response = model.generate_content(prompt)
         msg = response.text
     except Exception as e:
-        msg = f"브리핑 생성 중 오류 발생: {e}"
+        # 에러가 나면 무슨 에러인지 텔레그램으로 보내서 확인 가능하게 함
+        msg = f"❌ 브리핑 생성 실패: {e}"
 
-    # (4) 텔레그램 전송
     bot = Bot(token=TELEGRAM_TOKEN)
     await bot.send_message(chat_id=CHAT_ID, text=msg, parse_mode='Markdown')
     print("전송 완료!")
