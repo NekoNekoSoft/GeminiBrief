@@ -2,9 +2,8 @@ name: US Stock Briefing Bot
 
 on:
   schedule:
-    # 매시간 5분마다 실행 (예: 1:05, 2:05 ...)
-    - cron: '5 * * * *'
-  workflow_dispatch: # 수동 실행 버튼 추가
+    - cron: '5 * * * *' # 매 시간 5분에 실행
+  workflow_dispatch:
 
 jobs:
   run-bot:
@@ -20,8 +19,9 @@ jobs:
         python-version: '3.10'
 
     - name: 필요한 도구 설치
+      # 구글 라이브러리 제거 -> requests 설치
       run: |
-        pip install google-generativeai python-telegram-bot duckduckgo-search
+        pip install requests python-telegram-bot duckduckgo-search
 
     - name: 봇 실행
       env:
