@@ -2,24 +2,21 @@ import os
 import asyncio
 import requests
 import time
-import re
 from telegram import Bot
 from duckduckgo_search import DDGS
+from bs4 import BeautifulSoup # ★ 수술용 핀셋 도구 가져오기
 
 # 1. 환경변수
 TELEGRAM_TOKEN = os.environ['TELEGRAM_TOKEN'].strip()
 CHAT_ID = os.environ['TELEGRAM_CHAT_ID'].strip()
 
-# ==========================================
-# ★ 텔레그램 채널 주소 목록 (사용자님 요청 반영 완료) ★
-# FinancialJuice & Walter Bloomberg 탑재
-# ==========================================
+# 텔레그램 채널 (속보 채널)
 TELEGRAM_CHANNEL_URLS = [
-    "https://t.me/s/FinancialJuice",    # 실시간 금융 속보
-    "https://t.me/s/WalterBloomberg"    # 글로벌 마켓 헤드라인
+    "https://t.me/s/FinancialJuice",
+    "https://t.me/s/WalterBloomberg"
 ]
 
-# 7개의 열쇠 꾸러미
+# 7개의 열쇠
 API_KEYS = [
     os.environ.get('GEMINI_API_KEY'),
     os.environ.get('GEMINI_API_KEY_2'),
@@ -31,7 +28,7 @@ API_KEYS = [
 ]
 API_KEYS = [k.strip() for k in API_KEYS if k]
 
-# 2. 모델 자동 찾기
+# 2. 모델 찾기
 def get_working_model():
     if not API_KEYS: return "models/gemini-1.5-flash"
     url = f"https://generativelanguage.googleapis.com/v1beta/models?key={API_KEYS[0]}"
@@ -46,19 +43,17 @@ def get_working_model():
         pass
     return "models/gemini-1.5-flash"
 
-# 3-1. 뉴스 수집 (Macro + Portfolio)
+# 3-1. 뉴스 검색
 def get_ddg_news():
-    print("📰 뉴스 데이터 수집 중...")
+    print("📰 뉴스 수집 중...")
     results = []
-    
     keywords = [
-        "Why is US stock market moving today",  # 시황
-        "US stock market key events today",     # 주요 이슈
-        "Pure Storage stock news analysis",     # PSTG
-        "SPHD ETF dividend news today",         # SPHD
-        "S&P 500 VOO ETF forecast"              # VOO
+        "Why is US stock market moving today",
+        "US stock market key events today",
+        "Pure Storage stock news analysis",
+        "SPHD ETF dividend news today",
+        "S&P 500 VOO ETF forecast"
     ]
-    
     try:
         with DDGS() as ddgs:
             for keyword in keywords:
@@ -68,31 +63,47 @@ def get_ddg_news():
                         results.append(f"[{keyword}] {r['title']} ({r['date']}): {r['body'][:500]}...")
                 except:
                     continue
-    except Exception as e:
-        print(f"DDGS 오류: {e}")
+    except:
+        pass
     return "\n".join(results)
 
-# 3-2. 텔레그램 채널 스크랩 (FinancialJuice + WalterBloomberg)
+# 3-2. 텔레그램 스크랩 (★ BeautifulSoup 적용: 진짜 텍스트만 추출 ★)
 def get_telegram_news():
-    print(f"📡 텔레그램 채널 {len(TELEGRAM_CHANNEL_URLS)}개 스캔 중...")
+    print(f"📡 텔레그램 정밀 스캔 중...")
     collected_text = []
+    
+    # 텔레그램이 봇을 차단하지 않게 '나는 사람이야'라고 속이는 헤더
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
     
     for url in TELEGRAM_CHANNEL_URLS:
         try:
-            response = requests.get(url)
+            response = requests.get(url, headers=headers)
             if response.status_code == 200:
-                html = response.text
-                # HTML 태그 제거 및 텍스트 정제
-                text_content = re.sub('<[^<]+?>', ' ', html)
-                text_content = ' '.join(text_content.split())
+                soup = BeautifulSoup(response.text, 'html.parser')
                 
-                # 채널 이름 추출 (URL 끝부분)
+                # 텔레그램 메시지 본문 클래스: 'tgme_widget_message_text'
+                # 이 클래스를 가진 태그만 찾아내면 순수한 대화 내용임!
+                messages = soup.find_all('div', class_='tgme_widget_message_text')
+                
+                if not messages:
+                    continue
+
+                # 최근 메시지 5개만 가져오기 (너무 옛날 건 필요 없음)
+                recent_msgs = messages[-5:] 
+                
+                channel_text = []
+                for msg in recent_msgs:
+                    # HTML 태그 떼고 순수 텍스트만 추출 (.get_text)
+                    clean_msg = msg.get_text(separator=" ", strip=True)
+                    channel_text.append(f"- {clean_msg}")
+                
                 channel_name = url.split('/')[-1]
+                collected_text.append(f"\n[Telegram: {channel_name} 최신 속보]\n" + "\n".join(channel_text))
                 
-                # 최신글 2000자 확보 (속보가 많으므로 조금 더 길게)
-                collected_text.append(f"\n[Telegram: {channel_name}]\n{text_content[:2000]}...\n")
         except Exception as e:
-            print(f"채널({url}) 스크랩 실패: {e}")
+            print(f"스크랩 에러({url}): {e}")
             continue
             
     return "\n".join(collected_text)
@@ -135,32 +146,32 @@ async def main():
     {combined_news}
     
     [Instruction]
-    제공된 뉴스(웹 검색 + FinancialJuice/WalterBloomberg 속보)를 종합 분석하여 브리핑하라.
-    특히 텔레그램 속보 채널에서 나온 최신 마켓 루머나 지표 발표를 중요하게 다뤄라.
+    제공된 뉴스(웹 뉴스 + 텔레그램 속보)를 분석하여 브리핑하라.
+    **특히 텔레그램(FinancialJuice, WalterBloomberg)의 내용은 100% 반영하라.**
+    (금융 뉴스가 아니더라도, 해당 채널에 올라온 내용을 요약해서 무슨 말이 오가는지 알려줄 것)
     
     [Formatting Rules]
     1. **가독성**: 섹션 분리 명확히.
-    2. **출처 분리**: 각 섹션 하단에 `> 🗞️ [출처: ...]` 표기.
+    2. **출처 분리**: 섹션 하단에 `> 🗞️ [출처: ...]` 표기.
     
     [Output Structure]
     📰 **미국 증시 & 포트폴리오 브리핑**
     
     **1. 🌎 Global Market Review**
-    * (시장 등락 원인 및 거시경제 이슈 분석)
+    * (시장 흐름 및 원인 분석)
     
     **2. 💼 My Portfolio Focus (PSTG, SPHD)**
-    * **PSTG:** (성장주 관점 분석)
-    * **SPHD:** (배당/안정성 관점 분석)
-    * **VOO:** (지수 흐름 체크)
+    * (내 종목 관련 이슈 및 전략)
     
-    **3. 📡 Bloomberg & FinancialJuice Insight**
-    * (텔레그램 채널에서 수집된 실시간 속보 및 중요 헤드라인 요약)
+    **3. 📡 FinancialJuice & Bloomberg Insight**
+    * (텔레그램 속보 내용을 바탕으로, 지금 시장이 주목하는 단신/루머/지표를 정리)
+    * **(뉴스가 없으면 "현재 채널에 특별한 속보가 없습니다"라고 있는 그대로 전달)**
     
     **4. 💡 Investment Insight**
-    * (최종 요약 및 조언)
+    * (최종 요약)
     """
     
-    print("종합 보고서 작성 중...")
+    print("보고서 작성 중...")
     msg = ask_gemini(model_name, prompt)
 
     try:
