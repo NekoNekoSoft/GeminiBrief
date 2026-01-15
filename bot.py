@@ -110,3 +110,143 @@ def get_telegram_news():
     return collected_list
 
 # 5. 스마트 필터링
+def filter_new_items(current_items):
+    log_file = "news_log.txt"
+    old_items = set()
+    
+    if os.path.exists(log_file):
+        with open(log_file, "r", encoding="utf-8") as f:
+            for line in f:
+                old_items.add(line.strip())
+    
+    new_items = []
+    for item in current_items:
+        clean_item = item.strip()
+        if clean_item not in old_items:
+            new_items.append(clean_item)
+    
+    with open(log_file, "w", encoding="utf-8") as f:
+        for item in current_items:
+            f.write(item.strip() + "\n")
+            
+    return new_items
+
+# 6. 제미나이 요청
+def ask_gemini(model_name, prompt):
+    for i, key in enumerate(API_KEYS):
+        url = f"https://generativelanguage.googleapis.com/v1beta/{model_name}:generateContent?key={key}"
+        headers = {'Content-Type': 'application/json'}
+        data = {"contents": [{"parts": [{"text": prompt}]}]}
+        
+        try:
+            response = requests.post(url, headers=headers, json=data)
+            if response.status_code == 200:
+                return response.json()['candidates'][0]['content']['parts'][0]['text']
+            else:
+                time.sleep(1)
+                continue
+        except:
+            continue
+    return "❌ API 요청 실패"
+
+# ★★★ 7. 긴 메시지 분할 전송 함수 (New!) ★★★
+async def send_long_message(bot, chat_id, text):
+    # 텔레그램 제한은 4096자지만 안전하게 4000자로 자름
+    MAX_LENGTH = 4000
+    
+    # 1. 먼저 마크다운으로 시도 (짧은 경우)
+    if len(text) < MAX_LENGTH:
+        try:
+            await bot.send_message(chat_id=chat_id, text=text, parse_mode='Markdown')
+            return
+        except Exception as e:
+            print(f"마크다운 전송 실패(포맷 에러): {e}")
+            # 마크다운 실패 시 그냥 텍스트로 보냄
+
+    # 2. 길거나 마크다운 실패 시 -> 그냥 텍스트로 쪼개서 보냄
+    # (마크다운 문법이 중간에 잘리면 에러가 나므로, 긴 글은 안전하게 Plain Text로 보냄)
+    for i in range(0, len(text), MAX_LENGTH):
+        chunk = text[i:i+MAX_LENGTH]
+        try:
+            await bot.send_message(chat_id=chat_id, text=chunk)
+            time.sleep(1) # 순서 꼬임 방지 1초 대기
+        except Exception as e:
+            print(f"분할 전송 실패: {e}")
+
+# 8. 메인 실행
+async def main():
+    bot = Bot(token=TELEGRAM_TOKEN)
+    model_name = get_working_model()
+    current_time = get_korea_time_str()
+    
+    # 데이터 수집
+    web_list = get_ddg_news()
+    telegram_list = get_telegram_news()
+    all_current_list = web_list + telegram_list
+    
+    if not all_current_list:
+        print("수집된 데이터가 없습니다.")
+        # 수집 실패 로그는 너무 자주 올 수 있으므로 생략하거나 필요 시 추가
+        return
+
+    # 필터링
+    real_new_news = filter_new_items(all_current_list)
+    
+    if not real_new_news:
+        print("🔍 새로운 정보 없음. 생존 신고 전송.")
+        msg = f"🔔 **Market Status Check** ({current_time})\n\n✅ 현재 수집된 새로운 속보나 특이사항이 없습니다.\n시장을 계속 모니터링 중입니다. 👀"
+        await send_long_message(bot, CHAT_ID, msg)
+        return 
+
+    # 브리핑 생성
+    print(f"✨ 새로운 소식 {len(real_new_news)}건 발견! 분석 시작.")
+    combined_data = "\n".join(real_new_news)
+
+    prompt = f"""
+    [Role]
+    당신은 **월스트리트 수석 애널리스트(전문성)**이자, 이를 주린이에게 가르쳐주는 **친절한 1타 강사(교육)**입니다.
+    사용자의 **금융 지식 향상**을 위해, 브리핑은 반드시 아래 **[2단계 구조]**를 지켜야 합니다.
+
+    1. **Step 1 (전문적 분석)**: 정확한 금융 용어(Volatility Drag, CPI, Yield Gap 등)와 수치를 사용하여 현상을 정의합니다.
+    2. **Step 2 (쉬운 풀이)**: 바로 이어서 "👉 즉," 또는 "쉽게 말해"를 사용하여 **직관적인 비유(운전, 날씨, 파도 등)**로 다시 설명합니다.
+
+    [Current Time] {current_time} (KST)
+    [User Portfolio]
+    - Core: VOO (1x)
+    - Satellite: PSTG (Growth), SPHD (Dividend)
+    - **High Risk (Leverage): SSO (2x), UPRO (3x)**
+
+    [New Input Data]
+    {combined_data}
+
+    [Instruction]
+    위 데이터를 바탕으로 **객관적이고 냉철하게** 분석하되, 사용자가 공부가 되도록 작성하세요.
+
+    1. **속보 해석**: 텔레그램 속보를 전문 용어로 정의하고, 그게 무슨 뜻인지 쉽게 풉니다.
+    2. **레버리지 경고**: '변동성 끌림(Volatility Drag)'이나 '음의 복리' 같은 전문 개념을 언급하고, 왜 횡보장에서 위험한지 비유로 설명합니다.
+    3. **냉정한 조언**: 희망 회로 없이 현실적인 대응책을 제시합니다.
+
+    [Output Structure]
+    🔔 **Market Briefing & Study** ({current_time})
+
+    **1. ⚡ Breaking Insight (속보와 해석)**
+    * (전문 용어를 포함한 분석 문장)
+    * 👉 (초보자도 이해할 수 있는 쉬운 비유)
+    
+    **2. ⚠️ Portfolio Risk (레버리지 집중)**
+    * **SSO/UPRO:** (변동성 지표 등 전문 분석 -> 쉬운 경고)
+    * **PSTG/SPHD:** (이슈 분석 -> 쉬운 풀이)
+    
+    **3. 💡 Analyst's View (대응 전략)**
+    * (객관적 판단 및 행동 요령)
+    """
+    
+    print("브리핑 생성 중...")
+    msg = ask_gemini(model_name, prompt)
+
+    # ★ 안전하게 분할 전송 ★
+    await send_long_message(bot, CHAT_ID, msg)
+    print("전송 성공!")
+
+if __name__ == "__main__":
+    asyncio.run(main())
