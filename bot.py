@@ -4,12 +4,12 @@ import requests
 from telegram import Bot
 from duckduckgo_search import DDGS
 
-# 1. 환경변수
+# 1. 환경변수 (안전장치 포함)
 TELEGRAM_TOKEN = os.environ['TELEGRAM_TOKEN'].strip()
 CHAT_ID = os.environ['TELEGRAM_CHAT_ID'].strip()
 GEMINI_API_KEY = os.environ['GEMINI_API_KEY'].strip()
 
-# 2. 살아있는 모델 찾기
+# 2. 모델 자동 찾기
 def get_working_model():
     url = f"https://generativelanguage.googleapis.com/v1beta/models?key={GEMINI_API_KEY}"
     try:
@@ -21,44 +21,41 @@ def get_working_model():
                     return m['name']
     except:
         pass
-    return "models/gemini-1.5-flash" # 기본값
+    return "models/gemini-1.5-flash"
 
-# 3. 뉴스 검색 (업그레이드됨!)
+# 3. 뉴스 수집 (범위 확장!)
 def get_latest_news():
-    print("뉴스 수집 시작...")
+    print("뉴스 수집 중 (내 종목 + 시장 트렌드)...")
     results = []
     
-    # 검색 키워드 (뉴스 전용)
     keywords = [
-        "Pure Storage stock news",   # PSTG (영어 기사가 더 잘 나옴)
-        "SPHD ETF dividend news",    # SPHD
-        "S&P 500 market update"      # 전체 시황
+        # [1] 내 종목 집중
+        "Pure Storage AI data center trend", # PSTG
+        "SPHD ETF dividend analysis",        # SPHD
+        "S&P 500 market forecast today",     # VOO/SSO
+        
+        # [2] 시장 전체 핫이슈 (추가됨!)
+        "US stock market breaking news today", # 속보
+        "Trending stocks US market today",     # 급등락 종목
+        "Global economic crisis update"        # 거시경제
     ]
     
     try:
         with DDGS() as ddgs:
             for keyword in keywords:
                 try:
-                    # text() 대신 news() 사용 -> 최신 기사 위주
-                    print(f"검색 중: {keyword}")
+                    # 키워드별 최신 기사 1~2개씩 수집
                     news_gen = ddgs.news(keyword, max_results=2)
                     for r in news_gen:
-                        # 기사 제목과 앞부분 내용 가져오기
-                        title = r.get('title', '')
-                        body = r.get('body', '') or r.get('title', '') # 본문 없으면 제목이라도
-                        source = r.get('source', 'Unknown')
-                        date = r.get('date', '')
-                        
-                        full_text = f"- [{source}/{date}] {title}: {body}"
+                        # [검색어] 제목 - 내용 형식을 유지해야 AI가 구분하기 쉬움
+                        full_text = f"[{keyword}] {r['title']} ({r['date']}): {r['body']}"
                         results.append(full_text)
-                except Exception as e:
-                    print(f"키워드 '{keyword}' 건너뜀: {e}")
+                except:
                     continue
     except Exception as e:
         print(f"DDGS 접속 오류: {e}")
         return ""
 
-    # 수집된 뉴스가 있으면 합쳐서 반환, 없으면 빈 문자열
     return "\n".join(results)
 
 # 4. 제미나이 요청
@@ -72,7 +69,7 @@ def ask_gemini(model_name, prompt):
         if response.status_code == 200:
             return response.json()['candidates'][0]['content']['parts'][0]['text']
         else:
-            return f"❌ API 에러: {response.text}"
+            return f"❌ 분석 실패: {response.text}"
     except Exception as e:
         return f"❌ 요청 실패: {e}"
 
@@ -80,38 +77,34 @@ def ask_gemini(model_name, prompt):
 async def main():
     bot = Bot(token=TELEGRAM_TOKEN)
     model_name = get_working_model()
-    
-    # 뉴스 수집
     news_text = get_latest_news()
     
-    # 뉴스가 아예 없을 경우를 대비한 멘트
-    if not news_text or len(news_text) < 10:
-        news_text = "(현재 검색된 특이 뉴스가 없습니다. 시장 전반적인 분위기만 간단히 코멘트해주세요.)"
+    if not news_text:
+        news_text = "뉴스 수집 실패. 일반적인 시장 시황만 브리핑 바람."
 
-    # 프롬프트 (반복 설명 금지 조항 추가)
+    # ★ 프롬프트 수정: 내 종목 + '그 외 소식' 요청 ★
     prompt = f"""
-    [역할] 너는 주식 비서야.
-    [사용자 보유 종목] PSTG(퓨어스토리지), SPHD(고배당 ETF), VOO(S&P500)
-    
-    [최신 뉴스 데이터]
+    [Role]
+    당신은 통찰력 있는 주식 애널리스트입니다.
+
+    [User Portfolio]
+    - 보유: PSTG, SPHD, VOO(S&P500)
+    - 관심: 시장 전체를 주도하는 새로운 트렌드나 급등락 종목
+
+    [Input Data]
     {news_text}
-    
-    [지시사항]
-    1. 위 '뉴스 데이터'를 바탕으로 한국어 브리핑을 작성해.
-    2. 뉴스가 없으면 억지로 지어내지 말고 "현재 특별한 뉴스가 없습니다"라고 솔직하게 말해.
-    3. 종목에 대한 '사전적 정의'(이 회사는 뭐하는 회사고...)는 절대 하지 마. 매번 똑같은 말은 지겨워.
-    4. 오직 '새로운 소식'이나 '현재 가격/등락' 위주로만 전달해.
-    5. 출처가 있다면 꼭 명시해줘.
-    """
-    
-    print("브리핑 생성 중...")
-    msg = ask_gemini(model_name, prompt)
 
-    try:
-        await bot.send_message(chat_id=CHAT_ID, text=msg)
-        print("전송 성공!")
-    except Exception as e:
-        print(f"전송 실패: {e}")
+    [Instruction]
+    제공된 뉴스를 분석하여 아래 **4단계 구조**로 브리핑하세요.
+    내 종목은 깊게 분석하고, 그 외 소식은 핵심만 임팩트 있게 전달하세요.
 
-if __name__ == "__main__":
-    asyncio.run(main())
+    [Output Format]
+    📰 **미국 증시 올인원 브리핑**
+
+    **1. 🚨 메인 이슈 (Macro)**
+    * **[팩트 & 맥락]:** 오늘 시장을 지배한 가장 큰 재료는?
+    * **[영향]:** 그래서 지수는 어떻게 움직였나?
+
+    **2. 💼 내 포트폴리오 점검 (PSTG, SPHD)**
+    * **[이슈 체크]:** 관련 호재/악재가 있는가? (없으면 '특이사항 없음' 표기)
+    * **[대응 전략]:** 현재 홀딩/매수/매도 중 유
