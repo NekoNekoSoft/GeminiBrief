@@ -18,13 +18,12 @@ def get_latest_news():
         with DDGS() as ddgs:
             keywords = ["US stock market news", "PSTG stock", "SPHD ETF", "S&P 500"]
             for keyword in keywords:
-                # 타임아웃 방지 및 예외 처리 강화
                 try:
+                    # 검색 결과 1개씩만 빠르게 수집
                     r_gen = ddgs.text(keyword, max_results=1)
                     for r in r_gen:
                         results.append(f"- {r['title']}: {r['body']}")
-                except Exception as e:
-                    print(f"키워드 '{keyword}' 검색 중 에러: {e}")
+                except:
                     continue
     except Exception as e:
         print(f"DDGS 접속 에러: {e}")
@@ -34,8 +33,8 @@ def get_latest_news():
 
 # 3. 제미나이 직접 요청 (REST API)
 def ask_gemini_direct(prompt):
-    # 모델 주소: gemini-1.5-flash (가장 안정적)
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
+    # ★★★ 수정된 부분: 모델 이름을 'gemini-pro'로 변경 (가장 안정적) ★★★
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key={GEMINI_API_KEY}"
     headers = {'Content-Type': 'application/json'}
     data = {
         "contents": [{
@@ -56,7 +55,6 @@ def ask_gemini_direct(prompt):
 async def main():
     # 1) 뉴스 가져오기
     news_text = get_latest_news()
-    print(f"수집된 뉴스 길이: {len(news_text)}")
 
     # 2) 프롬프트 설정
     prompt = f"""
@@ -70,10 +68,9 @@ async def main():
     msg = ask_gemini_direct(prompt)
     print("답변 생성 완료.")
 
-    # 4) 텔레그램 전송 (안전 모드: 마크다운 끔)
+    # 4) 텔레그램 전송
     bot = Bot(token=TELEGRAM_TOKEN)
     try:
-        # parse_mode를 삭제해서 순수 텍스트로 보냄
         await bot.send_message(chat_id=CHAT_ID, text=msg)
         print("텔레그램 전송 성공!")
     except Exception as e:
