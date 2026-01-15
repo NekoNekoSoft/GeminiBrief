@@ -13,13 +13,13 @@ from bs4 import BeautifulSoup
 TELEGRAM_TOKEN = os.environ['TELEGRAM_TOKEN'].strip()
 CHAT_ID = os.environ['TELEGRAM_CHAT_ID'].strip()
 
-# 텔레그램 속보 채널 (FinancialJuice, WalterBloomberg)
+# 텔레그램 속보 채널
 TELEGRAM_CHANNEL_URLS = [
     "https://t.me/s/FinancialJuice",
     "https://t.me/s/WalterBloomberg"
 ]
 
-# 7개의 API 키 로드
+# 7개의 API 키
 API_KEYS = [
     os.environ.get('GEMINI_API_KEY'),
     os.environ.get('GEMINI_API_KEY_2'),
@@ -29,10 +29,9 @@ API_KEYS = [
     os.environ.get('GEMINI_API_KEY_6'),
     os.environ.get('GEMINI_API_KEY_7')
 ]
-# 비어있는 키 제거
 API_KEYS = [k.strip() for k in API_KEYS if k]
 
-# 2. 한국 시간 구하기
+# 2. 한국 시간
 def get_korea_time_str():
     korea_tz = pytz.timezone('Asia/Seoul')
     now = datetime.now(korea_tz)
@@ -53,15 +52,15 @@ def get_working_model():
         pass
     return "models/gemini-1.5-flash"
 
-# 4-1. 뉴스 검색 (전문적인 용어도 검색)
+# 4-1. 뉴스 검색
 def get_ddg_news():
     results = []
     keywords = [
-        "US stock market macro analysis",         # 거시경제
-        "CBOE VIX index volatility drag",         # 변동성 끌림
-        "Pure Storage stock technical analysis",  # PSTG
-        "SPHD ETF dividend yield gap",            # SPHD
-        "S&P 500 forecast technicals"             # 지수 전망
+        "US stock market macro analysis",
+        "CBOE VIX index volatility drag",
+        "Pure Storage stock technical analysis",
+        "SPHD ETF dividend yield gap",
+        "S&P 500 forecast technicals"
     ]
     try:
         with DDGS() as ddgs:
@@ -110,128 +109,4 @@ def get_telegram_news():
             
     return collected_list
 
-# 5. 스마트 필터링 (중복 제거)
-def filter_new_items(current_items):
-    log_file = "news_log.txt"
-    old_items = set()
-    
-    if os.path.exists(log_file):
-        with open(log_file, "r", encoding="utf-8") as f:
-            for line in f:
-                old_items.add(line.strip())
-    
-    new_items = []
-    for item in current_items:
-        clean_item = item.strip()
-        if clean_item not in old_items:
-            new_items.append(clean_item)
-    
-    with open(log_file, "w", encoding="utf-8") as f:
-        for item in current_items:
-            f.write(item.strip() + "\n")
-            
-    return new_items
-
-# 6. 제미나이 요청
-def ask_gemini(model_name, prompt):
-    for i, key in enumerate(API_KEYS):
-        url = f"https://generativelanguage.googleapis.com/v1beta/{model_name}:generateContent?key={key}"
-        headers = {'Content-Type': 'application/json'}
-        data = {"contents": [{"parts": [{"text": prompt}]}]}
-        
-        try:
-            response = requests.post(url, headers=headers, json=data)
-            if response.status_code == 200:
-                return response.json()['candidates'][0]['content']['parts'][0]['text']
-            else:
-                time.sleep(1)
-                continue
-        except:
-            continue
-    return "❌ API 요청 실패"
-
-# 7. 메인 실행
-async def main():
-    bot = Bot(token=TELEGRAM_TOKEN)
-    model_name = get_working_model()
-    current_time = get_korea_time_str()
-    
-    # 1) 데이터 수집
-    web_list = get_ddg_news()
-    telegram_list = get_telegram_news()
-    all_current_list = web_list + telegram_list
-    
-    if not all_current_list:
-        print("수집된 데이터가 없습니다.")
-        await bot.send_message(chat_id=CHAT_ID, text=f"🔔 **Status Check** ({current_time})\n뉴스 수집에 실패했습니다. (일시적 오류 가능성)")
-        return
-
-    # 2) 필터링
-    real_new_news = filter_new_items(all_current_list)
-    
-    # ★ 수정된 부분: 뉴스가 없으면 '없음' 메시지 전송 ★
-    if not real_new_news:
-        print("🔍 새로운 정보 없음. 생존 신고 전송.")
-        no_news_msg = f"🔔 **Market Status Check** ({current_time})\n\n✅ 현재 수집된 새로운 속보나 특이사항이 없습니다.\n시장을 계속 모니터링 중입니다. 👀"
-        try:
-            await bot.send_message(chat_id=CHAT_ID, text=no_news_msg)
-        except Exception as e:
-            print(f"전송 실패: {e}")
-        return 
-
-    # 3) 브리핑 생성
-    print(f"✨ 새로운 소식 {len(real_new_news)}건 발견! 분석 시작.")
-    combined_data = "\n".join(real_new_news)
-
-    # 전문가 + 1타 강사 프롬프트
-    prompt = f"""
-    [Role]
-    당신은 **월스트리트 수석 애널리스트(전문성)**이자, 이를 주린이에게 가르쳐주는 **친절한 1타 강사(교육)**입니다.
-    사용자의 **금융 지식 향상**을 위해, 브리핑은 반드시 아래 **[2단계 구조]**를 지켜야 합니다.
-
-    1. **Step 1 (전문적 분석)**: 정확한 금융 용어(Volatility Drag, CPI, Yield Gap 등)와 수치를 사용하여 현상을 정의합니다.
-    2. **Step 2 (쉬운 풀이)**: 바로 이어서 "👉 즉," 또는 "쉽게 말해"를 사용하여 **직관적인 비유(운전, 날씨, 파도 등)**로 다시 설명합니다.
-
-    [Current Time] {current_time} (KST)
-    [User Portfolio]
-    - Core: VOO (1x)
-    - Satellite: PSTG (Growth), SPHD (Dividend)
-    - **High Risk (Leverage): SSO (2x), UPRO (3x)**
-
-    [New Input Data]
-    {combined_data}
-
-    [Instruction]
-    위 데이터를 바탕으로 **객관적이고 냉철하게** 분석하되, 사용자가 공부가 되도록 작성하세요.
-
-    1. **속보 해석**: 텔레그램 속보를 전문 용어로 정의하고, 그게 무슨 뜻인지 쉽게 풉니다.
-    2. **레버리지 경고**: '변동성 끌림(Volatility Drag)'이나 '음의 복리' 같은 전문 개념을 언급하고, 왜 횡보장에서 위험한지 비유로 설명합니다.
-    3. **냉정한 조언**: 희망 회로 없이 현실적인 대응책을 제시합니다.
-
-    [Output Structure]
-    🔔 **Market Briefing & Study** ({current_time})
-
-    **1. ⚡ Breaking Insight (속보와 해석)**
-    * (전문 용어를 포함한 분석 문장)
-    * 👉 (초보자도 이해할 수 있는 쉬운 비유)
-    
-    **2. ⚠️ Portfolio Risk (레버리지 집중)**
-    * **SSO/UPRO:** (변동성 지표 등 전문 분석 -> 쉬운 경고)
-    * **PSTG/SPHD:** (이슈 분석 -> 쉬운 풀이)
-    
-    **3. 💡 Analyst's View (대응 전략)**
-    * (객관적 판단 및 행동 요령)
-    """
-    
-    print("브리핑 생성 중...")
-    msg = ask_gemini(model_name, prompt)
-
-    try:
-        await bot.send_message(chat_id=CHAT_ID, text=msg, parse_mode='Markdown')
-    except:
-        await bot.send_message(chat_id=CHAT_ID, text=msg)
-    
-    print("전송 성공!")
-
-if __name__ == "__main__":
-    asyncio.run(main())
+# 5. 스마트 필터링
