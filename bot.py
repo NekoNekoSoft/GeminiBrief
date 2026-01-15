@@ -1,16 +1,15 @@
 import os
 import asyncio
 import requests
-import json
 from telegram import Bot
 from duckduckgo_search import DDGS
 
-# 1. 환경변수 (공백 제거 안전장치 추가!)
+# 1. 환경변수
 TELEGRAM_TOKEN = os.environ['TELEGRAM_TOKEN'].strip()
 CHAT_ID = os.environ['TELEGRAM_CHAT_ID'].strip()
 GEMINI_API_KEY = os.environ['GEMINI_API_KEY'].strip()
 
-# 2. 살아있는 모델 찾기 (핵심 기능!)
+# 2. 살아있는 모델 찾기
 def get_working_model():
     url = f"https://generativelanguage.googleapis.com/v1beta/models?key={GEMINI_API_KEY}"
     try:
@@ -18,37 +17,52 @@ def get_working_model():
         if response.status_code == 200:
             models = response.json().get('models', [])
             for m in models:
-                # 'generateContent' 기능을 지원하는 모델만 찾음
                 if 'generateContent' in m['supportedGenerationMethods']:
-                    print(f"✅ 찾은 모델: {m['name']}")
-                    return m['name'] # 예: models/gemini-1.5-flash
-    except Exception as e:
-        print(f"모델 찾기 실패: {e}")
-    
-    # 못 찾으면 그냥 기본값 던짐
-    return "models/gemini-1.5-flash"
+                    return m['name']
+    except:
+        pass
+    return "models/gemini-1.5-flash" # 기본값
 
-# 3. 뉴스 검색
+# 3. 뉴스 검색 (업그레이드됨!)
 def get_latest_news():
-    print("뉴스 검색 시작...")
+    print("뉴스 수집 시작...")
     results = []
+    
+    # 검색 키워드 (뉴스 전용)
+    keywords = [
+        "Pure Storage stock news",   # PSTG (영어 기사가 더 잘 나옴)
+        "SPHD ETF dividend news",    # SPHD
+        "S&P 500 market update"      # 전체 시황
+    ]
+    
     try:
         with DDGS() as ddgs:
-            keywords = ["US stock market news", "PSTG stock", "SPHD ETF", "S&P 500"]
             for keyword in keywords:
                 try:
-                    r_gen = ddgs.text(keyword, max_results=1)
-                    for r in r_gen:
-                        results.append(f"- {r['title']}: {r['body']}")
-                except:
+                    # text() 대신 news() 사용 -> 최신 기사 위주
+                    print(f"검색 중: {keyword}")
+                    news_gen = ddgs.news(keyword, max_results=2)
+                    for r in news_gen:
+                        # 기사 제목과 앞부분 내용 가져오기
+                        title = r.get('title', '')
+                        body = r.get('body', '') or r.get('title', '') # 본문 없으면 제목이라도
+                        source = r.get('source', 'Unknown')
+                        date = r.get('date', '')
+                        
+                        full_text = f"- [{source}/{date}] {title}: {body}"
+                        results.append(full_text)
+                except Exception as e:
+                    print(f"키워드 '{keyword}' 건너뜀: {e}")
                     continue
-    except:
-        return "뉴스 검색 실패"
-    return "\n".join(results) if results else "뉴스 검색 결과 없음"
+    except Exception as e:
+        print(f"DDGS 접속 오류: {e}")
+        return ""
 
-# 4. 제미나이 요청 (찾아낸 모델로 요청)
+    # 수집된 뉴스가 있으면 합쳐서 반환, 없으면 빈 문자열
+    return "\n".join(results)
+
+# 4. 제미나이 요청
 def ask_gemini(model_name, prompt):
-    # model_name은 'models/gemini-1.5-flash' 형태임
     url = f"https://generativelanguage.googleapis.com/v1beta/{model_name}:generateContent?key={GEMINI_API_KEY}"
     headers = {'Content-Type': 'application/json'}
     data = {"contents": [{"parts": [{"text": prompt}]}]}
@@ -58,36 +72,46 @@ def ask_gemini(model_name, prompt):
         if response.status_code == 200:
             return response.json()['candidates'][0]['content']['parts'][0]['text']
         else:
-            return f"❌ API 에러 ({response.status_code}): {response.text}"
+            return f"❌ API 에러: {response.text}"
     except Exception as e:
         return f"❌ 요청 실패: {e}"
 
 # 5. 메인 실행
 async def main():
     bot = Bot(token=TELEGRAM_TOKEN)
-    
-    # 1) 작동하는 모델부터 찾기
     model_name = get_working_model()
     
-    # 2) 뉴스 가져오기
+    # 뉴스 수집
     news_text = get_latest_news()
+    
+    # 뉴스가 아예 없을 경우를 대비한 멘트
+    if not news_text or len(news_text) < 10:
+        news_text = "(현재 검색된 특이 뉴스가 없습니다. 시장 전반적인 분위기만 간단히 코멘트해주세요.)"
 
-    # 3) 질문하기
+    # 프롬프트 (반복 설명 금지 조항 추가)
     prompt = f"""
-    [역할] 주식 비서.
-    [뉴스] {news_text}
-    [요청] PSTG, SPHD, 미국증시 시황을 한국어로 브리핑해줘. 쉬운 용어로.
+    [역할] 너는 주식 비서야.
+    [사용자 보유 종목] PSTG(퓨어스토리지), SPHD(고배당 ETF), VOO(S&P500)
+    
+    [최신 뉴스 데이터]
+    {news_text}
+    
+    [지시사항]
+    1. 위 '뉴스 데이터'를 바탕으로 한국어 브리핑을 작성해.
+    2. 뉴스가 없으면 억지로 지어내지 말고 "현재 특별한 뉴스가 없습니다"라고 솔직하게 말해.
+    3. 종목에 대한 '사전적 정의'(이 회사는 뭐하는 회사고...)는 절대 하지 마. 매번 똑같은 말은 지겨워.
+    4. 오직 '새로운 소식'이나 '현재 가격/등락' 위주로만 전달해.
+    5. 출처가 있다면 꼭 명시해줘.
     """
     
-    print(f"제미나이({model_name})에게 질문 중...")
+    print("브리핑 생성 중...")
     msg = ask_gemini(model_name, prompt)
 
-    # 4) 텔레그램 전송
     try:
         await bot.send_message(chat_id=CHAT_ID, text=msg)
-        print("텔레그램 전송 성공!")
+        print("전송 성공!")
     except Exception as e:
-        print(f"텔레그램 실패: {e}")
+        print(f"전송 실패: {e}")
 
 if __name__ == "__main__":
     asyncio.run(main())
