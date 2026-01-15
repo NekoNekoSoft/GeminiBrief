@@ -11,8 +11,8 @@ GEMINI_API_KEY = os.environ['GEMINI_API_KEY']
 
 # 2. 제미나이 설정
 genai.configure(api_key=GEMINI_API_KEY)
-# ★ 수정된 부분: 모델 이름을 더 정확하게 변경!
-model = genai.GenerativeModel('gemini-1.5-flash-latest')
+# ★ 수정된 부분: 없는 이름(-latest)을 지우고 표준 이름으로 복귀!
+model = genai.GenerativeModel('gemini-1.5-flash')
 
 # 3. 최신 뉴스 검색 함수
 def get_latest_news():
@@ -27,7 +27,7 @@ def get_latest_news():
         ]
         for keyword in keywords:
             try:
-                # 검색 결과 개수를 조금 늘려서 정확도 향상
+                # 검색 결과 개수
                 search_results = ddgs.text(keyword, max_results=2)
                 for r in search_results:
                     results.append(f"- {r['title']}: {r['body']}")
@@ -67,7 +67,6 @@ async def main():
         response = model.generate_content(prompt)
         msg = response.text
     except Exception as e:
-        # 에러가 나면 무슨 에러인지 텔레그램으로 보내서 확인 가능하게 함
         msg = f"❌ 브리핑 생성 실패: {e}"
 
     bot = Bot(token=TELEGRAM_TOKEN)
