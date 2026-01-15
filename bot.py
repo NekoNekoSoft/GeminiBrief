@@ -2,21 +2,24 @@ import os
 import asyncio
 import requests
 import time
+import re
+from datetime import datetime
+import pytz
 from telegram import Bot
 from duckduckgo_search import DDGS
-from bs4 import BeautifulSoup # ★ 수술용 핀셋 도구 가져오기
+from bs4 import BeautifulSoup
 
 # 1. 환경변수
 TELEGRAM_TOKEN = os.environ['TELEGRAM_TOKEN'].strip()
 CHAT_ID = os.environ['TELEGRAM_CHAT_ID'].strip()
 
-# 텔레그램 채널 (속보 채널)
+# 텔레그램 속보 채널 (FinancialJuice, WalterBloomberg)
 TELEGRAM_CHANNEL_URLS = [
     "https://t.me/s/FinancialJuice",
     "https://t.me/s/WalterBloomberg"
 ]
 
-# 7개의 열쇠
+# API 키 7개
 API_KEYS = [
     os.environ.get('GEMINI_API_KEY'),
     os.environ.get('GEMINI_API_KEY_2'),
@@ -28,7 +31,13 @@ API_KEYS = [
 ]
 API_KEYS = [k.strip() for k in API_KEYS if k]
 
-# 2. 모델 찾기
+# 2. 한국 시간
+def get_korea_time_str():
+    korea_tz = pytz.timezone('Asia/Seoul')
+    now = datetime.now(korea_tz)
+    return now.strftime("%Y년 %m월 %d일 %H시 %M분")
+
+# 3. 모델 찾기
 def get_working_model():
     if not API_KEYS: return "models/gemini-1.5-flash"
     url = f"https://generativelanguage.googleapis.com/v1beta/models?key={API_KEYS[0]}"
@@ -43,72 +52,86 @@ def get_working_model():
         pass
     return "models/gemini-1.5-flash"
 
-# 3-1. 뉴스 검색
+# 4-1. 뉴스 검색 (리스트 반환)
 def get_ddg_news():
-    print("📰 뉴스 수집 중...")
     results = []
     keywords = [
-        "Why is US stock market moving today",
-        "US stock market key events today",
-        "Pure Storage stock news analysis",
-        "SPHD ETF dividend news today",
-        "S&P 500 VOO ETF forecast"
+        "US stock market breaking news impact",
+        "Pure Storage stock latest analysis",
+        "SPHD ETF latest dividend news",
+        "S&P 500 VOO latest forecast"
     ]
     try:
         with DDGS() as ddgs:
             for keyword in keywords:
                 try:
-                    news_gen = ddgs.news(keyword, max_results=2)
+                    news_gen = ddgs.news(keyword, max_results=1)
                     for r in news_gen:
-                        results.append(f"[{keyword}] {r['title']} ({r['date']}): {r['body'][:500]}...")
+                        text = f"[WEB] {r['title']} ({r['date']}): {r['body'][:300]}"
+                        results.append(text)
                 except:
                     continue
     except:
         pass
-    return "\n".join(results)
+    return results
 
-# 3-2. 텔레그램 스크랩 (★ BeautifulSoup 적용: 진짜 텍스트만 추출 ★)
+# 4-2. 텔레그램 정밀 분석 (리스트 반환)
 def get_telegram_news():
-    print(f"📡 텔레그램 정밀 스캔 중...")
-    collected_text = []
-    
-    # 텔레그램이 봇을 차단하지 않게 '나는 사람이야'라고 속이는 헤더
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-    }
+    collected_list = []
+    headers = {"User-Agent": "Mozilla/5.0"}
     
     for url in TELEGRAM_CHANNEL_URLS:
         try:
             response = requests.get(url, headers=headers)
             if response.status_code == 200:
                 soup = BeautifulSoup(response.text, 'html.parser')
-                
-                # 텔레그램 메시지 본문 클래스: 'tgme_widget_message_text'
-                # 이 클래스를 가진 태그만 찾아내면 순수한 대화 내용임!
-                messages = soup.find_all('div', class_='tgme_widget_message_text')
-                
-                if not messages:
-                    continue
+                messages = soup.find_all('div', class_='tgme_widget_message_wrap')
+                if not messages: continue
 
-                # 최근 메시지 5개만 가져오기 (너무 옛날 건 필요 없음)
-                recent_msgs = messages[-5:] 
-                
-                channel_text = []
-                for msg in recent_msgs:
-                    # HTML 태그 떼고 순수 텍스트만 추출 (.get_text)
-                    clean_msg = msg.get_text(separator=" ", strip=True)
-                    channel_text.append(f"- {clean_msg}")
+                recent_msgs = messages[-5:] # 최신 5개
                 
                 channel_name = url.split('/')[-1]
-                collected_text.append(f"\n[Telegram: {channel_name} 최신 속보]\n" + "\n".join(channel_text))
                 
-        except Exception as e:
-            print(f"스크랩 에러({url}): {e}")
+                for msg in recent_msgs:
+                    text_div = msg.find('div', class_='tgme_widget_message_text')
+                    if not text_div: continue
+                    text = text_div.get_text(separator=" ", strip=True)
+                    
+                    time_tag = msg.find('time')
+                    msg_time = time_tag['datetime'] if time_tag else ""
+                    
+                    if len(text) > 5:
+                        full_msg = f"[Telegram:{channel_name}] [{msg_time}] {text}"
+                        collected_list.append(full_msg)
+        except:
             continue
             
-    return "\n".join(collected_text)
+    return collected_list
 
-# 4. 제미나이 요청
+# ★★★ 5. 스마트 필터링 (중복 제거 & 기록) ★★★
+def filter_new_items(current_items):
+    log_file = "news_log.txt"
+    old_items = set()
+    
+    if os.path.exists(log_file):
+        with open(log_file, "r", encoding="utf-8") as f:
+            for line in f:
+                old_items.add(line.strip())
+    
+    new_items = []
+    for item in current_items:
+        clean_item = item.strip()
+        if clean_item not in old_items:
+            new_items.append(clean_item)
+    
+    # 현재 상태 저장 (다음 비교를 위해)
+    with open(log_file, "w", encoding="utf-8") as f:
+        for item in current_items:
+            f.write(item.strip() + "\n")
+            
+    return new_items
+
+# 6. 제미나이 요청 (7-Key Rotation)
 def ask_gemini(model_name, prompt):
     for i, key in enumerate(API_KEYS):
         url = f"https://generativelanguage.googleapis.com/v1beta/{model_name}:generateContent?key={key}"
@@ -126,52 +149,62 @@ def ask_gemini(model_name, prompt):
             continue
     return "❌ API 요청 실패."
 
-# 5. 메인 실행
+# 7. 메인 실행
 async def main():
     bot = Bot(token=TELEGRAM_TOKEN)
     model_name = get_working_model()
+    current_time = get_korea_time_str()
     
-    news_1 = get_ddg_news()
-    news_2 = get_telegram_news()
-    combined_news = f"{news_1}\n\n{news_2}"
+    # 1) 데이터 수집
+    web_list = get_ddg_news()
+    telegram_list = get_telegram_news()
+    all_current_list = web_list + telegram_list
     
-    if len(combined_news) < 10:
-        combined_news = "뉴스 수집 실패."
+    if not all_current_list:
+        print("수집된 데이터가 없습니다.")
+        return
+
+    # 2) ★ 필터링 실행 (새로운 것만 추출) ★
+    real_new_news = filter_new_items(all_current_list)
+    
+    if not real_new_news:
+        print("🔍 확인 결과: 모든 뉴스가 지난번과 동일합니다. (전송 안 함)")
+        return 
+
+    # 3) 브리핑 시작
+    print(f"✨ 새로운 소식 {len(real_new_news)}건 발견! 브리핑 시작.")
+    combined_data = "\n".join(real_new_news)
 
     prompt = f"""
-    [Role] 월스트리트 수석 애널리스트
-    [Portfolio] PSTG, SPHD, VOO
+    [Role] 월스트리트 수석 매크로 전략가
+    [Current Time] {current_time} (KST)
+    [User Portfolio] PSTG, SPHD, VOO
     
-    [Input Data]
-    {combined_news}
+    [New Input Data]
+    {combined_data}
     
     [Instruction]
-    제공된 뉴스(웹 뉴스 + 텔레그램 속보)를 분석하여 브리핑하라.
-    **특히 텔레그램(FinancialJuice, WalterBloomberg)의 내용은 100% 반영하라.**
-    (금융 뉴스가 아니더라도, 해당 채널에 올라온 내용을 요약해서 무슨 말이 오가는지 알려줄 것)
+    위 데이터는 방금 들어온 **따끈따끈한 새 소식**들이다.
+    이미 알고 있는 내용은 제외되었으니, 이 내용들을 집중적으로 분석해서 브리핑하라.
     
-    [Formatting Rules]
-    1. **가독성**: 섹션 분리 명확히.
-    2. **출처 분리**: 섹션 하단에 `> 🗞️ [출처: ...]` 표기.
+    1. **속보 해석**: 텔레그램/웹 뉴스의 의미를 분석하라. (단순 번역 금지)
+    2. **포트폴리오 영향**: 이 새 소식이 PSTG, SPHD, VOO에 호재인지 악재인지 판단하라.
+    3. **대응 전략**: 그래서 지금 당장 뭘 해야 하는가?
     
     [Output Structure]
-    📰 **미국 증시 & 포트폴리오 브리핑**
+    🔔 **New Market Alert** ({current_time})
     
-    **1. 🌎 Global Market Review**
-    * (시장 흐름 및 원인 분석)
+    **1. ⚡ Breaking Insight**
+    * (새로 들어온 속보의 핵심과 시장 함의 분석)
     
-    **2. 💼 My Portfolio Focus (PSTG, SPHD)**
-    * (내 종목 관련 이슈 및 전략)
+    **2. 💼 Portfolio Check**
+    * (내 종목에 미치는 영향 분석. 관련 없으면 "직접적 영향 없음" 명시)
     
-    **3. 📡 FinancialJuice & Bloomberg Insight**
-    * (텔레그램 속보 내용을 바탕으로, 지금 시장이 주목하는 단신/루머/지표를 정리)
-    * **(뉴스가 없으면 "현재 채널에 특별한 속보가 없습니다"라고 있는 그대로 전달)**
-    
-    **4. 💡 Investment Insight**
-    * (최종 요약)
+    **3. 💡 Quick Take**
+    * (한 줄 요약 조언)
     """
     
-    print("보고서 작성 중...")
+    print("브리핑 생성 중...")
     msg = ask_gemini(model_name, prompt)
 
     try:
