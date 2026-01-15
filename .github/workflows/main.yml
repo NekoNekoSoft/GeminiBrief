@@ -2,7 +2,7 @@ name: US Stock Briefing Bot
 
 on:
   schedule:
-    - cron: '5 * * * *' # 매 시간 5분에 실행
+    - cron: '5 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -19,13 +19,20 @@ jobs:
         python-version: '3.10'
 
     - name: 필요한 도구 설치
-      # 구글 라이브러리 제거 -> requests 설치
+      # ★ beautifulsoup4 라이브러리 추가됨 ★
       run: |
-        pip install requests python-telegram-bot duckduckgo-search
+        pip install requests python-telegram-bot duckduckgo-search beautifulsoup4
 
     - name: 봇 실행
       env:
         TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
         TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        # API 키 7개
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+        GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
+        GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
+        GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
+        GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
+        GEMINI_API_KEY_7: ${{ secrets.GEMINI_API_KEY_7 }}
       run: python bot.py
