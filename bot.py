@@ -19,7 +19,7 @@ TELEGRAM_CHANNEL_URLS = [
     "https://t.me/s/WalterBloomberg"
 ]
 
-# 7개의 API 키
+# 7개의 API 키 로드
 API_KEYS = [
     os.environ.get('GEMINI_API_KEY'),
     os.environ.get('GEMINI_API_KEY_2'),
@@ -29,15 +29,16 @@ API_KEYS = [
     os.environ.get('GEMINI_API_KEY_6'),
     os.environ.get('GEMINI_API_KEY_7')
 ]
+# 비어있는 키 제거
 API_KEYS = [k.strip() for k in API_KEYS if k]
 
-# 2. 한국 시간
+# 2. 한국 시간 구하기
 def get_korea_time_str():
     korea_tz = pytz.timezone('Asia/Seoul')
     now = datetime.now(korea_tz)
     return now.strftime("%Y년 %m월 %d일 %H시 %M분")
 
-# 3. 모델 찾기
+# 3. 모델 찾기 (API 키 로테이션)
 def get_working_model():
     if not API_KEYS: return "models/gemini-1.5-flash"
     url = f"https://generativelanguage.googleapis.com/v1beta/models?key={API_KEYS[0]}"
@@ -52,15 +53,15 @@ def get_working_model():
         pass
     return "models/gemini-1.5-flash"
 
-# 4-1. 뉴스 검색
+# 4-1. 뉴스 검색 (전문 용어 + 포트폴리오 키워드)
 def get_ddg_news():
     results = []
     keywords = [
-        "US stock market macro analysis",
-        "CBOE VIX index volatility drag",
-        "Pure Storage stock technical analysis",
-        "SPHD ETF dividend yield gap",
-        "S&P 500 forecast technicals"
+        "US stock market macro analysis",         # 거시경제
+        "CBOE VIX index volatility drag",         # 변동성 끌림 (SSO 필수)
+        "Pure Storage stock technical analysis",  # PSTG
+        "SPHD ETF dividend yield gap",            # SPHD
+        "S&P 500 forecast technicals"             # VOO/SSO
     ]
     try:
         with DDGS() as ddgs:
@@ -76,7 +77,7 @@ def get_ddg_news():
         pass
     return results
 
-# 4-2. 텔레그램 정밀 분석
+# 4-2. 텔레그램 정밀 분석 (속보)
 def get_telegram_news():
     collected_list = []
     headers = {"User-Agent": "Mozilla/5.0"}
@@ -109,7 +110,7 @@ def get_telegram_news():
             
     return collected_list
 
-# 5. 스마트 필터링
+# 5. 스마트 필터링 (중복 뉴스 제거)
 def filter_new_items(current_items):
     log_file = "news_log.txt"
     old_items = set()
@@ -149,27 +150,29 @@ def ask_gemini(model_name, prompt):
             continue
     return "❌ API 요청 실패"
 
-# ★★★ 7. 긴 메시지 분할 전송 함수 (New!) ★★★
+# ★★★ 7. 긴 메시지 분할 전송 함수 (에러 방지 핵심 기능) ★★★
 async def send_long_message(bot, chat_id, text):
     # 텔레그램 제한은 4096자지만 안전하게 4000자로 자름
     MAX_LENGTH = 4000
     
-    # 1. 먼저 마크다운으로 시도 (짧은 경우)
+    # 1. 짧은 경우: 마크다운으로 시도
     if len(text) < MAX_LENGTH:
         try:
             await bot.send_message(chat_id=chat_id, text=text, parse_mode='Markdown')
             return
         except Exception as e:
             print(f"마크다운 전송 실패(포맷 에러): {e}")
-            # 마크다운 실패 시 그냥 텍스트로 보냄
+            # 포맷 에러 시 텍스트로 재시도
+            await bot.send_message(chat_id=chat_id, text=text)
+            return
 
-    # 2. 길거나 마크다운 실패 시 -> 그냥 텍스트로 쪼개서 보냄
-    # (마크다운 문법이 중간에 잘리면 에러가 나므로, 긴 글은 안전하게 Plain Text로 보냄)
+    # 2. 긴 경우: 텍스트로 쪼개서 전송
+    print("메시지가 너무 길어 분할 전송합니다.")
     for i in range(0, len(text), MAX_LENGTH):
         chunk = text[i:i+MAX_LENGTH]
         try:
             await bot.send_message(chat_id=chat_id, text=chunk)
-            time.sleep(1) # 순서 꼬임 방지 1초 대기
+            time.sleep(1) # 순서 꼬임 방지
         except Exception as e:
             print(f"분할 전송 실패: {e}")
 
@@ -186,12 +189,12 @@ async def main():
     
     if not all_current_list:
         print("수집된 데이터가 없습니다.")
-        # 수집 실패 로그는 너무 자주 올 수 있으므로 생략하거나 필요 시 추가
         return
 
     # 필터링
     real_new_news = filter_new_items(all_current_list)
     
+    # 뉴스가 없을 때 생존 신고
     if not real_new_news:
         print("🔍 새로운 정보 없음. 생존 신고 전송.")
         msg = f"🔔 **Market Status Check** ({current_time})\n\n✅ 현재 수집된 새로운 속보나 특이사항이 없습니다.\n시장을 계속 모니터링 중입니다. 👀"
@@ -202,6 +205,7 @@ async def main():
     print(f"✨ 새로운 소식 {len(real_new_news)}건 발견! 분석 시작.")
     combined_data = "\n".join(real_new_news)
 
+    # 프롬프트: 전문가 + 1타 강사 (UPRO 제외, SSO 강조)
     prompt = f"""
     [Role]
     당신은 **월스트리트 수석 애널리스트(전문성)**이자, 이를 주린이에게 가르쳐주는 **친절한 1타 강사(교육)**입니다.
@@ -213,8 +217,8 @@ async def main():
     [Current Time] {current_time} (KST)
     [User Portfolio]
     - Core: VOO (1x)
-    - Satellite: PSTG (Growth), SPHD (Dividend)
-    - **High Risk (Leverage): SSO (2x), UPRO (3x)**
+    - Growth/Dividend: PSTG, SPHD (비중 확대)
+    - **Leverage: SSO (2x)** <-- (UPRO 제외됨, 2배 레버리지 집중 관리)
 
     [New Input Data]
     {combined_data}
@@ -223,7 +227,7 @@ async def main():
     위 데이터를 바탕으로 **객관적이고 냉철하게** 분석하되, 사용자가 공부가 되도록 작성하세요.
 
     1. **속보 해석**: 텔레그램 속보를 전문 용어로 정의하고, 그게 무슨 뜻인지 쉽게 풉니다.
-    2. **레버리지 경고**: '변동성 끌림(Volatility Drag)'이나 '음의 복리' 같은 전문 개념을 언급하고, 왜 횡보장에서 위험한지 비유로 설명합니다.
+    2. **레버리지 경고 (SSO)**: 2배 레버리지도 횡보장에서는 계좌가 녹을 수 있습니다. '변동성' 위험을 운전이나 날씨에 비유해 경고하세요.
     3. **냉정한 조언**: 희망 회로 없이 현실적인 대응책을 제시합니다.
 
     [Output Structure]
@@ -233,8 +237,8 @@ async def main():
     * (전문 용어를 포함한 분석 문장)
     * 👉 (초보자도 이해할 수 있는 쉬운 비유)
     
-    **2. ⚠️ Portfolio Risk (레버리지 집중)**
-    * **SSO/UPRO:** (변동성 지표 등 전문 분석 -> 쉬운 경고)
+    **2. ⚠️ Portfolio Risk (SSO & SPHD 집중)**
+    * **SSO (2x):** (변동성 지표 등 전문 분석 -> 쉬운 경고)
     * **PSTG/SPHD:** (이슈 분석 -> 쉬운 풀이)
     
     **3. 💡 Analyst's View (대응 전략)**
@@ -244,9 +248,10 @@ async def main():
     print("브리핑 생성 중...")
     msg = ask_gemini(model_name, prompt)
 
-    # ★ 안전하게 분할 전송 ★
+    # ★ 분할 전송 함수 사용 ★
     await send_long_message(bot, CHAT_ID, msg)
     print("전송 성공!")
 
 if __name__ == "__main__":
     asyncio.run(main())
+ 
