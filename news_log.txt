@@ -1,10 +1,10 @@
-[Telegram:FinancialJuice] [2026-01-20T14:49:45+00:00] UK's Chancellor Reeves: I don't plan any UK tax changes in the spring.| FJ
-[Telegram:FinancialJuice] [2026-01-20T14:51:38+00:00] US Trade Representative Greer: The inflation overall trajectory is in check, going down.| FJ
-[Telegram:FinancialJuice] [2026-01-20T14:57:07+00:00] US Trade Representative Greer: Government-subsidised services is bigger factor in inflation.| FJ
-[Telegram:FinancialJuice] [2026-01-20T14:59:15+00:00] US Trade Representative Greer: Europe's reliance on Russian oil is so dissonant to me.| FJ
-[Telegram:FinancialJuice] [2026-01-20T15:00:00+00:00] US Trade Representative Greer: The US will continue to be a great source of LNG for Europe.| FJ
-[Telegram:WalterBloomberg] [2026-01-20T14:29:55+00:00] U.S. TRADE REPRESENTATIVE GREER SAYS TRUMP'S GREENLAND-RELATED  TARIFF THREAT IS AN APPROPRIATE USE OF TARIFFS ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-20T14:41:05+00:00] USTR GREER: U.S. TRADE DEFICIT WITH EU MAY EXCEED U.S. TRADE DEFICIT WITH CHINA FOR 2025 ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-20T14:42:28+00:00] 🚨 FRANCE'S FOREIGN MINISTER: FRANCE SUPPORTS EU PARLIAMENT'S WISH TO SUSPEND EU-U.S. TRADE DEAL ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-20T14:49:55+00:00] NORWAY CAN'T PARTICIPATE IN TRUMP'S "BOARD OF PEACE" INITIATIVE AS IT'S PRESENTED TODAY, DEPUTY FOREIGN MINISTER TELLS DAILY AFTENPOSTEN ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-20T14:50:12+00:00] https://t.co/YIPYr2nQcP ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-01-20T15:49:13+00:00] EC Pres. von der Leyen: Preparing new Iran sanctions over repression.| FJ
+[Telegram:FinancialJuice] [2026-01-20T15:51:13+00:00] EU's Foreign Minister Kallas: EU is proposing new export restrictions on components that Iran can use for the production of drones and missiles.| FJ
+[Telegram:FinancialJuice] [2026-01-20T15:51:22+00:00] US Commerce Secretary Lutnick: Interest rates in the US are too high.| FJ
+[Telegram:FinancialJuice] [2026-01-20T15:52:20+00:00] S Commerce Secretary Lutnick, when asked about China: I'd like the UK to be aligned with US.| FJ
+[Telegram:FinancialJuice] [2026-01-20T16:00:55+00:00] The US to sell $105 bln 4-week bills on January 22nd, to settle on January 27th| FJ
+[Telegram:WalterBloomberg] [2026-01-20T15:50:51+00:00] LUTNICK: INTEREST RATES IN US ARE TOO HIGH ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-20T15:51:04+00:00] CANADA PM CARNEY: CANADA STRONGLY OPPOSES TARIFFS OVER GREENLAND ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-20T15:51:45+00:00] LUTNICK:THINK WE'RE GOING TO GROW MORE THAN 5% GDP THIS QUARTER ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-20T15:56:35+00:00] *FTSE 100 OWNER SAID TO EYE EASING ENTRY RULES FOR FOREIGN FIRMS ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-20T16:00:16+00:00] NVIDIA SHARES DOWN ABOUT 3% ( @WalterBloomberg )
