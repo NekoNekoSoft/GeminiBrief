@@ -1,15 +1,10 @@
-[WEB] 2026 Stock Market Outlook: A Positive Backdrop, But Brace For Another 2025-Sized Plunge (2026-01-05T19:26:00+00:00): Breaking stock news is now free. Create your account to stay informed—and explore the insights behind every move. The S&P 500 is supported by robust earnings growth and favorable macro conditions, but technicals signal an imminent correction in 2026.
-[WEB] Simplifying VIX: How This Index Tracks Market Volatility (2018-12-21T13:43:00+00:00): Explore the VIX, the go-to index for tracking S&P 500 volatility. Learn about its calculation and impact on your investment strategy to see market shifts in real-time.
-[WEB] Why Pure Storage (PSTG) stock is up today (2026-01-15T20:46:18+00:00): What Happened? Shares of data storage solutions provider Pure Storage (NYSE:PSTG) jumped 3.7% in the afternoon session after the company highlighted several positive business drivers during its presentation at the 28th Annual Needham Growth Conference.
-[WEB] JEPI vs. SPHD: Which monthly dividend ETF wins? (2025-12-09T17:05:00+00:00): Passive income investors like me are always on the lookout for different ways to generate extra income. If you can make your money work for you, why not? I believe investing should not only generate capital appreciation but also steady income. If you're ...
-[WEB] S&P 500 Index Forecast: Stock Market Eyes Plunge—Trendline Support at Risk (2026-01-14T16:39:00+00:00): Tech stocks lead decline as S&P 500 breaks uptrend line from November lows. Analysis shows markets losing vigor with potential rollover ahead.
-[Telegram:FinancialJuice] [2026-01-20T10:21:57+00:00] BoE's Ramsden: So far this year, core markets for gilts, treasuries and Euro Zone debt show little sign of volatility; Japanese bonds are an exception| FJ
-[Telegram:FinancialJuice] [2026-01-20T10:33:05+00:00] BoE Gov. Bailey: So far, we have seen more hedging of Dollar positions than investors saying they don't want Dollars| FJ
-[Telegram:FinancialJuice] [2026-01-20T11:17:34+00:00] Ukrainian negotiators met with national security advisers from France, Germany, the UK, and more talks are ahead - Ukrainian official| FJ
-[Telegram:FinancialJuice] [2026-01-20T11:22:45+00:00] UK Government: The Chinese government has agreed to consolidate its seven current sites in London into one site, bringing clear security advantages| FJ
 [Telegram:FinancialJuice] [2026-01-20T11:31:08+00:00] $MMM 3M Q4 2025 Earnings Adj EPS $1.83, est. $1.80 Rev. $6.1B, est. $6.02B| FJ
-[Telegram:WalterBloomberg] [2026-01-20T02:47:30+00:00] *CHINA REACHES 12 MILLION TON US SOY PURCHASE TARGET: TRADERS ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-20T10:11:33+00:00] RUSSIA'S LAVROV:  IT'S UNLIKELY THAT RUSSIA CAN MAKE AGREEMENTS WITH CURRENT EUROPE'S LEADERS ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-20T11:33:43+00:00] BESSENT: PURSUING CONTROL OF GREENLAND HAS BEEN A LONG-TERM AMERICAN GOAL- CNBC INTERVIEW ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-20T11:35:10+00:00] BESSENT ON FED: TRUMP MAY REACH FED CHAIR DECISION AS SOON AS NEXT WEEK - CNBC INTERVIEW ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-20T11:46:43+00:00] TRUMP SAYS NO DOCUMENTS PROVE DENMARK OWNS GREENLAND. STATE DEPT FILES SAY OTHERWISE ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-01-20T13:00:33+00:00] Secured overnight financing rate: 3.65% January 16th vs 3.66% January 15th| FJ
+[Telegram:FinancialJuice] [2026-01-20T13:09:57+00:00] Morning Juice - US Session Prep (20th January)| FJ
+[Telegram:FinancialJuice] [2026-01-20T13:15:18+00:00] US ADP Wkly Employment Change Actual 8k (Forecast -, Previous 11.75k)| FJ
+[Telegram:FinancialJuice] [2026-01-20T13:59:59+00:00] Danish pension fund Akademikerpension to exit US treasuries.| FJ
+[Telegram:WalterBloomberg] [2026-01-20T13:41:54+00:00] BESSENT: HAD MORE FOREIGN PARTICIPATION IN TREASURIES THAN EVER BESSENT: JAPAN BOND MARKET HAD A 6 STANDARD DEVIATION MOVE ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-20T13:43:34+00:00] DANISH FUND DUMPS U.S. TREASURIES AkademikerPension plans to exit U.S. Treasuries by month-end, citing rising credit risk under President Trump. CIO Anders Schelde said U.S. finances are no longer sustainable, pointing to weak fiscal discipline, a softer dollar, and Trump’s ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-20T13:44:27+00:00] BESSENT: RARE EARTHS ARE FLOWING AS EXPECTED ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-20T13:47:34+00:00] NEWSOM: EUROPE HAS BEEN “PLAYED” BY TRUMP California Gov. Gavin Newsom said European leaders have been “played” by President Trump, calling his approach embarrassing and manipulative. Speaking in Davos, Newsom said the world is still operating under outdated rules and described ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-20T13:55:03+00:00] BESSENT: MUST GET OUT FROM CHINA'S GRASP ON RARE EARTHS ( @WalterBloomberg )
