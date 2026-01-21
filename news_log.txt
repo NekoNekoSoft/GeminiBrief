@@ -8,8 +8,8 @@
 [Telegram:FinancialJuice] [2026-01-21T21:41:53+00:00] US API Distillate Stock Change Actual -0.033M (Forecast -, Previous 4.34M) US API Gasoline Stock Change Actual 6.2M (Forecast -, Previous 8.23M) US API Cushing Stock Change Actual 1.2M (Forecast -, Previous 0.945M) US API Crude Oil Stock Change Actual 3M (Forecast -, Previous| FJ
 [Telegram:FinancialJuice] [2026-01-21T21:42:40+00:00] Australia's Nationals Leader: Australia coalition can no longer continue.| FJ
 [Telegram:FinancialJuice] [2026-01-21T21:45:34+00:00] New Zealand Visitor Arrivals MoM Actual 990 (Forecast -, Previous 2,400) New Zealand External Migration & Visitors Actual 8.2% (Forecast -, Previous 9.4%)| FJ
-[Telegram:WalterBloomberg] [2026-01-21T21:05:00+00:00] NASDAQ COMPOSITE RECORDS BIGGEST DAILY PERCENTAGE GAIN SINCE DECEMBER 19 ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-01-21T21:13:26+00:00] GERMAN FINANCE MINISTER ON TRUMP GREENLAND DEAL: WE HAVE TO WAIT A BIT AND NOT GET OUR HOPES UP TOO SOON ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-01-21T21:14:48+00:00] *TRUMP GREENLAND DEAL SAID TO INVOLVE SMALL POCKETS OF LAND: NYT ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-01-21T21:26:16+00:00] *THERANOS FOUNDER ELIZABETH HOLMES ASKS TRUMP FOR PARDON ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-01-21T22:39:06+00:00] GREENLAND DEAL FAR FROM DONE NATO Secretary General Mark Rutte said significant work remains on any Greenland agreement, despite U.S. President Donald Trump announcing a “framework of a future deal.” “I think it was a very good meeting tonight, but there’s still a lot of work ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-21T23:12:58+00:00] NATO SECRETARY GENERAL RUTTE WHEN ASKED IF GREENLAND WILL REMAIN WITH DENMARK: THAT ISSUE DID NOT COME UP IN MY CONVERSATION WITH TRUMP ( @WalterBloomberg )
