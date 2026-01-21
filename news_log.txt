@@ -1,15 +1,15 @@
 [WEB] 2026 Stock Market Outlook: A Positive Backdrop, But Brace For Another 2025-Sized Plunge (2026-01-05T19:26:00+00:00): Breaking stock news is now free. Create your account to stay informed—and explore the insights behind every move. The S&P 500 is supported by robust earnings growth and favorable macro conditions, but technicals signal an imminent correction in 2026.
 [WEB] Volatility roars back as the VIX surges above 20 on geopolitical jitters (2026-01-20T14:22:43+00:00): Market volatility surged back into focus on Tuesday as investor anxiety resurfaced across Wall Street. The Cboe Volatility Index (VIX), a closely watched measure of expected market turbulence, climbed decisively above the 20 threshold,
 [WEB] Pure Storage Stock Analysis: Buy, Hold, or Sell? (2025-05-24T16:14:00+00:00): A Fool since 2019, and a graduate of Cal State LA with a B.S. in Finance and M.A. in Economics. Parkev is an adjunct professor of Finance and enjoys reading about financial and economic history. You'll often find him writing about stocks in the consumer ...
-[WEB] JEPI vs. SPHD: Which monthly dividend ETF wins? (2025-12-09T17:05:00+00:00): Passive income investors like me are always on the lookout for different ways to generate extra income. If you can make your money work for you, why not? I believe investing should not only generate capital appreciation but also steady income. If you're ...
-[WEB] S&P 500 Index Forecast: Stock Market Eyes Plunge—Trendline Support at Risk (2026-01-14T16:39:00+00:00): Tech stocks lead decline as S&P 500 breaks uptrend line from November lows. Analysis shows markets losing vigor with potential rollover ahead.
-[Telegram:FinancialJuice] [2026-01-21T13:50:53+00:00] Trump: US natural gas production is at an all-time high| FJ
-[Telegram:FinancialJuice] [2026-01-21T13:51:49+00:00] Trump: Venezuela is going to make more money| FJ
-[Telegram:FinancialJuice] [2026-01-21T13:52:21+00:00] Trump: Gasoline prices will soon be less than $2/gallon| FJ
-[Telegram:FinancialJuice] [2026-01-21T13:56:29+00:00] Trump: German Chancellor Merz is doing a great job, German energy issues are the not the current chancellor's fault| FJ
-[Telegram:FinancialJuice] [2026-01-21T13:59:47+00:00] Trump: Greenland situation makes this issue more clear.| FJ
-[Telegram:WalterBloomberg] [2026-01-21T13:56:52+00:00] TRUMP: ELECTRICITY PRICES IN UK HAVE SOARED 139 % ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-21T13:58:01+00:00] TRUMP: CHINA SELLS WINDMILLS BUT DOESN'T USE THEM THEMSELVES TRUMP AT DAVOS: CHINA MAKES WIND FARMS BUT USES COAL, DOING JUST FINE ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-21T13:59:02+00:00] TRUMP: WE BELIEVE DEEPLY IN THE BONDS WE SHARE WITH EUROPE AS A CIVILIZATION ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-21T13:59:22+00:00] TRUMP: EUROPE HAS TO GET OUT OF THE CULTURE THEY HAVE GOT INTO IN 10 YEARS ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-21T14:00:27+00:00] 🚨 TRUMP AT DAVOS: NO NATION CAN SECURE GREENLAND OTHER THAN U.S. ( @WalterBloomberg )
+[WEB] JEPI vs. SPHD: Which Monthly Dividend ETF Wins? (2025-12-09T00:00:00+00:00): JEPI offers a 7.1% yield through call options on 125 holdings including Magnificent Seven stocks. SPHD caps sectors at 10 stocks each to prevent overweighting and focuses on stable dividend payers. JEPI returned 72% since 2020 versus SPHD's 129% since ...
+[WEB] NASDAQ Index, S&P 500 and Dow Jones Forecasts - US Indices Still Look Soft in Early Wednesday Trading (2026-01-21T14:46:00+00:00): US indices look to drift a bit lower on Wednesday as the headlines over Greenland continue to weigh upon markets.
+[Telegram:FinancialJuice] [2026-01-21T14:56:22+00:00] Trump on the national debt: Growth is the way out.| FJ
+[Telegram:FinancialJuice] [2026-01-21T14:57:23+00:00] Trump: Cutting expenses and key tariffs to help pay debt.| FJ
+[Telegram:FinancialJuice] [2026-01-21T14:58:08+00:00] MEP Bernd Lange: European Parliament freezes work on EU-US trade deal.| FJ
+[Telegram:FinancialJuice] [2026-01-21T15:00:43+00:00] Trump on China: Good relationship with President XI.| FJ
+[Telegram:FinancialJuice] [2026-01-21T15:01:15+00:00] US Pending Home Sales Change MoM Actual -9.3% (Forecast -0.25%, Previous 3.3%) US Pending Homes Index Actual 71.8 (Forecast -, Previous 79.2) US Construction Spending MoM Actual 0.5% (Forecast 0.1%, Previous 0.2%)| FJ
+[Telegram:WalterBloomberg] [2026-01-21T14:56:20+00:00] TRUMP: GROWTH IS THE WAY OUT OF OUR DEBT TRUMP: WE ARE CUTTING EXPENSES ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-21T14:56:37+00:00] TRUMP IN DAVOS FIRESIDE CHAT: U.S. GROWTH WILL OFFSET DEBT ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-21T14:57:44+00:00] TRUMP: U.S. COULD BALANCE BUDGET BY CUTTING FRAUD ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-21T15:00:27+00:00] TRUMP: ALWAYS HAD GOOD RELATIONSHIP WITH CHINA'S XI ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-21T15:01:02+00:00] *US PENDING HOME SALES FALL 9.3% M/M, MOST SINCE '20; EST. -0.3% ( @WalterBloomberg )
