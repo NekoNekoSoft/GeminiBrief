@@ -3,13 +3,13 @@
 [WEB] Pure Storage Stock Analysis: Buy, Hold, or Sell? (2025-05-24T16:14:00+00:00): A Fool since 2019, and a graduate of Cal State LA with a B.S. in Finance and M.A. in Economics. Parkev is an adjunct professor of Finance and enjoys reading about financial and economic history. You'll often find him writing about stocks in the consumer ...
 [WEB] JEPI vs. SPHD: Which Monthly Dividend ETF Wins? (2025-12-09T00:00:00+00:00): JEPI offers a 7.1% yield through call options on 125 holdings including Magnificent Seven stocks. SPHD caps sectors at 10 stocks each to prevent overweighting and focuses on stable dividend payers. JEPI returned 72% since 2020 versus SPHD's 129% since ...
 [WEB] NASDAQ Index, S&P 500 and Dow Jones Forecasts - US Indices Still Look Soft in Early Wednesday Trading (2026-01-21T14:46:00+00:00): US indices look to drift a bit lower on Wednesday as the headlines over Greenland continue to weigh upon markets.
-[Telegram:FinancialJuice] [2026-01-21T15:47:03+00:00] Denmark Foreign Minister: The US president's ambition is intact.| FJ
-[Telegram:FinancialJuice] [2026-01-21T15:49:17+00:00] Denmark Foreign Minister: We'll maintain the diplomatic track regarding Greenland.| FJ
-[Telegram:FinancialJuice] [2026-01-21T15:52:43+00:00] Trump's Crypto Czar Sacks: I think the US is still in the lead in the AI race.| FJ
-[Telegram:FinancialJuice] [2026-01-21T15:55:19+00:00] Punchbowl Reporter Post on X on Fed's Cook Hearing: The Supreme Court hasn't been super jazzed about the White House's arguments this morning.| FJ
-[Telegram:FinancialJuice] [2026-01-21T16:03:07+00:00] White House posts study on AI and its impact on the US economy.| FJ
-[Telegram:WalterBloomberg] [2026-01-21T15:46:46+00:00] 🚨 DENMARK FOREIGN MINISTER: THE U.S. PRESIDENT'S AMBITION IS INTACT ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-21T15:47:03+00:00] DENMARK FOREIGN MINISTER: POSITIVE THAT HE DOES NOT PLAN TO USE FORCE ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-21T15:48:41+00:00] DENMARK FOREIGN MINISTER: WE'LL MAINTAIN THE DIPLOMATIC TRACK REGARDING GREENLAND ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-21T15:51:06+00:00] DENMARK FOREIGN MINISTER: WE ARE NOT NEGOTIATING TO COMPROMISE ON OUR FUNDAMENTAL PRINCIPLES ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-21T15:52:54+00:00] TRUMP ADVISER DAVID SACKS SAYS HE WORRIES U.S. COULD LOSE AI RACE DUE TO 'SELF-INFLICTED INJURY' ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-01-21T16:56:21+00:00] WH Sr. Adviser Hassett: Fed members seem to want an opinion on everything.| FJ
+[Telegram:FinancialJuice] [2026-01-21T17:00:12+00:00] WH Sr. Adviser Hassett: Big housing policy announcement is coming soon.| FJ
+[Telegram:FinancialJuice] [2026-01-21T17:54:52+00:00] Fed's Cook: I will uphold independence as long as I'm at the Fed.| FJ
+[Telegram:FinancialJuice] [2026-01-21T18:00:45+00:00] Treasury WI 20 Yr yield 4.856% before $13 bln auction| FJ
+[Telegram:FinancialJuice] [2026-01-21T18:03:50+00:00] US 20-Year Bond Auction High Yield 4.846% (Stop-through of 1 bps) Bid-to-cover 2.86 Sells $13bln Awards 3.89% of bids at high Primary Dealers take 6.2% Direct 29.1% Indirect 64.7%| FJ
+[Telegram:WalterBloomberg] [2026-01-21T17:54:27+00:00] RUBIO: U.S. WANTS A STRONG, NOT WEAK, EUROPE Secretary of State Marco Rubio said the U.S. needs strong European allies, not “weakened” ones, warning that Europe must change course or risk self-destruction. His remarks followed President Trump’s criticism of Europe and warning ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-21T17:56:00+00:00] FED'S COOK: I WILL UPHOLD INDEPENDENCE AS LONG AS I'M AT THE FED ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-21T17:58:36+00:00] TRUMP ADMINISTRATION STARTS IMMIGRATION OPERATION IN MAINE-NYT ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-21T17:59:11+00:00] BITCOIN WIPES OUT 2026 GAINS Bitcoin has erased all gains made since the start of 2026 as investors retreat from risk. After rising as much as 12% earlier, the cryptocurrency fell to around $87,000. Nearly $490 million flowed out of U.S.-listed Bitcoin ETFs in one day, https://t.co/E2fUJBi5O6 ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-21T18:00:32+00:00] TRANSPORTATION SECURITY ADMINISTRATION HEAD SAYS 6% OF AIR TRAVELERS ARE NOT SHOWING "REAL ID" TO BOARD FLIGHTS AS AGENCY PREPARES TO CHARGE $45 FEE STARTING FEB. 1 -- HOUSE HEARING ( @WalterBloomberg )
