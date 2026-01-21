@@ -3,13 +3,13 @@
 [WEB] Pure Storage Stock Analysis: Buy, Hold, or Sell? (2025-05-24T16:14:00+00:00): A Fool since 2019, and a graduate of Cal State LA with a B.S. in Finance and M.A. in Economics. Parkev is an adjunct professor of Finance and enjoys reading about financial and economic history. You'll often find him writing about stocks in the consumer ...
 [WEB] JEPI vs. SPHD: Which Monthly Dividend ETF Wins? (2025-12-09T00:00:00+00:00): JEPI offers a 7.1% yield through call options on 125 holdings including Magnificent Seven stocks. SPHD caps sectors at 10 stocks each to prevent overweighting and focuses on stable dividend payers. JEPI returned 72% since 2020 versus SPHD's 129% since ...
 [WEB] NASDAQ Index, S&P 500 and Dow Jones Forecasts - US Indices Still Look Soft in Early Wednesday Trading (2026-01-21T14:46:00+00:00): US indices look to drift a bit lower on Wednesday as the headlines over Greenland continue to weigh upon markets.
-[Telegram:FinancialJuice] [2026-01-21T14:56:22+00:00] Trump on the national debt: Growth is the way out.| FJ
-[Telegram:FinancialJuice] [2026-01-21T14:57:23+00:00] Trump: Cutting expenses and key tariffs to help pay debt.| FJ
-[Telegram:FinancialJuice] [2026-01-21T14:58:08+00:00] MEP Bernd Lange: European Parliament freezes work on EU-US trade deal.| FJ
-[Telegram:FinancialJuice] [2026-01-21T15:00:43+00:00] Trump on China: Good relationship with President XI.| FJ
-[Telegram:FinancialJuice] [2026-01-21T15:01:15+00:00] US Pending Home Sales Change MoM Actual -9.3% (Forecast -0.25%, Previous 3.3%) US Pending Homes Index Actual 71.8 (Forecast -, Previous 79.2) US Construction Spending MoM Actual 0.5% (Forecast 0.1%, Previous 0.2%)| FJ
-[Telegram:WalterBloomberg] [2026-01-21T14:56:20+00:00] TRUMP: GROWTH IS THE WAY OUT OF OUR DEBT TRUMP: WE ARE CUTTING EXPENSES ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-21T14:56:37+00:00] TRUMP IN DAVOS FIRESIDE CHAT: U.S. GROWTH WILL OFFSET DEBT ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-21T14:57:44+00:00] TRUMP: U.S. COULD BALANCE BUDGET BY CUTTING FRAUD ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-21T15:00:27+00:00] TRUMP: ALWAYS HAD GOOD RELATIONSHIP WITH CHINA'S XI ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-21T15:01:02+00:00] *US PENDING HOME SALES FALL 9.3% M/M, MOST SINCE '20; EST. -0.3% ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-01-21T15:47:03+00:00] Denmark Foreign Minister: The US president's ambition is intact.| FJ
+[Telegram:FinancialJuice] [2026-01-21T15:49:17+00:00] Denmark Foreign Minister: We'll maintain the diplomatic track regarding Greenland.| FJ
+[Telegram:FinancialJuice] [2026-01-21T15:52:43+00:00] Trump's Crypto Czar Sacks: I think the US is still in the lead in the AI race.| FJ
+[Telegram:FinancialJuice] [2026-01-21T15:55:19+00:00] Punchbowl Reporter Post on X on Fed's Cook Hearing: The Supreme Court hasn't been super jazzed about the White House's arguments this morning.| FJ
+[Telegram:FinancialJuice] [2026-01-21T16:03:07+00:00] White House posts study on AI and its impact on the US economy.| FJ
+[Telegram:WalterBloomberg] [2026-01-21T15:46:46+00:00] 🚨 DENMARK FOREIGN MINISTER: THE U.S. PRESIDENT'S AMBITION IS INTACT ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-21T15:47:03+00:00] DENMARK FOREIGN MINISTER: POSITIVE THAT HE DOES NOT PLAN TO USE FORCE ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-21T15:48:41+00:00] DENMARK FOREIGN MINISTER: WE'LL MAINTAIN THE DIPLOMATIC TRACK REGARDING GREENLAND ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-21T15:51:06+00:00] DENMARK FOREIGN MINISTER: WE ARE NOT NEGOTIATING TO COMPROMISE ON OUR FUNDAMENTAL PRINCIPLES ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-21T15:52:54+00:00] TRUMP ADVISER DAVID SACKS SAYS HE WORRIES U.S. COULD LOSE AI RACE DUE TO 'SELF-INFLICTED INJURY' ( @WalterBloomberg )
