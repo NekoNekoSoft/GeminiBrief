@@ -3,13 +3,13 @@
 [WEB] Pure Storage Stock Analysis: Buy, Hold, or Sell? (2025-05-24T16:14:00+00:00): A Fool since 2019, and a graduate of Cal State LA with a B.S. in Finance and M.A. in Economics. Parkev is an adjunct professor of Finance and enjoys reading about financial and economic history. You'll often find him writing about stocks in the consumer ...
 [WEB] JEPI vs. SPHD: Which monthly dividend ETF wins? (2025-12-09T17:05:00+00:00): Passive income investors like me are always on the lookout for different ways to generate extra income. If you can make your money work for you, why not? I believe investing should not only generate capital appreciation but also steady income. If you're ...
 [WEB] S&P 500 Index Forecast: Stock Market Eyes Plunge—Trendline Support at Risk (2026-01-14T16:39:00+00:00): Tech stocks lead decline as S&P 500 breaks uptrend line from November lows. Analysis shows markets losing vigor with potential rollover ahead.
-[Telegram:FinancialJuice] [2026-01-22T14:17:11+00:00] Ukraine’s President Zelenskiy: Discussed air defense for Ukraine with Trump| FJ
-[Telegram:FinancialJuice] [2026-01-22T14:21:18+00:00] Ukraine’s President Zelenskiy: Europe advises Ukraine not to mention Tomahawks to US| FJ
-[Telegram:FinancialJuice] [2026-01-22T14:26:26+00:00] Ukraine’s President Zelenskiy: The documents to end the war in Ukraine are nearly ready| FJ
-[Telegram:FinancialJuice] [2026-01-22T14:40:12+00:00] MOO Imbalance S&P 500: +204 mln Nasdaq 100: -25 mln Dow 30: +46 mln Mag 7: -34 mln| FJ
-[Telegram:FinancialJuice] [2026-01-22T15:01:29+00:00] US Core PCE Price Index MoM Actual 0.2% (Forecast 0.2%, Previous 0.2%) US Core PCE Price Index YoY Actual 2.791183% (Forecast 2.8%, Previous 2.8%) US PCE Price Index YoY Actual 2.8% (Forecast 2.8%, Previous 2.8%) US Consumer Spending MoM Actual 0.5% (Forecast 0.5%, Previous| FJ
-[Telegram:WalterBloomberg] [2026-01-22T14:26:21+00:00] ZELENSKIY SAYS DOCUMENTS TO END WAR IN UKRAINE NEARLY READY ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-22T14:47:10+00:00] 🇯🇵 JAPAN EXPORTS TO US FALL AS TRUMP TARIFFS HIT AUTOS Japanese exports to the US fell 4.1% last year, the first decline in five years, driven mainly by tariffs on automobiles. Vehicle shipments dropped 11.4%, and auto parts fell 10.7%. Meanwhile, imports from the US rose 1.6%, ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-22T14:49:36+00:00] BLACKROCK’S FINK SAYS NO AI BUBBLE BlackRock CEO Larry Fink said there is no bubble in artificial intelligence, citing the massive investment required to develop the technology. “I sincerely believe there is no bubble in the AI space,” Fink told Bloomberg at the World Economic ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-22T15:00:53+00:00] *US NOV. PERSONAL INCOME RISES 0.3% M/M; EST. +0.4% ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-22T15:02:06+00:00] *US NOV. PERSONAL SPENDING RISES 0.5% M/M; EST. +0.5% *US NOV. CORE PCE PRICE INDEX RISES 0.2% M/M; EST. +0.2% *US NOV. CORE PCE PRICE INDEX RISES 2.8% Y/Y; EST. +2.8% ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-01-22T15:52:19+00:00] Musk: By the end of next year, we will be selling humanoid robots to the public.| FJ
+[Telegram:FinancialJuice] [2026-01-22T15:53:14+00:00] Citi Research sees global growth finishing 2025 near-trend 2.9%. Citi sees global growth edging down to 2.8% in 2026 & 2027.| FJ
+[Telegram:FinancialJuice] [2026-01-22T15:54:06+00:00] Musk: Tesla will be selling Optimus to the public by the end of next year. $TSLA| FJ
+[Telegram:FinancialJuice] [2026-01-22T15:55:39+00:00] Musk: Robotaxi service will be very, very widespread by the end of this year within the US. Timeframe for self-driving approval in China is similar to Europe. $TSLA| FJ
+[Telegram:FinancialJuice] [2026-01-22T15:57:58+00:00] IMF's Managing Director Georgieva: I don't see a dot-com sort of problem with AI at the moment.| FJ
+[Telegram:WalterBloomberg] [2026-01-22T15:54:17+00:00] MUSK: ROBOTAXI SERVICE WILL BE VERY, VERY WIDESPREAD BY THE END OF THIS YEAR WITHIN THE U.S. ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-22T15:54:42+00:00] MUSK: TIMEFRAME FOR SELF-DRIVING APPROVAL IN CHINA SIMILAR TO EUROPE ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-22T15:55:12+00:00] ELON MUSK SAYS BY TESLA FULL SELF-DRIVING SOFTWARE IS SO SAFE THAT INSURANCE COS OFFERING CUSTOMERS HALF PRICE INSURANCE ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-22T15:59:12+00:00] ELON MUSK SAYS BUILDING AI SOLAR DATA CENTERS IN SPACE IS 'NO-BRAINER' ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-22T16:00:16+00:00] ELON MUSK SAYS WE MIGHT HAVE AI THAT IS SMARTER THAN ANY HUMAN BY THE END OF THIS YR, NO LATER THAN NEXT YR ( @WalterBloomberg )
