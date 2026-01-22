@@ -3,13 +3,13 @@
 [WEB] Pure Storage Stock Analysis: Buy, Hold, or Sell? (2025-05-24T16:14:00+00:00): A Fool since 2019, and a graduate of Cal State LA with a B.S. in Finance and M.A. in Economics. Parkev is an adjunct professor of Finance and enjoys reading about financial and economic history. You'll often find him writing about stocks in the consumer ...
 [WEB] JEPI vs. SPHD: Which monthly dividend ETF wins? (2025-12-09T17:05:00+00:00): Passive income investors like me are always on the lookout for different ways to generate extra income. If you can make your money work for you, why not? I believe investing should not only generate capital appreciation but also steady income. If you're ...
 [WEB] S&P 500 Forecast: Markets Look to Erase Weekly Losses on Greenland Framework News (2026-01-22T11:45:00+00:00): S&P 500 surges after Trump drops Europe tariffs and announces Greenland framework. Investors eye weekly recovery as index breaks above 50-day MA at 6895.50.
-[Telegram:FinancialJuice] [2026-01-22T11:17:53+00:00] Trump reiterates: I think Ukraine and Russia are getting closer| FJ
-[Telegram:FinancialJuice] [2026-01-22T11:26:08+00:00] $GE GE Aerospace Q4 2025 Earnings| FJ
-[Telegram:FinancialJuice] [2026-01-22T11:26:24+00:00] $GE GE Aerospace Q4 2025 Earnings Adj EPS $1.57, est. $1.44 Adj Rev. $11.87B, est. $11.22B| FJ
-[Telegram:FinancialJuice] [2026-01-22T11:37:17+00:00] WH Sr. Adviser Hassett: Recent inflation data may have been very promising| FJ
-[Telegram:FinancialJuice] [2026-01-22T11:40:52+00:00] WH Sr. Adviser Hassett: We might get two quarters in a row above 5%| FJ
-[Telegram:WalterBloomberg] [2026-01-21T22:39:06+00:00] GREENLAND DEAL FAR FROM DONE NATO Secretary General Mark Rutte said significant work remains on any Greenland agreement, despite U.S. President Donald Trump announcing a “framework of a future deal.” “I think it was a very good meeting tonight, but there’s still a lot of work ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-21T23:12:58+00:00] NATO SECRETARY GENERAL RUTTE WHEN ASKED IF GREENLAND WILL REMAIN WITH DENMARK: THAT ISSUE DID NOT COME UP IN MY CONVERSATION WITH TRUMP ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-22T01:49:04+00:00] SWEDEN WARNS: RECENT WEEKS SEVERELY DAMAGED EU–US TIES Swedish Deputy Prime Minister Ebba Busch told CNN that while President Trump’s decision to drop tariff threats on Europe was welcome, recent weeks have seriously strained relations. “We’re not out of the woods. The last few ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-22T02:32:10+00:00] U.S. NATGAS FUTURES SURGE 9% INTRADAY TO $5.315/MMBTU ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-22T03:09:05+00:00] GOLD PRICE FORECAST FOR DEC 2026 RAISED $500 BY GOLDMAN SACHS TO $5,400/OZ ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-01-22T13:30:42+00:00] US PCE Prices Final Actual 2.8% (Forecast -, Previous 2.8%)| FJ
+[Telegram:FinancialJuice] [2026-01-22T13:30:47+00:00] US GDP Deflator SA Final Actual 3.7% (Forecast -, Previous 3.7%)| FJ
+[Telegram:FinancialJuice] [2026-01-22T13:30:57+00:00] US GDP Price Index Actual 3.8% (Forecast 3.8%, Previous 3.8%)| FJ
+[Telegram:FinancialJuice] [2026-01-22T13:40:19+00:00] BofA CEO Moynihan: Card cap would slow spending and slow availability| FJ
+[Telegram:FinancialJuice] [2026-01-22T13:42:15+00:00] Bank of America's CEO Moynihan: BofA is talking to the administration about affordability issues| FJ
+[Telegram:WalterBloomberg] [2026-01-22T13:37:29+00:00] FRANCE WILL NOT JOIN BOARD OF PEACE FOR NOW ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-22T13:40:40+00:00] U.S. PRESIDENT TRUMP DEPARTS FROM ZURICH AIRPORT Trump has concluded an eventful stay in Davos and his motorcade is heading to the airport in Zurich for his flight back to Washington. ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-22T13:44:12+00:00] TRUMP HAS A LONG DRIVE BACK TO ZURICH Trump is leaving Davos, but bad weather kept his helicopter grounded, meaning he faces a drive from the mountain town to Air Force One that could take as long as two hours. ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-22T13:52:42+00:00] NASDAQ 100 FUTURES EXTEND PREMARKET GAIN TO 1% ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-22T13:53:19+00:00] US-NATO GREENLAND DEAL SIGNALS MISSILES AND MINES A new framework deal between the US and NATO would expand military and strategic activity in Greenland, including US missile deployments, mining rights, and a stronger alliance presence to counter Russia and China. The agreement ( @WalterBloomberg )
