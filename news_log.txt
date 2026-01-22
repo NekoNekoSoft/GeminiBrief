@@ -1,10 +1,15 @@
-[Telegram:FinancialJuice] [2026-01-22T17:05:46+00:00] EIA Crude Oil Inventories Actual 3.602M (Forecast -0.108M, Previous 3.391M) EIA Gasoline Inventories Actual 5.977M (Forecast 1.466M, Previous 8.977M) EIA Distillate Inventories Actual 3.348M (Forecast 0M, Previous -0.029M) EIA Crude Cushing Inventories Actual 1.478M (Forecast| FJ
-[Telegram:FinancialJuice] [2026-01-22T17:08:39+00:00] Bank of America and Citigroup weigh a new credit cards with a 10% rate. $BAC $C| FJ
-[Telegram:FinancialJuice] [2026-01-22T17:23:52+00:00] Trump sues JPMorgan and Dimon for $5 billion over alleged debanking - Fox Business. $JPM| FJ
-[Telegram:FinancialJuice] [2026-01-22T17:31:19+00:00] US Administration Official: The Trump Administration has required the majority of Venezuelan oil to be sold to the US, and China can buy the oil at fair market prices.| FJ
-[Telegram:FinancialJuice] [2026-01-22T17:33:20+00:00] EU's Kallas: We haven't seen the US agreement on Greenland.| FJ
-[Telegram:WalterBloomberg] [2026-01-22T17:27:34+00:00] TRUMP ADMINISTRATION HAS REQUIRED THE MAJORITY OF VENEZUELAN OIL TO BE SOLD TO THE U.S., CHINA CAN BUY THE OIL AT 'FAIR MARKET PRICES' -ADMINISTRATION OFFICIAL ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-22T17:28:07+00:00] BLACKROCK’S RIEDER SURGES AS FED CHAIR CONTENDER: AXIOS Traders now give BlackRock’s Rick Rieder strong odds of becoming the next Fed chair after his interview with President Trump. Rieder, BlackRock’s chief fixed-income officer, jumped from 3% to 35% on Kalshi, second only to ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-22T17:29:54+00:00] FRANCE'S MACRON:   WE REMAIN  EXTREMELY VIGILANT AND READY TO USE TOOLS AT OUR DISPOSAL IF WERE AGAIN THE TARGET OF THREATS ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-22T17:34:30+00:00] EU'S KALLAS: WE HAVEN'T SEEN THE US AGREEMENT ON GREENLAND ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-22T17:38:46+00:00] "WHILE WE REGRET PRESIDENT TRUMP HAS SUED US, WE BELIEVE THE SUIT HAS NO MERIT" - JPMORGAN STATEMENT ( @WalterBloomberg )
+[WEB] Here's (Almost) Everything Wall Street Expects in 2026 (2026-01-01T16:59:00+00:00): Over 700 key calls on how AI spending and government policies are set to fuel growth, inflation may prove hard to beat, private assets will continue their rise and the dollar will extend its decline.
+[WEB] Volatility roars back as the VIX surges above 20 on geopolitical jitters (2026-01-20T14:22:43+00:00): Market volatility surged back into focus on Tuesday as investor anxiety resurfaced across Wall Street. The Cboe Volatility Index (VIX), a closely watched measure of expected market turbulence, climbed decisively above the 20 threshold,
+[WEB] Pure Storage Stock Analysis: Buy, Hold, or Sell? (2025-05-24T16:14:00+00:00): A Fool since 2019, and a graduate of Cal State LA with a B.S. in Finance and M.A. in Economics. Parkev is an adjunct professor of Finance and enjoys reading about financial and economic history. You'll often find him writing about stocks in the consumer ...
+[WEB] JEPI vs. SPHD: Which monthly dividend ETF wins? (2025-12-09T17:05:00+00:00): Passive income investors like me are always on the lookout for different ways to generate extra income. If you can make your money work for you, why not? I believe investing should not only generate capital appreciation but also steady income. If you're ...
+[WEB] S&P 500 Forecast: US Indices Rally Today as Tech Stocks Lead Broad Gains (2026-01-22T18:19:00+00:00): Stock market rallies on easing tensions. S&P 500 breaks 50-day MA as Nvidia, Microsoft, Meta surge. Chip stocks rise ahead of Intel Q4 earnings report.
+[Telegram:FinancialJuice] [2026-01-22T21:55:55+00:00] Trump: I would rather not see something happen on Iran.| FJ
+[Telegram:FinancialJuice] [2026-01-22T21:55:55+00:00] Trump: Have a big force going toward Iran.| FJ
+[Telegram:FinancialJuice] [2026-01-22T21:57:59+00:00] Trump: We have a massive armada heading in the direction of Iran.| FJ
+[Telegram:FinancialJuice] [2026-01-22T21:58:30+00:00] Trump: 25% tariff on anyone dealing with Iran will take effect very soon.| FJ
+[Telegram:FinancialJuice] [2026-01-22T21:59:58+00:00] Trump: Not a huge fan of the 401k plan| FJ
+[Telegram:WalterBloomberg] [2026-01-22T22:07:28+00:00] TRUMP OPPOSES TAPPING 401(K)S FOR HOME FINANCING ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-22T22:11:04+00:00] TRUMP: GOING TO DO A LOT OF CAMPAIGN TRAVELING THIS YEAR ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-22T22:11:42+00:00] TRUMP: XI WILL COME TOWARD THE END OF THE YEAR ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-22T22:23:34+00:00] *INTEL SHARES EXTEND DECLINE TO 10% DURING EARNINGS CALL ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-22T22:26:43+00:00] TRUMP ON TRUTH SOCIAL: RECORD NUMBERS ALL OVER THE PLACE! SHOULD I TRY FOR A FOURTH TERM? ( @WalterBloomberg )
