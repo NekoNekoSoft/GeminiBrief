@@ -2,14 +2,14 @@
 [WEB] CBOE Volatility Index (VIX): What Does It Measure in Investing? (2024-08-07T00:00:00+00:00): Samantha (Sam) Silberstein, CFP®, CSLP®, EA, is an experienced financial consultant. She has a demonstrated history of working in both institutional and retail environments, from broker-dealers to RIAs. She is a current CFA level 3 candidate and also has ...
 [WEB] Pure Storage (PSTG) stock is up — what you need to know (2026-01-26T17:10:58+00:00): What Happened? Shares of data storage solutions provider Pure Storage (NYSE:PSTG) rose 1.8% in the morning session after the stock's positive momentum continued as the company emphasized its shareholder return strategy,
 [WEB] Should Invesco S&P 500 High Dividend Low Volatility ETF (SPHD) be on your investing radar? (2026-01-27T11:20:02+00:00): Designed to provide broad exposure to the Large Cap Value segment of the US equity market, the Invesco S&P 500 High Dividend Low Volatility ETF (SPHD) is a passively managed exchange traded fund launched on October 18,
-[WEB] NASDAQ Index and S&P 500 Forecasts - US Indices Continue to Look Upwards (2026-01-27T13:37:00+00:00): US indices look ready to attempt a breakout. This market continues to look strong, and likely to be moving on the latest earnings calls, of which we are about to get. Nasdaq daily candlestick chart. Source: TradingView, as of Jan 27, 2026. The Nasdaq 100 ...
-[Telegram:FinancialJuice] [2026-01-27T14:00:34+00:00] Effective fed funds rate: 3.64% January 26th vs 3.64% January 23rd| FJ
-[Telegram:FinancialJuice] [2026-01-27T14:01:43+00:00] ECB: Forex reserves rose €500 mln to €332.1 bln| FJ
-[Telegram:FinancialJuice] [2026-01-27T14:02:01+00:00] ECB bond holdings under PEPP €1.42 tln as of last week.| FJ
-[Telegram:FinancialJuice] [2026-01-27T14:02:05+00:00] ECB settled €245.1 bln corporate bond purchases.| FJ
-[Telegram:FinancialJuice] [2026-01-27T14:02:11+00:00] ECB settled €1,853.5 bln public-sector bond purchases.| FJ
-[Telegram:WalterBloomberg] [2026-01-27T13:47:20+00:00] 🇯🇵 *KATAYAMA: TO TAKE APPROPRIATE STEPS ON FX COORDINATING WITH US *KATAYAMA: WILL TAKE ACTION IN LINE WITH US-JAPAN FX AGREEMENT ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-27T13:47:38+00:00] TRUMP: NYC HEADING IN THE WRONG DIRECTION AT THE MOMENT ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-27T13:53:13+00:00] YALE WILL GO TUITION-FREE FOR FAMILIES MAKING UP TO $200,000 ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-27T13:53:41+00:00] TRUMP: HAD 'RESPECTFUL' CALLS WITH FREY, WALZ ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-27T13:59:09+00:00] TRUMP: GREENLAND IS COMING ALONG WELL ( @WalterBloomberg )
+[WEB] NASDAQ Index and S&P 500 Forecasts - US Indices Continue to Look Upwards (2026-01-27T14:03:00+00:00): US indices look ready to attempt a breakout. This market continues to look strong, and likely to be moving on the latest earnings calls, of which we are about to get.
+[Telegram:FinancialJuice] [2026-01-27T14:16:14+00:00] Canada's PM Carney: I told Trump "I meant what I said in Davos" and Canada is responding to change in US trade policy| FJ
+[Telegram:FinancialJuice] [2026-01-27T14:27:32+00:00] US natural gas futures extend losses, prices down by 10% as output slowly returns and demand declines in the central part of the country, now that the worst of the Arctic storm has moved into the northeast region.| FJ
+[Telegram:FinancialJuice] [2026-01-27T14:31:44+00:00] MOO Imbalance S&P 500: -49 mln Nasdaq 100: +22 mln Dow 30: -62 mln Mag 7: +18 mln| FJ
+[Telegram:FinancialJuice] [2026-01-27T15:02:44+00:00] US CB Consumer Confidence Actual 84.5 (Forecast 91, Previous 89.1)| FJ
+[Telegram:FinancialJuice] [2026-01-27T15:02:52+00:00] Richmond Fed Comp. Index Actual -6 (Forecast -5, Previous -7)| FJ
+[Telegram:WalterBloomberg] [2026-01-27T14:36:08+00:00] US DOLLAR EXTENDS FALL VS YEN, SLIDES BELOW 153, LAST DOWN 0.8% AT 152.94 YEN ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-27T14:50:02+00:00] TRUMP ADMINISTRATION SUED OVER TWO DEATHS IN BOAT STRIKE OFF VENEZUELA'S COAST ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-27T14:50:12+00:00] EUR/USD 1-YEAR OPTIONS MOST BULLISH SINCE MARCH 2020 ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-27T14:50:55+00:00] CITI SEES SILVER AT $150 Citi raised its silver price target to $150/oz from $100, citing strong speculative demand and tightening physical supply outside the U.S. It warns short-term profit-taking from Chinese investors could pressure prices. Silver futures are down 5.7% after ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-27T15:00:24+00:00] *US JAN. CONSUMER CONFIDENCE 84.5; EST. 91.0 ( @WalterBloomberg )
