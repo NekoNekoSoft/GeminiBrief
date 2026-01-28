@@ -3,13 +3,13 @@
 [WEB] Pure Storage (PSTG) stock is up — what you need to know (2026-01-26T17:10:58+00:00): What Happened? Shares of data storage solutions provider Pure Storage (NYSE:PSTG) rose 1.8% in the morning session after the stock's positive momentum continued as the company emphasized its shareholder return strategy,
 [WEB] This Invesco ETF Pays a 4.71% Yield With 50 Low-Volatility Dividend Stocks (3x the S&P 500) (2025-12-10T00:00:00+00:00): SPHD yields 4.71% through 50 equal-weighted stocks in defensive sectors with a 0.30% expense ratio. Top holdings include Pfizer (6.53% yield), Altria (7.04% yield with 77.9% payout ratio), and Healthpeak REIT (7.14% yield). SCHD offers 3.5% yield with ...
 [WEB] NASDAQ Index and S&P 500 Forecasts - US Indices Continue to Look Upwards (2026-01-27T14:03:00+00:00): US indices look ready to attempt a breakout. This market continues to look strong, and likely to be moving on the latest earnings calls, of which we are about to get.
-[Telegram:FinancialJuice] [2026-01-28T13:29:52+00:00] Fiscal stimulus will drive two thirds of German growth expected this year - Economy Ministry Report.| FJ
-[Telegram:FinancialJuice] [2026-01-28T13:30:13+00:00] Negative contribution expected from net trade again in Germany in 2026 - German Economy Ministry Report.| FJ
-[Telegram:FinancialJuice] [2026-01-28T13:36:50+00:00] German Economy Minister Reiche: German economy expected to grow by 1.3% in 2027.| FJ
-[Telegram:FinancialJuice] [2026-01-28T13:42:19+00:00] Kremlin confirms trilateral talks planned for February 1st - IFX| FJ
-[Telegram:FinancialJuice] [2026-01-28T14:00:30+00:00] Effective Fed Funds Rate 3.64% Jan. 27th vs 3.64% Jan. 26th| FJ
-[Telegram:WalterBloomberg] [2026-01-28T13:31:55+00:00] BESSENT:ANNOUNCEMENTS COMING ON PHILANTHROPISTS, TRUMP ACCOUNTS ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-28T13:41:39+00:00] EM MARKETS RALLY AS TRUMP SHRUGS OFF WEAK DOLLAR Emerging-market currencies and stocks rose as Trump downplayed concerns about the dollar. EM currencies gained 0.3% and stocks jumped 1.6%, led by Asian tech shares. Investors see continued dollar weakness boosting flows into ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-28T13:42:04+00:00] RUSSIA, UKRAINE, US TALKS TO CONTINUE ON FEB. 1 - IFAX ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-28T13:42:20+00:00] BONDS NO LONGER A SAFE HEDGE, SAYS BLACKROCK BlackRock says bonds no longer offer reliable portfolio protection amid rising volatility. Spikes in long-term yields are fueling debt concerns, driven largely by U.S. tariff risks, with impacts strongest in Japan. The firm remains ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-28T13:50:27+00:00] TETHER HAS QUIETLY AMASSED AROUND 140 TONS OF GOLD Tether has quietly amassed around 140 tons of gold—worth about $24 billion—making it the largest known private holder outside banks and governments. The crypto giant is buying 1–2 tons per week, storing bullion in a former Swiss ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-01-28T14:41:13+00:00] ECB's Simkus: EUR-USD level doesn't imply any policy direction.| FJ
+[Telegram:FinancialJuice] [2026-01-28T14:41:16+00:00] ECB's Simkus: The current ECB stance fits the current situation very well.| FJ
+[Telegram:FinancialJuice] [2026-01-28T14:45:17+00:00] BREAKING: BoC Rate Decision Actual 2.25% (Forecast 2.25%, Previous 2.25%)| FJ
+[Telegram:FinancialJuice] [2026-01-28T14:52:47+00:00] BoC Rate Statement BoC Monetary Policy| FJ
+[Telegram:FinancialJuice] [2026-01-28T15:02:30+00:00] Switzerland plans a VAT increase for 10 years to revamp its military. Switzerland to increase sales tax rate by 0.8 percentage points from 2028 to help fund the plan.| FJ
+[Telegram:WalterBloomberg] [2026-01-28T14:46:37+00:00] $NVDA $AMZN - NVIDIA AND AMAZON MAY BE PART OF OPENAI FUNDING ROUND - CNBC'S FABER ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-28T14:48:02+00:00] GERMAN CHANCELLOR MERZ: BASIS FOR RATIFICATION OF EU-US TRADE AGREEMENT IS IN PLACE, BUT US MUST HONOUR ITS COMMITMENTS ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-28T14:48:41+00:00] GERMAN'S MERZ: WE ARE NOT PREPARED TO ACCEPT A DETERIORATION OF TRADE DEAL ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-28T14:53:37+00:00] GERMANY'S MERZ: I HAVE NO REASON TO DOUBT HEALTH OF US PRESIDENT TRUMP ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-28T15:02:06+00:00] US DEBT RATING STABLE, SECOND DOWNGRADE UNLIKELY – FITCH Fitch says a second U.S. credit downgrade is unlikely soon, as the 2023 cut to AA+ already reflects current fiscal pressures. The stable outlook means no downgrade is expected in the next one to two years, with the ( @WalterBloomberg )
