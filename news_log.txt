@@ -1,10 +1,15 @@
-[Telegram:FinancialJuice] [2026-01-29T08:12:32+00:00] Germany’s Chancellor Merz: The EU must urgently close the growth gap to US and China| FJ
-[Telegram:FinancialJuice] [2026-01-29T08:14:04+00:00] German Chancellor Merz: We Europeans have been united in our determination not to be intimidated by tariff threats again| FJ
-[Telegram:FinancialJuice] [2026-01-29T10:06:14+00:00] Kremlin: Still waiting for US response on Putin's offer to extend limits in the expiring nuclear treaty| FJ
-[Telegram:FinancialJuice] [2026-01-29T10:06:32+00:00] Kremlin: Potential for negotiations on Iran is not exhausted| FJ
-[Telegram:FinancialJuice] [2026-01-29T10:06:44+00:00] Kremlin: No comment on reports that Russia and Ukraine have agreed ceasefire regarding energy infrastructure| FJ
-[Telegram:WalterBloomberg] [2026-01-28T21:03:53+00:00] *META SEES 2026 CAPEX $115B TO $135B, EST. $110.62B *META SEES 2026 TOTAL EXPENSES $162B TO $169B, EST. $151B ( @WalterBloomberg )
+[WEB] A Macroeconomic Perspective on Stock Market Valuation Ratios (2026-01-26T06:37:00+00:00): Traditional valuation metrics for the U.S. stock market based on a comparison of the aggregate market value of U.S. corporations to measures of dividends, earnings, output, and the replacement cost of measured capital have been above historical norms for the past 25-30 years.
+[WEB] CBOE Volatility Index (VIX): What Does It Measure in Investing? (2024-08-07T00:00:00+00:00): Samantha (Sam) Silberstein, CFP®, CSLP®, EA, is an experienced financial consultant. She has a demonstrated history of working in both institutional and retail environments, from broker-dealers to RIAs. She is a current CFA level 3 candidate and also has ...
+[WEB] Pure Storage (PSTG) stock is up — what you need to know (2026-01-26T17:10:58+00:00): What Happened? Shares of data storage solutions provider Pure Storage (NYSE:PSTG) rose 1.8% in the morning session after the stock's positive momentum continued as the company emphasized its shareholder return strategy,
+[WEB] JEPI vs. SPHD: Which monthly dividend ETF wins? (2025-12-09T17:05:00+00:00): Passive income investors like me are always on the lookout for different ways to generate extra income. If you can make your money work for you, why not? I believe investing should not only generate capital appreciation but also steady income. If you're ...
+[WEB] NASDAQ Index and S&P 500 Forecasts - US Indices Continue to Look Upwards (2026-01-27T14:03:00+00:00): US indices look ready to attempt a breakout. This market continues to look strong, and likely to be moving on the latest earnings calls, of which we are about to get.
+[Telegram:FinancialJuice] [2026-01-29T11:00:27+00:00] $TMO Thermo Fisher Q4 2025 Earnings Adj EPS $6.57, est. $6.45 Rev. $12.22B, est. $11.95B| FJ
+[Telegram:FinancialJuice] [2026-01-29T11:05:30+00:00] Russia is unaware of guarantees agreed upon by the United States and Ukraine - TASS| FJ
+[Telegram:FinancialJuice] [2026-01-29T11:09:35+00:00] China's Premier Li: China are to deepen AI and finance cooperation with the UK - CCTV| FJ
+[Telegram:FinancialJuice] [2026-01-29T11:13:25+00:00] Microsoft removed as top pick at Morgan Stanley. $MSFT| FJ
+[Telegram:FinancialJuice] [2026-01-29T11:30:49+00:00] $CAT Caterpillar Q4 2025 Earnings Adj EPS $5.16, est. $4.69 Rev. $19.13B, est. $17.26B| FJ
 [Telegram:WalterBloomberg] [2026-01-28T21:05:37+00:00] *TESLA 4Q ADJ EPS 50C, EST. 45C ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-01-28T21:08:06+00:00] *TESLA 4Q REV. $24.90B, EST. $25.11B *TESLA 4Q OPER INCOME $1.41B, EST. $1.32B *TESLA 4Q ADJ EPS 50C, EST. 45C ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-01-28T21:43:48+00:00] ZELENSKY: RUSSIA PLANS MASSIVE NEW STRIKE Ukrainian President Volodymyr Zelensky said intelligence shows Russia is preparing a major new attack. He warned that Ukraine’s energy and heating systems remain vulnerable and urged Europe, the U.S., and the EU to act. Zelensky said ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-01-28T21:49:39+00:00] UNITED STATES IS HANDING OVER A SEIZED OIL TANKER TO VENEZUELA, TWO U.S. OFFICIALS SAY ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-29T11:18:11+00:00] MICROSOFT REMOVED AS TOP PICK AT MORGAN STANLEY ( @WalterBloomberg )
