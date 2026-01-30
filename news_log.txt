@@ -1,13 +1,8 @@
-[WEB] A Macroeconomic Perspective on Stock Market Valuation Ratios (2026-01-26T06:37:00+00:00): Traditional valuation metrics for the U.S. stock market based on a comparison of the aggregate market value of U.S. corporations to measures of dividends, earnings, output, and the replacement cost of measured capital have been above historical norms for the past 25-30 years.
-[WEB] The S&P 500 is near record highs, but volatility is rearing its ugly head. The best way to play it now (2026-01-29T20:39:48+00:00): The volatility market of 2026 is a far cry from the calm, suppressed environment of the late 2010s. We have entered what analysts call a high-floor era. That's where the CBOE Volatility Index ($VIX) rarely dips below 15 and frequently spikes toward 30.
-[WEB] Pure Storage (PSTG) stock is up — what you need to know (2026-01-26T17:10:58+00:00): What Happened? Shares of data storage solutions provider Pure Storage (NYSE:PSTG) rose 1.8% in the morning session after the stock's positive momentum continued as the company emphasized its shareholder return strategy,
-[WEB] This Invesco ETF Pays a 4.71% Yield With 50 Low-Volatility Dividend Stocks (3x the S&P 500) (2025-12-10T00:00:00+00:00): SPHD yields 4.71% through 50 equal-weighted stocks in defensive sectors with a 0.30% expense ratio. Top holdings include Pfizer (6.53% yield), Altria (7.04% yield with 77.9% payout ratio), and Healthpeak REIT (7.14% yield). SCHD offers 3.5% yield with ...
-[WEB] NASDAQ Index and S&P 500 Forecasts - US Indices Continue to Look Upwards (2026-01-27T14:03:00+00:00): US indices look ready to attempt a breakout. This market continues to look strong, and likely to be moving on the latest earnings calls, of which we are about to get.
-[Telegram:FinancialJuice] [2026-01-30T06:40:41+00:00] China December smartphone shipments down 29.4% YoY - CAICT| FJ
-[Telegram:FinancialJuice] [2026-01-30T06:40:49+00:00] China 2025 smartphone shipments down 3.3% Y/Y - CAICT.| FJ
-[Telegram:FinancialJuice] [2026-01-30T06:57:04+00:00] China gives DeepSeek a conditional nod for Nvidia H200 chips. $NVDA - Sources| FJ
-[Telegram:FinancialJuice] [2026-01-30T06:59:20+00:00] Fitch: Tariff risks remain for South Korea| FJ
-[Telegram:FinancialJuice] [2026-01-30T07:06:06+00:00] MUFG raises February preferred 10-year fixed mortgage rate to 2.75%.| FJ
+[Telegram:FinancialJuice] [2026-01-30T08:55:43+00:00] German Unemployment Change SA Actual 0k (Forecast 3k, Previous 3k)| FJ
+[Telegram:FinancialJuice] [2026-01-30T09:00:58+00:00] ECB Poll: Eurozone consumers raise 5-year-ahead inflation expectations to 2.4%, the highest since the survey began, from 2.2%| FJ
+[Telegram:FinancialJuice] [2026-01-30T10:00:24+00:00] Eurozone GDP QoQ Prelim Flash Actual 0.3% (Forecast 0.2%, Previous 0.3%)| FJ
+[Telegram:FinancialJuice] [2026-01-30T10:00:30+00:00] Eurozone GDP YoY Prelim Flash Actual 1.3% (Forecast 1.3%, Previous 1.4%)| FJ
+[Telegram:FinancialJuice] [2026-01-30T10:00:36+00:00] Eurozone Unemployment Rate Actual 6.2% (Forecast 6.3%, Previous 6.3%)| FJ
 [Telegram:WalterBloomberg] [2026-01-29T18:57:31+00:00] MUSK CONSIDERS MERGING SPACEX AND XAI SpaceX and xAI are reportedly in talks to merge, which would unite SpaceX, Starlink, X, and Grok AI under one company, according to Reuters. The discussions come ahead of SpaceX’s anticipated public debut. ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-01-29T23:03:52+00:00] WHITE HOUSE: TRUMP SIGNED AN EXECUTIVE ORDER DECLARING A NATIONAL EMERGENCY AND ESTABLISHING A PROCESS TO IMPOSE TARIFFS ON GOODS FROM COUNTRIES THAT SELL OR OTHERWISE PROVIDE OIL TO CUBA ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-01-30T00:15:29+00:00] TRUMP: ANNOUNCING FED CHAIR PICK TOMORROW MORNING ( @WalterBloomberg )
