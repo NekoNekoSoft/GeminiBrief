@@ -1,10 +1,15 @@
-[Telegram:FinancialJuice] [2026-01-31T11:54:06+00:00] Explosion in Irans southern port of Bandar Abbas, Iranian media denies report commander of Revolutionary Guards targeted| FJ
-[Telegram:FinancialJuice] [2026-01-31T12:23:40+00:00] Iran's Revolutionary Guards denies rumor of Guards Navy Chief assassination - state media| FJ
+[WEB] The US economy seems strong after a year of Trump, but is it really? (2026-01-19T17:02:00+00:00): While economic growth is strong, the gap between the haves and have-nots is widening.
+[WEB] The S&P 500 is near record highs, but volatility is rearing its ugly head. The best way to play it now (2026-01-29T20:39:48+00:00): The volatility market of 2026 is a far cry from the calm, suppressed environment of the late 2010s. We have entered what analysts call a high-floor era. That's where the CBOE Volatility Index ($VIX) rarely dips below 15 and frequently spikes toward 30.
+[WEB] Pure Storage (PSTG) stock is up — what you need to know (2026-01-26T17:10:58+00:00): What Happened? Shares of data storage solutions provider Pure Storage (NYSE:PSTG) rose 1.8% in the morning session after the stock's positive momentum continued as the company emphasized its shareholder return strategy,
+[WEB] The Safest Dividend ETFs to Hold When Interest Rates Start Falling (2026-01-31T00:48:00+00:00): When rates begin to fall, securities like bonds tend to look less effective and attractive due to their low yields. And as investors get closer to retirement, fixed-income securities like bonds may make up a bulk of their portfolios.
+[WEB] NASDAQ Index and S&P 500 Forecasts - US Indices Continue to Look Upwards (2026-01-27T14:03:00+00:00): US indices look ready to attempt a breakout. This market continues to look strong, and likely to be moving on the latest earnings calls, of which we are about to get.
 [Telegram:FinancialJuice] [2026-01-31T13:25:01+00:00] Four killed in gas explosion at residential building in Iran's Ahvaz - Iran's state-run Tehran Times One killed and 14 injured in explosion in Iran's Bandar Abbas says local official to news agencies| FJ
 [Telegram:FinancialJuice] [2026-01-31T13:41:54+00:00] Israel is not involved in Iran blasts, two Israeli officials state| FJ
 [Telegram:FinancialJuice] [2026-01-31T16:15:38+00:00] Gas leak caused explosion at building in Iran's Bandar Abbas: state media citing fire department chief| FJ
-[Telegram:WalterBloomberg] [2026-01-31T12:45:07+00:00] NVIDIA'S HUANG: LET SAM ALTMAN ANNOUNCE HOW MUCH HE’S GOING TO RAISE ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-31T12:46:07+00:00] NVIDIA'S HUANG: OPENAI INVESTMENT TO 'PROBABLY THE LARGEST INVESTMENT WE’VE EVER MADE' ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-01-31T12:46:50+00:00] NVIDIA'S HUANG, ASKED IF OPENAI INVESTMENT WOULD BE $100 BILLION: 'NO, NOTHING LIKE THAT' ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-01-31T17:47:48+00:00] A structure for negotiations is being set up with United States: top Iranian security official Larijani says in post on X| FJ
+[Telegram:FinancialJuice] [2026-01-31T18:54:04+00:00] Iraq's Shiite political alliance reaffirms support for Nouri al-Maliki as its candidate for PM - statement| FJ
 [Telegram:WalterBloomberg] [2026-01-31T12:47:52+00:00] IAEA: CHORNOBYL SITE BRIEFLY LOST ALL OFF-SITE POWER. UKRAINE WORKING TO STABILIZE GRID AND RESTORE OUTPUT;  NO DIRECT IMPACT ON NUCLEAR SAFETY EXPECTED ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-01-31T13:43:22+00:00] ISRAEL IS NOT INVOLVED IN IRAN BLASTS, TWO ISRAELI OFFICIALS SAY ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-31T18:44:33+00:00] $MSTR - BITCOIN FALLS BELOW MICROSTATEGY’S COST BASIS ($76,037) FOR FIRST TIME SINCE OCT 2023 ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-31T18:59:53+00:00] FORD HELD TALKS WITH CHINA’S XIAOMI OVER EV PARTNERSHIP-FT ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-01-31T20:12:39+00:00] RAY DALIO ON FED CAHIR- KEVIN WARSH WAS A GREAT CHOICE, HE UNDERSTANDS RISKS OF HAVING FED POLICY THAT IS TOO EASY AS WELL AS TOO TIGHT ( @WalterBloomberg )
