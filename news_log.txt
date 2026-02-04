@@ -3,13 +3,13 @@
 [WEB] Pure Storage Stock Analysis: Buy, Hold, or Sell? (2025-05-24T08:14:00+00:00): Pure Storage (NYSE: PSTG) is experiencing an increase in demand for its products due to the rising effectiveness of artificial intelligence. Where to invest $1,000 right now? Our analyst team just revealed what they believe are the 10 best stocks to buy ...
 [WEB] 5 Dividend ETFs I'd Buy Instead of Chasing 9%+ Yield Traps (2026-02-01T05:16:00+00:00): To generate a passive stream of income along with the potential for capital appreciation, many investors utilize dividend ETFs in their portfolios. But you may think that investing in dividend ETFs is as easy as dumping your money into the ETFs with the highest yields.
 [WEB] NASDAQ Index and S&P 500 Forecasts - US Indices Continue to Look Upwards (2026-01-27T14:03:00+00:00): US indices look ready to attempt a breakout. This market continues to look strong, and likely to be moving on the latest earnings calls, of which we are about to get.
-[Telegram:FinancialJuice] [2026-02-04T09:30:19+00:00] UK Composite PMI Final Actual 53.7 (Forecast 53.9, Previous 53.9)| FJ
-[Telegram:FinancialJuice] [2026-02-04T11:29:11+00:00] EU is advancing plans to stockpile critical materials, with Italy, France and Germany set to take leading roles - Sources| FJ
-[Telegram:FinancialJuice] [2026-02-04T11:45:47+00:00] $LLY Eli Lilly Q4 2025 earnings Adj EPS $7.54, est. $6.73 Rev. $19.29B, est. $18.01B| FJ
-[Telegram:FinancialJuice] [2026-02-04T11:50:59+00:00] $LLY Eli Lilly Q4 2025 earnings Adj EPS $7.54, est. $6.73 Rev. $19.29B, est. $18.01B Mounjaro rev. $7.41B, est. $6.75B Zepbound rev. $4.26B, est. $3.8B. Sees 2026 rev. $80B to $83B, est. $77.71B Sees 2026 adj eps $33.50 to $35| FJ
-[Telegram:FinancialJuice] [2026-02-04T11:56:02+00:00] $UBER Uber Q4 2025 Earnings EPS $0.14 Adj EPS $0.65-$0.72, est. $0.79 Rev. $14.37B, est.  $14.29B| FJ
-[Telegram:WalterBloomberg] [2026-02-03T22:15:17+00:00] Trump says time to turn the page on Epstein scandal ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-03T22:18:15+00:00] OPENAI ON CHATGPT ISSUES: ALL IMPACTED SERVICES HAVE NOW FULLY RECOVERED ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-04T03:24:12+00:00] $NVDA - NVIDIA AI CHIP SALES TO CHINA STALLED BY US SECURITY REVIEW- FT CHINESE CUSTOMERS ARE MEANWHILE NOT PLACING H200 CHIP ORDERS WITH NVIDIA - FT ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-04T03:25:03+00:00] NVIDIA’S H200 SALES TO CHINA STALLED BY U.S. SECURITY REVIEW Nvidia’s sales of its H200 AI chips to China remain on hold nearly two months after export approval, pending final U.S. government clearance. While the Commerce Department has completed its review, the State Department ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-04T11:25:51+00:00] KREMLIN SAYS IT HAS NOT SEEN ANY NEW DEVELOPMENTS WHEN IT COMES TO INDIA AND RUSSIAN OIL ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-02-04T13:29:41+00:00] Iran's ISNA news agency: Nuclear talks with the US are to be held on Friday in Oman, format similar to previous rounds| FJ
+[Telegram:FinancialJuice] [2026-02-04T13:30:09+00:00] ISNA: US Envoy Witkoff and Iran's Foreign Minister Araghi to take part in Oman talks| FJ
+[Telegram:FinancialJuice] [2026-02-04T13:36:05+00:00] Iran-US talks limited to nuclear issue and sanctions relief - Tasnim| FJ
+[Telegram:FinancialJuice] [2026-02-04T14:02:08+00:00] Amazon discusses special access to OpenAI tech - Information| FJ
+[Telegram:FinancialJuice] [2026-02-04T14:30:47+00:00] MOO Imbalance S&P 500: +152 mln Nasdaq 100: +23 mln Dow 30: +48 mln Mag 7: +20 mln| FJ
+[Telegram:WalterBloomberg] [2026-02-04T14:05:02+00:00] AMAZON COULD USE CUSTOMIZED OPENAI MODELS FOR ALEXA:INFORMATION ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-04T14:16:27+00:00] *TRUMP ADMIN. PULLS 700 AGENTS FROM MINNEAPOLIS IMMEDIATELY ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-04T14:18:53+00:00] U.S. VICE PRESIDENT VANCE:  U.S. WILL ESTABLISH SYSTEM CREATING PRICE FLOORS FOR CRITICAL MINERALS U.S. IS PROPOSING A TRADING BLOC FOR CRITICAL MINERALS, VANCE SAYS ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-04T14:19:18+00:00] $NVDA - WOLFE CALLS NVIDIA VALUATION ‘VERY ATTRACTIVE’ Wolfe Research says Nvidia’s stock is compelling again, with fundamentals intact despite recent consolidation. Analyst Chris Caso highlights strong long-term earnings growth, AI-driven unit and pricing tailwinds, and ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-04T14:29:59+00:00] EU AMBASSADORS AGREE ON 90 BILLION EURO LOAN FOR UKRAINE, EU DIPLOMATS SAY ( @WalterBloomberg )
