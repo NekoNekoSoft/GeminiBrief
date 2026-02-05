@@ -8,8 +8,8 @@
 [Telegram:FinancialJuice] [2026-02-04T21:52:17+00:00] TSMC to make 3NM chips in Japan's Kumamoto - Yomiuri $TSM| FJ
 [Telegram:FinancialJuice] [2026-02-04T21:59:48+00:00] Alphabet Executive: R&D expenses increased by 42%, driven by AI talent and Waymo. $GOOGL| FJ
 [Telegram:FinancialJuice] [2026-02-04T22:18:02+00:00] Trump administration willing to allow China's ByteDance to buy Nvidias H200 chips but Nvidia has not agreed to conditions for use - source $NVDA| FJ
-[Telegram:WalterBloomberg] [2026-02-04T19:15:17+00:00] TRUMP SAYS MINNEAPOLIS TAUGHT HIM 'SOFTER TOUCH' COULD BE NEEDED ON IMMIGRATION ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-04T19:56:58+00:00] FCC: SPACE BUREAU ACCEPTS FOR FILING SPACEX’S APPLICATION FOR ORBITAL DATA CENTERS ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-04T20:03:13+00:00] *IRAN'S ARAGHCHI CONFIRMS NUCLEAR TALKS WITH US IN OMAN FRIDAY ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-04T21:53:24+00:00] ALPHABET CEO: APPLE PICKED GOOGLE CLOUD AS ITS PREFERRED CLOUD PROVIDER - CONF CALL ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-02-04T22:02:26+00:00] ARGENTINA AND US REACHED DEAL ON CRITICAL MINERALS, ARGENTINA FOREIGN MINISTRY SAYS ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-04T23:57:26+00:00] *TRUMP TO MAKE ANNOUNCEMENT 7PM THURS ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-05T02:53:42+00:00] SPOT SILVER EXTENDS LOSSES, LAST DOWN OVER 15% AT $74.68/OZ ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-05T02:54:14+00:00] SPOT GOLD EXTENDS LOSSES, LAST DOWN 3% TO $4,809.87/OZ ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-05T03:45:52+00:00] $1 TRILLION TECH WIPEOUT AS AI FEARS SPREAD Tech stocks lost about $1 trillion as investors worry AI will disrupt traditional business models. What began in software stocks quickly spread across global markets, with investors now demanding real profits, not just growth promises ( @WalterBloomberg )
