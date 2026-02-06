@@ -1,15 +1,10 @@
-[WEB] Record Stock Valuations, Fed Independence, And Macro Volatility (2026-01-31T05:30:00+00:00): As political pressure on the Fed intensifies and markets ponder the nomination of a new Chair, understanding this chain of risk is increasingly important for investors. Read more here.
-[WEB] Volatility roars back: VIX tops 20 amid tech and crypto sell-offs (2026-02-05T15:47:00+00:00): Leveraged Volatility Funds: The ProShares Ultra VIX Short-Term Futures ETF ( UVXY ), ProShares Short VIX Short-Term Futures ETF ( SVXY ), and 2x Long VIX Futures ETF ( UVIX ).
-[WEB] Pure Storage Stock Analysis: Buy, Hold, or Sell? (2025-05-24T08:14:00+00:00): Pure Storage (NYSE: PSTG) is experiencing an increase in demand for its products due to the rising effectiveness of artificial intelligence. Where to invest $1,000 right now? Our analyst team just revealed what they believe are the 10 best stocks to buy ...
-[WEB] 5 Dividend ETFs I'd Buy Instead of Chasing 9%+ Yield Traps (2026-02-01T05:16:00+00:00): To generate a passive stream of income along with the potential for capital appreciation, many investors utilize dividend ETFs in their portfolios. But you may think that investing in dividend ETFs is as easy as dumping your money into the ETFs with the highest yields.
-[WEB] NASDAQ Index and S&P 500 Forecasts - US Indices Continue to Look Upwards (2026-01-27T14:03:00+00:00): US indices look ready to attempt a breakout. This market continues to look strong, and likely to be moving on the latest earnings calls, of which we are about to get.
-[Telegram:FinancialJuice] [2026-02-06T06:39:20+00:00] ECB's Escriva: Inflation is at target, expectations are anchored| FJ
-[Telegram:FinancialJuice] [2026-02-06T06:45:22+00:00] ECB's Villeroy: Downside inflation risks are probably more significant| FJ
-[Telegram:FinancialJuice] [2026-02-06T06:45:48+00:00] ECB's Villeroy: The ECB has no FX target, but it's important for activity| FJ
-[Telegram:FinancialJuice] [2026-02-06T07:03:11+00:00] ECB's Kazaks: Shouldn't exaggerate single data points| FJ
-[Telegram:FinancialJuice] [2026-02-06T07:46:27+00:00] The US and Iran begin nuclear talks in Oman - Iran's SNN| FJ
-[Telegram:WalterBloomberg] [2026-02-06T00:01:01+00:00] NASDAQ FUTURES EXTEND SLIDE, DOWN 1.2%; S&P 500 FUTURES FALL 0.7% ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-02-06T09:50:13+00:00] Oman: We mediated indirect talks between Iran and the US - AP| FJ
+[Telegram:FinancialJuice] [2026-02-06T09:51:14+00:00] Oman: Iran-US talks focused on conditions to resume negotiations| FJ
+[Telegram:FinancialJuice] [2026-02-06T09:55:42+00:00] Oman minister held separate talks with US and Iran delegations| FJ
+[Telegram:FinancialJuice] [2026-02-06T09:56:06+00:00] Iran is going to the second round of consultations with Oman minister| FJ
+[Telegram:FinancialJuice] [2026-02-06T10:06:14+00:00] Russian ambassador on disarmament: If there is a serious talk of multilateral negotiations on nuclear weapons control or reductions, then Russia would, in principle, be involved if the UK and France are involved| FJ
 [Telegram:WalterBloomberg] [2026-02-06T00:05:08+00:00] BITCOIN REVERSES EARLIER GAIN, DOWN 1.9%; ETHER FALLS 2.4% ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-02-06T00:23:16+00:00] *KOREA'S KOSPI INDEX FALLS 5% AS GLOBAL TECH SELLOFF EXTENDS ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-02-06T01:29:42+00:00] BITCOIN RISES 1.3% TO $64,111.00, REVERSING EARLIER LOSSES, FACTSET DATA SHOW ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-02-06T02:07:39+00:00] VICE PRESIDENT OF THE BANK OF CHINA EXPELLED FROM THE PARTY FOR SERIOUS VIOLATIONS OF DISCIPLINE AND LAW - XINHUA ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-06T09:48:31+00:00] NVIDIA SHARES UP 2% PREMARKET AFTER FIVE-STRAIGHT DAYS OF LOSSES ( @WalterBloomberg )
