@@ -1,15 +1,15 @@
-[WEB] Key Macroeconomic Indicators Impacting the US Stock Market (2026-01-06T09:32:00+00:00): Discover how GDP, inflation, and employment can impact the US stock market. Learn to interpret key economic indicators to better position your portfolio for market shifts.
+[WEB] Record Stock Valuations, Fed Independence, And Macro Volatility (2026-01-31T05:30:00+00:00): As political pressure on the Fed intensifies and markets ponder the nomination of a new Chair, understanding this chain of risk is increasingly important for investors. Read more here.
 [WEB] Volatility roars back: VIX tops 20 amid tech and crypto sell-offs (2026-02-05T15:47:00+00:00): Leveraged Volatility Funds: The ProShares Ultra VIX Short-Term Futures ETF ( UVXY ), ProShares Short VIX Short-Term Futures ETF ( SVXY ), and 2x Long VIX Futures ETF ( UVIX ).
 [WEB] Pure Storage Stock Analysis: Buy, Hold, or Sell? (2025-05-24T08:14:00+00:00): Pure Storage (NYSE: PSTG) is experiencing an increase in demand for its products due to the rising effectiveness of artificial intelligence. Where to invest $1,000 right now? Our analyst team just revealed what they believe are the 10 best stocks to buy ...
 [WEB] 5 Dividend ETFs I'd Buy Instead of Chasing 9%+ Yield Traps (2026-02-01T05:16:00+00:00): To generate a passive stream of income along with the potential for capital appreciation, many investors utilize dividend ETFs in their portfolios. But you may think that investing in dividend ETFs is as easy as dumping your money into the ETFs with the highest yields.
 [WEB] NASDAQ Index and S&P 500 Forecasts - US Indices Continue to Look Upwards (2026-01-27T14:03:00+00:00): US indices look ready to attempt a breakout. This market continues to look strong, and likely to be moving on the latest earnings calls, of which we are about to get.
-[Telegram:FinancialJuice] [2026-02-06T11:00:33+00:00] ECB's Kocher: We don’t actually see that much Euro strength| FJ
-[Telegram:FinancialJuice] [2026-02-06T11:01:07+00:00] ECB's Kocher: Exchange rate has been relatively stable lately| FJ
-[Telegram:FinancialJuice] [2026-02-06T11:01:24+00:00] ECB's Kocher: Euro rate is not a very good anchor for ECB decision-making| FJ
-[Telegram:FinancialJuice] [2026-02-06T11:08:28+00:00] China's Li urges early arrangement of fiscal funds -CCTV| FJ
-[Telegram:FinancialJuice] [2026-02-06T11:11:58+00:00] China studies policies to boost investment - CCTV| FJ
-[Telegram:WalterBloomberg] [2026-02-06T00:05:08+00:00] BITCOIN REVERSES EARLIER GAIN, DOWN 1.9%; ETHER FALLS 2.4% ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-06T00:23:16+00:00] *KOREA'S KOSPI INDEX FALLS 5% AS GLOBAL TECH SELLOFF EXTENDS ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-06T01:29:42+00:00] BITCOIN RISES 1.3% TO $64,111.00, REVERSING EARLIER LOSSES, FACTSET DATA SHOW ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-06T02:07:39+00:00] VICE PRESIDENT OF THE BANK OF CHINA EXPELLED FROM THE PARTY FOR SERIOUS VIOLATIONS OF DISCIPLINE AND LAW - XINHUA ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-06T09:48:31+00:00] NVIDIA SHARES UP 2% PREMARKET AFTER FIVE-STRAIGHT DAYS OF LOSSES ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-02-06T14:24:15+00:00] Fed's Bostic: I have no idea what Warsh has in mind for the Fed regime change.| FJ
+[Telegram:FinancialJuice] [2026-02-06T14:25:05+00:00] Fed's Bostic: The Fed might need to lean more into non-official data.| FJ
+[Telegram:FinancialJuice] [2026-02-06T14:27:45+00:00] Iranian Foreign Minister Arakchi to IRNA: In talks with the US in Oman, we underlined that any dialogue requires refraining from threats.| FJ
+[Telegram:FinancialJuice] [2026-02-06T14:28:10+00:00] EU's Kallas: We are to ban the Russian central bank's digital currency.| FJ
+[Telegram:FinancialJuice] [2026-02-06T14:28:10+00:00] Iran’s Foreign Minister Araghchi: Talks with the US are solely the about nuclear issue| FJ
+[Telegram:WalterBloomberg] [2026-02-06T14:19:13+00:00] BOSTIC: TARIFF EFFECTS WILL HAVE RUN THROUGH BY MIDDLE OF YEAR BOSTIC: INFLATION HAS BEEN TOO HIGH FOR TOO LONG, AT PLATEAU BOSTIC: FED CAN'T LOSE SIGHT OF INFLATIONARY CONCERNS ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-06T14:20:26+00:00] BOSTIC: WILL BE APRIL OR MAY BEFORE DATA GIVE CLEAR SIGNALS ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-06T14:28:24+00:00] BOSTIC: THINK IT'S DOABLE TO GO BACK TO SCARCE RESERVES ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-06T14:28:26+00:00] BOSTIC: NO IDEA WHAT WARSH HAS IN MIND FOR FED 'REGIME CHANGE ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-06T14:28:35+00:00] BOSTIC: DON'T THINK FED WAS TOO WOKE, INCLUSION WASN'T MISTAKE ( @WalterBloomberg )
