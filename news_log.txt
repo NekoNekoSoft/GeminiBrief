@@ -1,8 +1,13 @@
-[Telegram:FinancialJuice] [2026-02-05T20:23:58+00:00] Friday FX Options Expiries| FJ
-[Telegram:FinancialJuice] [2026-02-05T20:42:40+00:00] Total money market fund assets rose by $85.02b to $7.8t for the week ended February 4th - ICI.| FJ
-[Telegram:FinancialJuice] [2026-02-05T20:50:43+00:00] MOC Imbalance S&P 500: +309 mln Nasdaq 100: -38 mln Dow 30: +254 mln Mag 7: +25 mln| FJ
-[Telegram:FinancialJuice] [2026-02-05T21:02:22+00:00] Amazon Q4 2026 Earnings $AMZN EPS $1.95, est. $1.96 Net Sales $213.39B, est. $211.49B| FJ
-[Telegram:FinancialJuice] [2026-02-05T22:00:47+00:00] Japan ruling parties set to win over 300 seats - Nikkei poll| FJ
+[WEB] Record Stock Valuations, Fed Independence, And Macro Volatility (2026-01-31T05:30:00+00:00): As political pressure on the Fed intensifies and markets ponder the nomination of a new Chair, understanding this chain of risk is increasingly important for investors. Read more here.
+[WEB] Volatility roars back: VIX tops 20 amid tech and crypto sell-offs (2026-02-05T15:47:00+00:00): Leveraged Volatility Funds: The ProShares Ultra VIX Short-Term Futures ETF ( UVXY ), ProShares Short VIX Short-Term Futures ETF ( SVXY ), and 2x Long VIX Futures ETF ( UVIX ).
+[WEB] Pure Storage Stock Analysis: Buy, Hold, or Sell? (2025-05-24T08:14:00+00:00): Pure Storage (NYSE: PSTG) is experiencing an increase in demand for its products due to the rising effectiveness of artificial intelligence. Where to invest $1,000 right now? Our analyst team just revealed what they believe are the 10 best stocks to buy ...
+[WEB] 5 Dividend ETFs I'd Buy Instead of Chasing 9%+ Yield Traps (2026-02-01T05:16:00+00:00): To generate a passive stream of income along with the potential for capital appreciation, many investors utilize dividend ETFs in their portfolios. But you may think that investing in dividend ETFs is as easy as dumping your money into the ETFs with the highest yields.
+[WEB] NASDAQ Index and S&P 500 Forecasts - US Indices Continue to Look Upwards (2026-01-27T14:03:00+00:00): US indices look ready to attempt a breakout. This market continues to look strong, and likely to be moving on the latest earnings calls, of which we are about to get.
+[Telegram:FinancialJuice] [2026-02-06T06:39:20+00:00] ECB's Escriva: Inflation is at target, expectations are anchored| FJ
+[Telegram:FinancialJuice] [2026-02-06T06:45:22+00:00] ECB's Villeroy: Downside inflation risks are probably more significant| FJ
+[Telegram:FinancialJuice] [2026-02-06T06:45:48+00:00] ECB's Villeroy: The ECB has no FX target, but it's important for activity| FJ
+[Telegram:FinancialJuice] [2026-02-06T07:03:11+00:00] ECB's Kazaks: Shouldn't exaggerate single data points| FJ
+[Telegram:FinancialJuice] [2026-02-06T07:46:27+00:00] The US and Iran begin nuclear talks in Oman - Iran's SNN| FJ
 [Telegram:WalterBloomberg] [2026-02-06T00:01:01+00:00] NASDAQ FUTURES EXTEND SLIDE, DOWN 1.2%; S&P 500 FUTURES FALL 0.7% ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-02-06T00:05:08+00:00] BITCOIN REVERSES EARLIER GAIN, DOWN 1.9%; ETHER FALLS 2.4% ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-02-06T00:23:16+00:00] *KOREA'S KOSPI INDEX FALLS 5% AS GLOBAL TECH SELLOFF EXTENDS ( @WalterBloomberg )
