@@ -1,10 +1,15 @@
-[Telegram:FinancialJuice] [2026-02-09T19:40:52+00:00] Democrats may force a vote on Canada tariffs on Wednesday - Punchbowl.| FJ
-[Telegram:FinancialJuice] [2026-02-09T19:44:31+00:00] Fed's Miran: Monetary policy should be attuned to the business cycle.| FJ
-[Telegram:FinancialJuice] [2026-02-09T19:47:41+00:00] Brent crude futures settle at $69.04/bbl, up 99 cents, 1.45%| FJ
-[Telegram:FinancialJuice] [2026-02-09T19:49:14+00:00] Fed's Miran: Being a reserve currency is one of the best things in the world.| FJ
-[Telegram:FinancialJuice] [2026-02-09T19:51:51+00:00] BoE's Mann: Not much trade diversion from China to the UK.| FJ
-[Telegram:WalterBloomberg] [2026-02-09T18:52:05+00:00] ALPHABET LAUNCHES GLOBAL BOND BLITZ TO FUND AI SPENDING Alphabet is raising $20 billion in U.S. bonds and planning its first bond sales in the UK and Switzerland, including a rare 100-year bond, to fund massive AI investments. The company expects up to $185 billion in capital https://t.co/OjZhrIrgn6 ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-09T18:56:18+00:00] FED’S WALLER: CRYPTO CLARITY STALLED, HYPE FADING Fed Governor Christopher Waller said Congress has stalled on crypto rules, his plan for Fed “skinny accounts” hasn’t prevented lawsuits, and the crypto enthusiasm tied to Trump is fading. ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-09T19:02:44+00:00] FED'S WALLER: RISK POSITIONS CAUSED MAINSTREAM FIRMS TO SELL CRYPTO ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-09T19:05:37+00:00] OPENAI: WE’RE STARTING TO ROLL OUT A TEST FOR ADS IN CHATGPT TODAY TO A SUBSET OF FREE AND GO USERS IN THE U.S. ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-09T19:42:34+00:00] HOUSE DEMOCRATS MAY MOVE TO OVERTURN CANADA TARIFFS - PUNCHBOWL ( @WalterBloomberg )
+[WEB] Key Macroeconomic Indicators Impacting the US Stock Market (2026-01-06T09:32:00+00:00): Discover how GDP, inflation, and employment can impact the US stock market. Learn to interpret key economic indicators to better position your portfolio for market shifts.
+[WEB] CBOE Volatility Index (VIX): What Does It Measure in Investing? (2024-08-07T00:00:00+00:00): Samantha (Sam) Silberstein, CFP®, CSLP®, EA, is an experienced financial consultant. She has a demonstrated history of working in both institutional and retail environments, from broker-dealers to RIAs. She is a current CFA level 3 candidate and also has ...
+[WEB] Pure Storage Stock Analysis: Buy, Hold, or Sell? (2025-05-24T08:14:00+00:00): Pure Storage (NYSE: PSTG) is experiencing an increase in demand for its products due to the rising effectiveness of artificial intelligence. Where to invest $1,000 right now? Our analyst team just revealed what they believe are the 10 best stocks to buy ...
+[WEB] JEPI vs. SPHD: Which monthly dividend ETF wins? (2025-12-09T17:04:00+00:00): Passive income investors like me are always on the lookout for different ways to generate extra income. If you can make your money work for you, why not? I believe investing should not only generate capital appreciation but also steady income. If you're ...
+[WEB] NASDAQ Index and S&P 500 Forecasts - US Indices Continue to Look Upwards (2026-01-27T14:03:00+00:00): US indices look ready to attempt a breakout. This market continues to look strong, and likely to be moving on the latest earnings calls, of which we are about to get.
+[Telegram:FinancialJuice] [2026-02-09T20:34:29+00:00] Trump-Xi summit set for first week of April - Politico.| FJ
+[Telegram:FinancialJuice] [2026-02-09T20:45:00+00:00] Fed's Bostic: I'm starting to see questions about confidence in the US dollar.| FJ
+[Telegram:FinancialJuice] [2026-02-09T20:50:41+00:00] MOC Imbalance S&P 500: -1298 mln Nasdaq 100: +84 mln Dow 30: -443 mln Mag 7: -105 mln| FJ
+[Telegram:FinancialJuice] [2026-02-09T21:46:45+00:00] White House Official: Trump-Xi April meeting date not finalised.| FJ
+[Telegram:FinancialJuice] [2026-02-09T21:57:51+00:00] Trump: The US can grow at 15% if Warsh does the job he's capable of.| FJ
+[Telegram:WalterBloomberg] [2026-02-09T22:49:36+00:00] TRUMP SAYS WILL START NEGOTIATIONS WITH CANADA IMMEDIATELY ON BILATERAL ISSUES ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-09T22:50:48+00:00] FED'S MIRAN: WE ARE SEEING SOME SIGNS OF STRESS IN THE JOB MARKET ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-09T23:13:40+00:00] SPOT GOLD FALLS 1.1% TO $5,004/OZ ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-09T23:31:46+00:00] US PLANS BIG TECH CARVE-OUT FROM NEXT WAVE OF CHIP TARIFFS ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-09T23:37:57+00:00] TRUMP PREDICTS 15% GROWTH UNDER WARSH Donald Trump said his pick to lead the Federal Reserve, Kevin Warsh, could drive economic growth to 15%—a highly optimistic claim that highlights the pressure Warsh would face if confirmed. In an interview with Fox Business, Trump called it ( @WalterBloomberg )
