@@ -1,15 +1,15 @@
 [WEB] Key Macroeconomic Indicators Impacting the US Stock Market (2026-01-06T09:32:00+00:00): Discover how GDP, inflation, and employment can impact the US stock market. Learn to interpret key economic indicators to better position your portfolio for market shifts.
 [WEB] CBOE Volatility Index (VIX): What Does It Measure in Investing? (2024-08-07T00:00:00+00:00): Samantha (Sam) Silberstein, CFP®, CSLP®, EA, is an experienced financial consultant. She has a demonstrated history of working in both institutional and retail environments, from broker-dealers to RIAs. She is a current CFA level 3 candidate and also has ...
 [WEB] Pure Storage Stock Analysis: Buy, Hold, or Sell? (2025-05-24T08:14:00+00:00): Pure Storage (NYSE: PSTG) is experiencing an increase in demand for its products due to the rising effectiveness of artificial intelligence. Where to invest $1,000 right now? Our analyst team just revealed what they believe are the 10 best stocks to buy ...
-[WEB] JEPI vs. SPHD: Which monthly dividend ETF wins? (2025-12-09T17:04:00+00:00): Passive income investors like me are always on the lookout for different ways to generate extra income. If you can make your money work for you, why not? I believe investing should not only generate capital appreciation but also steady income. If you're ...
+[WEB] This Invesco ETF pays a 4.71% yield with 50 low-volatility dividend stocks (3x the S&P 500) (2025-12-10T16:30:00+00:00): Invesco High Dividend Low Volatility ETF (NYSEARCA:SPHD) generates its 4.71% yield - roughly three times the S&P 500's current dividend - by holding a concentrated portfolio of 50 U.S. stocks selected for high dividend yields and low volatility. With $3.1 ...
 [WEB] NASDAQ Index and S&P 500 Forecasts - US Indices Continue to Look Upwards (2026-01-27T14:03:00+00:00): US indices look ready to attempt a breakout. This market continues to look strong, and likely to be moving on the latest earnings calls, of which we are about to get.
-[Telegram:FinancialJuice] [2026-02-09T21:57:51+00:00] Trump: The US can grow at 15% if Warsh does the job he's capable of.| FJ
-[Telegram:FinancialJuice] [2026-02-10T07:16:34+00:00] Barclays CEO: The UK economy needs long-term investment for growth| FJ
-[Telegram:FinancialJuice] [2026-02-10T07:52:02+00:00] Google-parent Alphabet kicks off debut Swiss Francs debt sale.| FJ
-[Telegram:FinancialJuice] [2026-02-10T09:34:35+00:00] TSMC approves distribution of $6 TWD/share cash dividend for Q4. $TSM| FJ
-[Telegram:FinancialJuice] [2026-02-10T11:14:40+00:00] Japan PM mulls retaining all cabinet ministers - Kyodo| FJ
-[Telegram:WalterBloomberg] [2026-02-09T22:49:36+00:00] TRUMP SAYS WILL START NEGOTIATIONS WITH CANADA IMMEDIATELY ON BILATERAL ISSUES ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-09T22:50:48+00:00] FED'S MIRAN: WE ARE SEEING SOME SIGNS OF STRESS IN THE JOB MARKET ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-09T23:13:40+00:00] SPOT GOLD FALLS 1.1% TO $5,004/OZ ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-09T23:31:46+00:00] US PLANS BIG TECH CARVE-OUT FROM NEXT WAVE OF CHIP TARIFFS ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-09T23:37:57+00:00] TRUMP PREDICTS 15% GROWTH UNDER WARSH Donald Trump said his pick to lead the Federal Reserve, Kevin Warsh, could drive economic growth to 15%—a highly optimistic claim that highlights the pressure Warsh would face if confirmed. In an interview with Fox Business, Trump called it ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-02-10T15:22:57+00:00] US Commerce Secretary Lutnick, asked if the US would curb China's licenses to prioritize the US, refrains from a specific answer on China's chip licenses.| FJ
+[Telegram:FinancialJuice] [2026-02-10T15:34:39+00:00] Senate Republican Leader Thune: The White House could make a DHS counteroffer available soon.| FJ
+[Telegram:FinancialJuice] [2026-02-10T15:49:08+00:00] US Commerce Secretary Lutnick: The dollar was manipulated higher over many years.| FJ
+[Telegram:FinancialJuice] [2026-02-10T15:49:29+00:00] US Commerce Secretary Lutnick: Foreigners used trade surpluses to buy our country.| FJ
+[Telegram:FinancialJuice] [2026-02-10T15:50:25+00:00] US Commerce Secretary Lutnick: I think Q4 GDP growth will be over 5%.| FJ
+[Telegram:WalterBloomberg] [2026-02-10T15:31:48+00:00] AMERICAN OPTIMISM HITS RECORD LOW U.S. adults’ optimism about their future life fell to 59.2% in 2025, the lowest since Gallup began measuring nearly 20 years ago. Since 2020, future-life optimism dropped 9.1 points, equal to roughly 24.5 million fewer hopeful Americans. https://t.co/k6G253FfgC ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-10T15:44:44+00:00] SPOT GOLD  FALLS OVER 1% TO $4,985.99/OZ ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-10T15:49:42+00:00] LUTNICK: DOLLAR WAS MANIPULATED HIGHER OVER MANY YEARS LUTNICK: FOREIGNERS USED TRADE SURPLUSES TO BUY OUR COUNTRY ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-10T15:49:59+00:00] LUTNICK: SAYS IT'S MORE NATURAL FOR THE DOLLAR TO BE AT ITS CURRENT LEVEL ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-10T15:51:19+00:00] $NVDA - LUTNICK: NVIDIA, CHINA MUST ADHERE TO H200 CHIP LICENSE TERMS ( @WalterBloomberg )
