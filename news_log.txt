@@ -1,13 +1,13 @@
 [WEB] Key Macroeconomic Indicators Impacting the US Stock Market (2026-01-06T09:32:00+00:00): Discover how GDP, inflation, and employment can impact the US stock market. Learn to interpret key economic indicators to better position your portfolio for market shifts.
-[WEB] CBOE Volatility Index (VIX): What Does It Measure in Investing? (2024-08-07T00:00:00+00:00): Samantha (Sam) Silberstein, CFP®, CSLP®, EA, is an experienced financial consultant. She has a demonstrated history of working in both institutional and retail environments, from broker-dealers to RIAs. She is a current CFA level 3 candidate and also has ...
+[WEB] Wall Street's Volatility Index (VIX) Has Done This 21 Times in the Last 35 Years -- and It Has a Perfect Track Record of Forecasting Future Stock Moves (2025-04-12T00:00:00+00:00): Although stocks have been the top-performing asset class over the last century, based on average annual return, this doesn't mean the stock market moves from Point A to B in a straight line -- and the last seven weeks is evidence to this fact. Where to ...
 [WEB] Pure Storage Stock Analysis: Buy, Hold, or Sell? (2025-05-24T08:14:00+00:00): Pure Storage (NYSE: PSTG) is experiencing an increase in demand for its products due to the rising effectiveness of artificial intelligence. Where to invest $1,000 right now? Our analyst team just revealed what they believe are the 10 best stocks to buy ...
 [WEB] 3 Monthly Dividend ETFs for Predictable Income (2026-02-10T16:16:00+00:00): Whether you're enjoying your retirement or still planning for your golden years, generating a steady source of monthly income will be your primary goal.
 [WEB] NASDAQ Index and S&P 500 Forecasts - US Indices Continue to Look Upwards (2026-01-27T14:03:00+00:00): US indices look ready to attempt a breakout. This market continues to look strong, and likely to be moving on the latest earnings calls, of which we are about to get.
-[Telegram:FinancialJuice] [2026-02-11T21:47:19+00:00] Trump: Will sign order on Wednesday directing Pentagon to buy electricity from coal-fired power plants in move to boost sector.| FJ
-[Telegram:FinancialJuice] [2026-02-11T21:50:13+00:00] Fed's Hammack: US government debt is on an unsustainable path, and it must be dealt with.| FJ
-[Telegram:FinancialJuice] [2026-02-11T21:51:27+00:00] Trump: The trade deficit has gone down 78% because of tariffs.| FJ
-[Telegram:FinancialJuice] [2026-02-11T21:56:59+00:00] Fed's Hammack: Gold and metal price rises could be related to inflation.| FJ
-[Telegram:FinancialJuice] [2026-02-11T21:58:18+00:00] Trump ends coal event at the White House.| FJ
+[Telegram:FinancialJuice] [2026-02-12T08:02:49+00:00] UK GDP QoQ Prelim Actual 0.1% (Forecast 0.2%, Previous 0.1%)| FJ
+[Telegram:FinancialJuice] [2026-02-12T08:02:51+00:00] UK GDP YoY Prelim Actual 1.0% (Forecast 1.2%, Previous 1.3%, Revised 1.2%)| FJ
+[Telegram:FinancialJuice] [2026-02-12T08:02:54+00:00] UK GDP Estimate 3M/3M Actual 0.1% (Forecast -, Previous 0.1%)| FJ
+[Telegram:FinancialJuice] [2026-02-12T08:03:00+00:00] UK Manufacturing Production MoM Actual -0.5% (Forecast -0.1%, Previous 2.1%, Revised 1.9%)| FJ
+[Telegram:FinancialJuice] [2026-02-12T08:03:11+00:00] UK GDP Estimate MoM Actual 0.1% (Forecast 0.1%, Previous 0.3%, Revised 0.2%)| FJ
 [Telegram:WalterBloomberg] [2026-02-11T20:21:18+00:00] WHITE HOUSE EXPECTS GOP DEFECTIONS ON TARIFF VOTE: POLITICO ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-02-11T23:11:08+00:00] TRUMP: THE TRADE DEFICIT HAS GONE DOWN 78% BECAUSE OF TARIFFS ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-02-11T23:11:22+00:00] TRUMP SAYS THE U.S. IS EXPORTING COAL AROUND THE WORLD ( @WalterBloomberg )
