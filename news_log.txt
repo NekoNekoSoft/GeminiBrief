@@ -3,13 +3,13 @@
 [WEB] Pure Storage Stock Analysis: Buy, Hold, or Sell? (2025-05-24T08:14:00+00:00): Pure Storage (NYSE: PSTG) is experiencing an increase in demand for its products due to the rising effectiveness of artificial intelligence. Where to invest $1,000 right now? Our analyst team just revealed what they believe are the 10 best stocks to buy ...
 [WEB] Retirees Are Piling Into SPHD After 23% Dividend Hike (2026-02-12T17:46:00+00:00): The Invesco S&P 500 High Dividend Low Volatility ETF (NYSEARCA:SPHD) is designed for investors who want steady income without the volatility of growth stocks. It holds 50 equally weighted stocks from the S&P 500 that combine high dividends with lower price swings.
 [WEB] NASDAQ Index and S&P 500 Forecasts - US Indices Continue to Look Upwards (2026-01-27T14:03:00+00:00): US indices look ready to attempt a breakout. This market continues to look strong, and likely to be moving on the latest earnings calls, of which we are about to get.
-[Telegram:FinancialJuice] [2026-02-13T13:37:36+00:00] US interest rate futures slightly raise odds of Fed easing in June to 69% after CPI vs 63% before data.| FJ
-[Telegram:FinancialJuice] [2026-02-13T13:37:42+00:00] US rate futures price in 61 bps of Fed cuts in 2026 after CPI data; was 58 bps just before.| FJ
-[Telegram:FinancialJuice] [2026-02-13T13:59:51+00:00] Alibaba: We will take all available legal action after it was added to the Pentagon's list of companies allegedly aiding China’s military. $BABA| FJ
-[Telegram:FinancialJuice] [2026-02-13T14:00:36+00:00] Effective Fed Funds rate: 3.64% February 12th vs 3.64% February 11th| FJ
-[Telegram:FinancialJuice] [2026-02-13T14:01:17+00:00] Goldman Sachs CEO on US economy: We are positioned to run at a higher based growth rate- CNBC| FJ
-[Telegram:WalterBloomberg] [2026-02-13T13:51:37+00:00] PENTAGON TARGETS CHINESE COMPANIES SUPPORTING MILITARY The Pentagon has added several Chinese firms to its list of companies aiding the military: Alibaba ( $BABA) BYD ( $BYDDY) Baidu ( $BIDU) COSCO ( https://t.co/hGNSceuy6j ) Huawei (private) NIO Inc ( $NIO) ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-13T13:52:19+00:00] GOLDMAN SACHS CEO SOLOMON SAYS HAVE REAL CONCERN FOR THE CONTINUED LEVEL OF DEFICITS - CNBC ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-13T13:57:20+00:00] SMOKING UP, DRINKING DOWN Tobacco and smoking products jumped 2.1% — the biggest rise since 2017 — while at-home alcohol fell 0.4%, the sharpest drop since 2019. #CPI ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-13T13:59:32+00:00] US PROPOSES BAN ON AGENCIES USING SOME CHINESE SEMICONDUCTORS ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-13T14:18:11+00:00] MARKETS PRICE 50% CHANCE OF THIRD FED CUT US Treasuries jumped as core CPI rose 0.3% in January, in line with expectations, easing inflation concerns and boosting bets on further Fed rate cuts. Yields on two-year notes fell to 3.40%, the lowest since October. Traders now see https://t.co/H32vZ3IMhN ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-02-13T17:21:23+00:00] Trump: We'll need the aircraft carrier if there is no deal with Iran.| FJ
+[Telegram:FinancialJuice] [2026-02-13T17:21:48+00:00] Trump: The second carrier just arrived in the Persian Gulf.| FJ
+[Telegram:FinancialJuice] [2026-02-13T17:22:10+00:00] Trump: Russia wants a deal, Zelenskiy has to get moving.| FJ
+[Telegram:FinancialJuice] [2026-02-13T17:24:12+00:00] Trump: I think the Iran talks will be successful. If unsuccessful, it'll be a bad day for Iran.| FJ
+[Telegram:FinancialJuice] [2026-02-13T17:29:54+00:00] Trump: Will visit Venezuela, we haven't decided when.| FJ
+[Telegram:WalterBloomberg] [2026-02-13T17:24:30+00:00] TRUMP: RUSSIA WANTS A DEAL, ZELENSKIY HAS TO GET MOVING ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-13T17:24:49+00:00] TRUMP: I THINK THE IRAN TALKS WILL BE SUCCESSFUL. IF UNSUCCESSFUL, IT'LL BE A BAD DAY FOR IRAN ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-13T17:25:26+00:00] CORRECTED-TRUMP ON WAR IN UKRAINE: ZELENSKIY'S GOING TO HAVE TO GET MOVING ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-13T17:28:03+00:00] TRUMP: RELATIONSHIP WITH VENEZUELA IS AS GOOD AS POSSIBLE ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-13T17:30:40+00:00] TRUMP: WILL VISIT VENEZUELA, WE HAVEN'T DECIDED WHEN ( @WalterBloomberg )
