@@ -3,13 +3,13 @@
 [WEB] Pure Storage Stock Analysis: Buy, Hold, or Sell? (2025-05-24T08:14:00+00:00): Pure Storage (NYSE: PSTG) is experiencing an increase in demand for its products due to the rising effectiveness of artificial intelligence. Where to invest $1,000 right now? Our analyst team just revealed what they believe are the 10 best stocks to buy ...
 [WEB] Retirees Are Piling Into These 3 ETFs—Here's Why (2026-02-18T00:34:00+00:00): If you are in your retirement years, building wealth through the stock market might not be the best idea. It doesn't mean you need to chase the next growth stock or time the market. But it could take long for you to build wealth by only investing in individual stocks.
 [WEB] NASDAQ Index, S&P 500 and Dow Jones Forecast - US Indices Looking to Continue Recovery (2026-02-18T15:40:00+00:00): US indices look like a continuing recovery started during the previous session, as we may finally be seeing a bit of momentum enter.
-[Telegram:FinancialJuice] [2026-02-20T14:31:15+00:00] Trump Hosts Governors At White House Breakfast| FJ
-[Telegram:FinancialJuice] [2026-02-20T14:38:14+00:00] ❗ Trump: I'm considering a limited strike on Iran.| FJ
-[Telegram:FinancialJuice] [2026-02-20T14:45:35+00:00] US S&P Manufacturing PMI Flash Actual 51.2 (Forecast 52.4, Previous 52.4) US S&P Services PMI Flash Actual 52.3 (Forecast 53, Previous 52.7) US S&P Composite PMI Flash Actual 52.3 (Forecast 53.1, Previous 53.0)| FJ
-[Telegram:FinancialJuice] [2026-02-20T14:49:19+00:00] Fed's Bostic: Businesses in the southeast do not think there is a cliff approaching for the job market, and are not looking to reduce staff.| FJ
-[Telegram:FinancialJuice] [2026-02-20T14:49:35+00:00] White House Official: Trump to travel to China from March 31st through April 2nd.| FJ
-[Telegram:WalterBloomberg] [2026-02-20T14:40:28+00:00] SUPREME COURT TARIFF RULING COULD SHAKE MARKETS A potential U.S. Supreme Court decision on tariffs, along with Iran developments, may overshadow Q4 GDP and December PCE data. GDP growth lagged expectations; inflation remains above the Fed’s 2% target. Recent trends in jobs, ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-20T14:45:29+00:00] U.S. S&P GLOBAL FEBRUARY FLASH MANUFACTURING PMI AT 51.2 (FORECAST 52.6) U.S. S&P GLOBAL FEBRUARY FLASH SERVICES PMI AT 52.3 (FORECAST 53.0) U.S. S&P GLOBAL FEBRUARY FLASH COMPOSITE PMI AT 52.3 (VS 53.0 IN JANUARY) ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-20T14:46:37+00:00] TRUMP, ASKED IF HE IS CONSIDERING LIMITED STRIKE ON IRAN: I GUESS I CAN SAY I AM CONSIDERING THAT ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-20T14:47:00+00:00] 🇨🇳 US PRESIDENT TRUMP TO TRAVEL TO CHINA FROM MARCH 31 TO APRIL 2 -WHITE HOUSE OFFICIAL ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-20T14:51:36+00:00] TRUMP ADMINISTRATION ISSUES PROPOSED RULE THAT COULD PAUSE WORK PERMITS FOR ASYLUM APPLICANTS FOR 'MANY YEARS' - FEDERAL REGISTER DOCUMENT ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-02-20T15:27:20+00:00] EU spokesperson: We take note of the ruling by the US Supreme Court and are analysing it carefully.| FJ
+[Telegram:FinancialJuice] [2026-02-20T15:29:27+00:00] Trump: SCOTUS ruling a disgrace - CNN.| FJ
+[Telegram:FinancialJuice] [2026-02-20T15:30:33+00:00] Trump: I have a backup plan for tariffs after the ruling - CNN.| FJ
+[Telegram:FinancialJuice] [2026-02-20T15:32:53+00:00] Fed's Bostic: It's difficult to know the fallout from the SCOTUS ruling on tariffs. It depends on issues such as the need for rebates and how firms react.| FJ
+[Telegram:FinancialJuice] [2026-02-20T15:37:33+00:00] Fed's Bostic: I think neutral is perhaps a quarter to a half percentage point below current policy rate.| FJ
+[Telegram:WalterBloomberg] [2026-02-20T15:33:06+00:00] 🚨 *TRUMP SAYS SCOTUS RULING A "DISGRACE": CNN ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-20T15:38:16+00:00] 🇨🇦 U..S SUPREME COURT DECISION ON TARIFFS  REINFORCES CANADA’S POSITION THAT THE IEEPA TARIFFS IMPOSED BY U.S. ARE UNJUSTIFIED - GOV'T STATEMENT ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-20T15:40:25+00:00] BOSTIC: IF INFLATION MOVES "THE WRONG WAY" AND STARTS TO RISE THE FED WILL HAVE TO HAVE RATE HIKES ON THE TABLE ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-20T15:46:34+00:00] GERMANY'S VDMA: US PRESIDENT TRUMP HAS SEVERAL LEGAL ALTERNATIVES FOR IMPOSING GLOBAL TARIFFS ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-20T15:49:42+00:00] SPOT SILVER EXTENDS GAINS, LAST UP 5% AT $82.23/OZ ( @WalterBloomberg )
