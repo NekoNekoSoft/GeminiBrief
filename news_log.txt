@@ -3,13 +3,13 @@
 [WEB] Pure Storage Stock Analysis: Buy, Hold, or Sell? (2025-05-24T08:14:00+00:00): Pure Storage (NYSE: PSTG) is experiencing an increase in demand for its products due to the rising effectiveness of artificial intelligence. Where to invest $1,000 right now? Our analyst team just revealed what they believe are the 10 best stocks to buy ...
 [WEB] Retirees Are Piling Into These 3 ETFs—Here's Why (2026-02-18T00:34:00+00:00): If you are in your retirement years, building wealth through the stock market might not be the best idea. It doesn't mean you need to chase the next growth stock or time the market. But it could take long for you to build wealth by only investing in individual stocks.
 [WEB] NASDAQ Index, S&P 500 and Dow Jones Forecast - US Indices Looking to Continue Recovery (2026-02-18T15:40:00+00:00): US indices look like a continuing recovery started during the previous session, as we may finally be seeing a bit of momentum enter.
-[Telegram:FinancialJuice] [2026-02-20T15:37:33+00:00] Fed's Bostic: I think neutral is perhaps a quarter to a half percentage point below current policy rate.| FJ
-[Telegram:FinancialJuice] [2026-02-20T16:02:03+00:00] Germany's BGA calls for a NATO-like trade alliance to strengthen multilateral standards.| FJ
-[Telegram:FinancialJuice] [2026-02-20T16:08:04+00:00] EU Parliament trade committee will meet on Monday on US trade deal.| FJ
-[Telegram:FinancialJuice] [2026-02-20T16:12:52+00:00] Trump: I have to do something about the courts.| FJ
-[Telegram:FinancialJuice] [2026-02-20T16:22:16+00:00] California Governor Newsom calls for tariff refund checks.| FJ
-[Telegram:WalterBloomberg] [2026-02-20T15:52:24+00:00] U.S. STOCKS EXTEND GAINS, NASDAQ UP 1.00% ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-20T16:02:52+00:00] US TARIFFS TO CONTINUE DESPITE SCOTUS RULING Trade expert Lawrence Herman says the Supreme Court rebuke of Trump’s tariffs won’t end trade tensions. The administration can still use other tools, and Canada continues to face sectoral tariffs on steel, aluminum, autos, and forest ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-20T16:04:37+00:00] CBOE VOLATILITY INDEX DROPS 1.35 POINTS TO 18.88 ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-20T16:06:21+00:00] $LCID CUTS 12% STAFF - TECHCRUNCH ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-02-20T16:13:42+00:00] 🚨 *TRUMP SAYS HE HAS TO DO SOMETHING ABOUT THE COURTS ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-02-20T21:17:52+00:00] US Treasury Secretary Bessent: Inflation is still too high, but is moving toward the Fed's target.| FJ
+[Telegram:FinancialJuice] [2026-02-20T21:20:27+00:00] US Treasury Secretary Bessent: I believe we can grow 3.5% this year - Fox News Interview.| FJ
+[Telegram:FinancialJuice] [2026-02-20T21:26:47+00:00] US Treasury Secretary Bessent's interview on Fox News concludes.| FJ
+[Telegram:FinancialJuice] [2026-02-20T21:37:58+00:00] Moody's ratings changes Amazon's outlook to stable; affirms A1 senior unsecured rating. $AMZN| FJ
+[Telegram:FinancialJuice] [2026-02-20T21:57:08+00:00] The US to unveil platform aiming to bypass internet censorship in China, Iran, and beyond - Fox News.| FJ
+[Telegram:WalterBloomberg] [2026-02-20T19:00:51+00:00] TRUMP: IRAN BETTER NEGOTIATE A FAIR DEAL ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-20T19:03:28+00:00] TRUMP: 'YOU'RE GOING TO FIND OUT' ABOUT FOREIGN INFLUENCE ON SUPREME COURT ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-20T19:03:47+00:00] TRUMP: EUROPE IS GETTING KILLED ON ENERGY AND IMMIGRATION ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-20T19:14:13+00:00] BESSENT IN PREPARED REMARKS: TREASURY'S ESTIMATES SHOW THAT USE OF SECTION 122 AUTHORITY, COMBINED WITH POTENTIALLY ENHANCED SECTION 232 AND SECTION 301 TARIFFS WILL RESULT IN VIRTUALLY UNCHANGED TARIFF REVENUE IN 2026 ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-02-20T19:28:02+00:00] VANCE ON SUPREME COURT RULING ON TARIFFS: "THIS IS LAWLESSNESS FROM THE COURT, PLAIN AND SIMPLE" ( @WalterBloomberg )
