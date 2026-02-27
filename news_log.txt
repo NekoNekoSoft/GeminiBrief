@@ -3,11 +3,11 @@
 [WEB] Pure Storage Stock Analysis: Buy, Hold, or Sell? (2025-05-24T08:14:00+00:00): Pure Storage (NYSE: PSTG) is experiencing an increase in demand for its products due to the rising effectiveness of artificial intelligence. Where to invest $1,000 right now? Our analyst team just revealed what they believe are the 10 best stocks to buy ...
 [WEB] SPHD: Here Appreciation Is Sacrificed For Dividends, And Today It Seems Right That Way (2026-02-26T21:51:00+00:00): The way I see it, in the long term there are no major reasons to do so. But before getting into this topic … SPHD is a passive ETF that tracks the S&P 500 Low Volatility High Dividend Index, therefore it seeks to achieve high correlation and minimal tracking error.
 [WEB] NASDAQ Index, S&P 500 and Dow Jones Forecasts - US Indices See Lackluster Action Early (2026-02-24T13:45:00+00:00): The US indices continue to see a lot of noise, as traders worry about the tariff situation, as well as the Federal Reserve, and what they are doing with monetary policy.
-[Telegram:FinancialJuice] [2026-02-27T07:48:09+00:00] French PPI YoY Actual -2.3% (Forecast -, Previous -2.0%, Revised -1.9%)| FJ
-[Telegram:FinancialJuice] [2026-02-27T07:48:14+00:00] French HICP YoY Prelim Actual 1.1% (Forecast 0.8%, Previous 0.4%)| FJ
-[Telegram:FinancialJuice] [2026-02-27T07:48:19+00:00] French PPI MoM Actual 0.5% (Forecast -, Previous 0.2%, Revised 0.3%)| FJ
 [Telegram:FinancialJuice] [2026-02-27T07:48:26+00:00] French HICP MoM Prelim Actual 0.8% (Forecast 0.5%, Previous -0.4%)| FJ
 [Telegram:FinancialJuice] [2026-02-27T07:48:32+00:00] French CPI MoM NSA Prelim Actual 0.7% (Forecast 0.5%, Previous -0.3%)| FJ
+[Telegram:FinancialJuice] [2026-02-27T08:01:37+00:00] Swiss KOF Indicator Actual 104.2 (Forecast 103, Previous 102.5, Revised 103.3)| FJ
+[Telegram:FinancialJuice] [2026-02-27T08:01:41+00:00] Swiss GDP YoY Actual 0.7% (Forecast 0.5%, Previous 0.5%)| FJ
+[Telegram:FinancialJuice] [2026-02-27T08:01:49+00:00] Swiss GDP QoQ Actual 0.1% (Forecast 0.2%, Previous -0.5%)| FJ
 [Telegram:WalterBloomberg] [2026-02-26T21:30:13+00:00] NVIDIA SPENT $70 BILLION ON CORPORATE DEALS TO FUEL CHIP DEMAND ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-02-26T21:42:49+00:00] WHITE HOUSE: THE U.S. IS OPEN TO DIALOGUE WITH DPRK WITHOUT PRECONDITIONS - YONHAP ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-02-26T22:03:36+00:00] NVIDIA PRICE TARGET RAISED TO $265.00/SHARE FROM $250.00 BY JP MORGAN ( @WalterBloomberg )
