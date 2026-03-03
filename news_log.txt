@@ -1,15 +1,15 @@
 [WEB] Macro Week Ahead: US Jobs Data on Deck (2026-03-02T07:19:00+00:00): On the policy front, it was also a busy week for Fed officials, who largely delivered a unified message: the Fed is not in a rush and remains data dependent.
-[WEB] VIX surges to three-month high as Iran conflict sparks market turmoil (2026-03-03T14:07:00+00:00): Market turbulence intensified on Tuesday as geopolitical tensions between Iran, Israel, and the United States rattled investor sentiment, sending equities sharply lower and volatility sharply higher.
+[WEB] Volatility ETFs Back in Focus Amid Middle East Unrest (2026-03-03T15:35:00+00:00): Already fragile geopolitical conditions in the Middle East deteriorated further on Saturday after the United States and Israel launched strikes on Iran, triggering a sharp rise in global market volatility.
 [WEB] Pure Storage, Inc. (PSTG) is a trending stock: Facts to know before betting on it (2026-02-17T14:00:03+00:00): Pure Storage (PSTG) has been one of the most searched-for stocks on Zacks.com lately. So, you might want to look at some of the facts that could shape the stock's performance in the near term. Over the past month,
 [WEB] SPHD: Here Appreciation Is Sacrificed For Dividends, And Today It Seems Right That Way (2026-02-26T21:51:00+00:00): SPHD is a passive ETF that tracks the S&P 500 Low Volatility High Dividend Index, therefore it seeks to achieve high correlation and minimal tracking error. The expense ratio is 0.30% with a median Bid/Ask spread of 0.02%.
-[WEB] S&P 500 poised to resume larger rally after testing this technical level: Evercore (2026-03-02T15:39:00+00:00): The S&P 500's volatile start to 2026 has not altered the broader upward trajectory, with Evercore ISI arguing that a pullback toward key support should provide a buying opportunity.
-[Telegram:FinancialJuice] [2026-03-03T16:57:38+00:00] Trump: Worst case is that we hit Iran and somebody takes over who is as bad as the previous person. We'd like to see somebody in there that's better.| FJ
-[Telegram:FinancialJuice] [2026-03-03T16:59:02+00:00] Trump: We'll see what happens in Iran, but first we have to finish off the military.| FJ
-[Telegram:FinancialJuice] [2026-03-03T16:59:37+00:00] Trump: Someone from within might be more appropriate for Iran.| FJ
-[Telegram:FinancialJuice] [2026-03-03T16:59:45+00:00] Fed's Kashkari: Near-term AI investment probably pushing up neutral rate.| FJ
-[Telegram:FinancialJuice] [2026-03-03T17:02:18+00:00] ❗ Trump: We're going to cut all trade with Spain. I am not happy with the UK either.| FJ
-[Telegram:WalterBloomberg] [2026-03-03T16:56:45+00:00] TRUMP: WORST CASE IS THAT WE HIT IRAN AND SOMEBODY TAKES OVER AS BAD AS THE PREVIOUS PERSON ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-03T16:59:02+00:00] TRUMP: WE'LL SEE WHAT HAPPENS IN IRAN BUT FIRST WE HAVE TO FINISH OFF THE MILITARY ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-03T17:00:43+00:00] TRUMP: SPAIN HAS BEEN TERRIBLE, I TOLD BESSENT TO CUT OFF ALL DEALING WITH SPAIN ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-03T17:01:19+00:00] TRUMP: SPAIN TOLD US WE CAN'T USE THEIR BASES ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-03T17:01:36+00:00] TRUMP: NOT HAPPY WITH UK EITHER ( @WalterBloomberg )
+[WEB] NASDAQ Index, S&P 500 and Dow Jones Forecast - US Indices React to Military Attacks (2026-03-03T21:58:00+00:00): The Dow Jones 30 initially gapped lower to show signs of significant weakness but found support just above the crucial 48,000 level. The 48,000 level of the course is a large, round, psychologically significant figure that has mattered in the past.
+[Telegram:FinancialJuice] [2026-03-03T22:02:44+00:00] AUSTRALIAN SERVICES PMI FINAL ACTUAL 52.8 (FORECAST -, PREVIOUS 52.2) $MACRO| FJ
+[Telegram:FinancialJuice] [2026-03-03T22:02:47+00:00] AIG MANUFACTURING INDEX ACTUAL -15.6 (FORECAST -, PREVIOUS -19.4) $MACRO| FJ
+[Telegram:FinancialJuice] [2026-03-03T22:02:51+00:00] AUSTRALIAN COMPOSITE PMI FINAL ACTUAL 52.4 (FORECAST -, PREVIOUS 52.0) $MACRO| FJ
+[Telegram:FinancialJuice] [2026-03-03T22:02:53+00:00] AIG CONSTRUCTION INDEX ACTUAL -8.2 (FORECAST -, PREVIOUS 5.2) $MACRO| FJ
+[Telegram:FinancialJuice] [2026-03-03T22:11:35+00:00] A third drone has targeted the US base in Harir, Erbil.| FJ
+[Telegram:WalterBloomberg] [2026-03-03T19:06:41+00:00] *MACRON: FRANCE TO SEND AIR DEFENSE, WARSHIP TO CYPRUS ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-03T19:38:02+00:00] TRUMP: US NAVY TO BEGIN ESCORTING TANKERS THROUGH STRAIT OF HORMUZ ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-03T19:40:11+00:00] TRUMP: IF NECESSARY, UNITED STATES NAVY WILL BEGIN ESCORTING TANKERS THROUGH STRAIT OF HORMUZ, AS SOON AS POSSIBLE ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-03T19:46:31+00:00] SYRIA SENDS THOUSANDS OF TROOPS TO REINFORCE BORDER WITH LEBANON AMID EXPANDING REGIONAL WAR ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-03T21:23:11+00:00] A SUSPECTED IRANIAN DRONE ATTACK STRUCK THE CIA’S STATION IN SAUDI ARABIA - WAPO REPORTER ON X ( @WalterBloomberg )
