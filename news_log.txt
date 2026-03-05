@@ -2,12 +2,12 @@
 [WEB] Oil VIX surges but fear was higher last year (2026-03-04T12:07:00+00:00): The Cboe Crude Oil ETF Volatility index (OVZ) is a 'fear gauge' for the oil market. Like Cboe's VIX, which measures expected volatility over the next 30 days for the S&P 500, the OVZ tracks option activity in the United States Oil ETF,
 [WEB] Pure Storage, Inc. (PSTG) is a trending stock: Facts to know before betting on it (2026-02-17T14:00:03+00:00): Pure Storage (PSTG) has been one of the most searched-for stocks on Zacks.com lately. So, you might want to look at some of the facts that could shape the stock's performance in the near term. Over the past month,
 [WEB] SPHD: Here Appreciation Is Sacrificed For Dividends, And Today It Seems Right That Way (2026-02-26T21:51:00+00:00): SPHD is a passive ETF that tracks the S&P 500 Low Volatility High Dividend Index, therefore it seeks to achieve high correlation and minimal tracking error. The expense ratio is 0.30% with a median Bid/Ask spread of 0.02%.
-[WEB] S&P 500 poised to resume larger rally after testing this technical level: Evercore (2026-03-02T15:39:00+00:00): The S&P 500's volatile start to 2026 has not altered the broader upward trajectory, with Evercore ISI arguing that a pullback toward key support should provide a buying opportunity.
-[Telegram:FinancialJuice] [2026-03-05T07:29:07+00:00] Italy's PM Meloni: No US request to use Italy's bases| FJ
-[Telegram:FinancialJuice] [2026-03-05T07:34:19+00:00] Iran's process to pick a new supreme leader is being completed - Mehr| FJ
-[Telegram:FinancialJuice] [2026-03-05T07:39:26+00:00] UAE's Al Jaber: Construction at Ruwais LNG is on track| FJ
-[Telegram:FinancialJuice] [2026-03-05T07:40:33+00:00] Traders pare bets on second BoE rate cut this year| FJ
-[Telegram:FinancialJuice] [2026-03-05T07:55:10+00:00] Iran's Revolutionary Guards say they hit a US tanker in the northern part of the Gulf, and the ship is currently on fire - State Media| FJ
+[WEB] NASDAQ Index, S&P 500 and Dow Jones Forecasts - US Indices Recover in Early Wednesday Move (2026-03-05T07:32:00+00:00): The US indices all look as if they are finding plenty of support, despite the recent volatility and selling pressures. With this, traders remain somewhat optimistic.
+[Telegram:FinancialJuice] [2026-03-05T08:59:38+00:00] ECB's de Guindos: we have to use different scenarios following Iran attacks| FJ
+[Telegram:FinancialJuice] [2026-03-05T09:38:55+00:00] EU's Foreign Minister Kallas: Ukraine can help Gulf countries amid Iran attacks on drone interception| FJ
+[Telegram:FinancialJuice] [2026-03-05T09:39:31+00:00] EU Foreign Policy Chief Kallas: We are coordinating consular services in the Middle East| FJ
+[Telegram:FinancialJuice] [2026-03-05T09:41:11+00:00] Kremlin, asked if Moscow will help Iran with arms supplies: Iran has not approached Russia for help — and Russia's position is well known| FJ
+[Telegram:FinancialJuice] [2026-03-05T09:54:23+00:00] The EU weighs aid to fix Ukraine oil plant at the center of the loan delay| FJ
 [Telegram:WalterBloomberg] [2026-03-04T23:15:31+00:00] White House says Trump using preventative skin treatment for neck rash, offers no other details ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-03-04T23:46:09+00:00] JAPAN'S NIKKEI AVERAGE FUTURES UP 3.8% IN EARLY TRADE ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-03-05T01:23:29+00:00] CHINA SETS YUAN MID-POINT AT STRONGEST LEVEL SINCE APRIL 25, 2023 ( @WalterBloomberg )
