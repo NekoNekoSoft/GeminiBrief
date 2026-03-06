@@ -1,15 +1,15 @@
 [WEB] Macro Week Ahead: US Jobs Data on Deck (2026-03-02T07:19:00+00:00): The Week That Was. Trump's SOTU and tariffs. A light data calendar last week left markets at the mercy of headlines. US politics, Fed speak, and a blowout earnings report from N
 [WEB] Oil VIX surges but fear was higher last year (2026-03-04T12:07:00+00:00): The Cboe Crude Oil ETF Volatility index (OVZ) is a 'fear gauge' for the oil market. Like Cboe's VIX, which measures expected volatility over the next 30 days for the S&P 500, the OVZ tracks option activity in the United States Oil ETF,
 [WEB] Pure Storage Stock Analysis: Buy, Hold, or Sell? (2025-05-24T15:48:00+00:00): Pure Storage (NYSE: PSTG) is experiencing an increase in demand for its products due to the rising effectiveness of artificial intelligence. Where to invest $1,000 right now? Our analyst team just revealed what they believe are the 10 best stocks to buy ...
-[WEB] SPHD: Here Appreciation Is Sacrificed For Dividends, And Today It Seems Right That Way (2026-02-26T21:51:00+00:00): SPHD is a passive ETF that tracks the S&P 500 Low Volatility High Dividend Index, therefore it seeks to achieve high correlation and minimal tracking error. The expense ratio is 0.30% with a median Bid/Ask spread of 0.02%.
+[WEB] 3 Dividend ETFs Designed for Conservative Retirees (2026-02-24T17:45:00+00:00): You've worked hard and saved diligently your whole life. And you've finally clocked out for the last time and have taken the plunge into your Golden Years. Now, you want to live the life you deserve.
 [WEB] NASDAQ Index, S&P 500 and Dow Jones Forecasts - US Indices Fall in Early Trading (2026-03-06T15:00:00+00:00): The US indices are seeing sellers in Europe and Asia, but at this point in time, it is worth noting that the Americans continue to buy dips.
-[Telegram:FinancialJuice] [2026-03-06T15:37:27+00:00] Fire at Fujairah oil industry zone caused by falling debris after Emirati air defences intercepted a drone - state news agency| FJ
-[Telegram:FinancialJuice] [2026-03-06T15:38:20+00:00] ❗ Iran delays naming a new leader out of security concerns - NYT.| FJ
-[Telegram:FinancialJuice] [2026-03-06T15:40:27+00:00] Saudi Arabia: Cruise missile was intercepted and destroyed east of Al Kharj Governorate - Ministry of Defense.| FJ
-[Telegram:FinancialJuice] [2026-03-06T15:43:14+00:00] Russia's Deputy Prime Minister Novak: Russian companies are considering opportunities to redirect supplies to Asia-Pacific markets.| FJ
-[Telegram:FinancialJuice] [2026-03-06T15:51:25+00:00] Fitch Ratings: US private credit defaults hit new highs, but losses remain contained.| FJ
-[Telegram:WalterBloomberg] [2026-03-06T14:57:01+00:00] IRAN'S REVOLUTIONARY GUARDS TARGET U.S. FORCES IN UAE'S AL DHAFRA AIR BASE AND ALI AL SALEM BASE IN KUWAIT - IRANIAN STATE MEDIA ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-03-06T16:44:10+00:00] US CENTCOM: Iran's attacks on Bahrain will not go unanswered.| FJ
+[Telegram:FinancialJuice] [2026-03-06T16:46:38+00:00] Fed's Miran: The neutral is like 2.5% to 2.75%.| FJ
+[Telegram:FinancialJuice] [2026-03-06T16:52:40+00:00] Fed's Schmid: Businesses are pausing on hiring.| FJ
+[Telegram:FinancialJuice] [2026-03-06T16:54:04+00:00] Fed's Schmid: The labor market is under structural, not cyclical, strain.| FJ
+[Telegram:FinancialJuice] [2026-03-06T16:55:59+00:00] US Oil rises above $90 a barrel for the first time since October 2023.| FJ
 [Telegram:WalterBloomberg] [2026-03-06T15:08:39+00:00] IRAN'S MILITARY WARN IRAQ'S KURDISTAN REGIONAL GOVERNMENT THAT IT WILL TAKE STRONG ACTION AGAINST ANY MOVE TO DEPLOY HOSTILE FORCES ALONG IRANIAN BORDER - STATE TV ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-03-06T15:10:15+00:00] TRUMP: WE ARE MOVING THOUSANDS OF PEOPLE OUT OF VARIOUS COUNTRIES THROUGHOUT MIDDLE EAST TRUMP: IT IS BEING DONE QUIETLY, BUT SEAMLESSLY ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-03-06T15:36:13+00:00] FIRE AT UAE'S FUJAIRAH OIL INDUSTRY ZONE BROUGHT UNDER CONTROL - STATE NEWS AGENCY ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-03-06T15:38:41+00:00] *IRAN DELAYS NAMING NEW LEADER OUT OF SECURITY CONCERNS: NYT ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-06T16:05:05+00:00] QATARENERGY IS OFFERING 10 LNG TANKERS FOR LEASE - INDUSTRY SOURCES ( @WalterBloomberg )
