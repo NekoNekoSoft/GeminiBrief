@@ -1,15 +1,15 @@
 [WEB] Macro Week Ahead: US Jobs Data on Deck (2026-03-02T07:19:00+00:00): The Week That Was. Trump's SOTU and tariffs. A light data calendar last week left markets at the mercy of headlines. US politics, Fed speak, and a blowout earnings report from N
-[WEB] Oil VIX surges but fear was higher last year (2026-03-04T12:07:00+00:00): The Cboe Crude Oil ETF Volatility index (OVZ) is a 'fear gauge' for the oil market. Like Cboe's VIX, which measures expected volatility over the next 30 days for the S&P 500, the OVZ tracks option activity in the United States Oil ETF,
+[WEB] UVIX jumps 13% as VIX nears 'fear zone' of 30, volatility ETFs surge (2026-03-06T19:26:33+00:00): Volatility-linked ETFs were up sharply on Friday, as market anxiety intensified, pushing the widely watched Cboe Volatility Index close to levels typically associated with extreme investor fear. The VIX,
 [WEB] Pure Storage Stock Analysis: Buy, Hold, or Sell? (2025-05-24T15:48:00+00:00): Pure Storage (NYSE: PSTG) is experiencing an increase in demand for its products due to the rising effectiveness of artificial intelligence. Where to invest $1,000 right now? Our analyst team just revealed what they believe are the 10 best stocks to buy ...
 [WEB] 3 Dividend ETFs Designed for Conservative Retirees (2026-02-24T17:45:00+00:00): You've worked hard and saved diligently your whole life. And you've finally clocked out for the last time and have taken the plunge into your Golden Years. Now, you want to live the life you deserve.
-[WEB] NASDAQ Index, S&P 500 and Dow Jones Forecasts - US Indices Fall in Early Trading (2026-03-06T15:00:00+00:00): The US indices are seeing sellers in Europe and Asia, but at this point in time, it is worth noting that the Americans continue to buy dips.
-[Telegram:FinancialJuice] [2026-03-06T16:44:10+00:00] US CENTCOM: Iran's attacks on Bahrain will not go unanswered.| FJ
-[Telegram:FinancialJuice] [2026-03-06T16:46:38+00:00] Fed's Miran: The neutral is like 2.5% to 2.75%.| FJ
-[Telegram:FinancialJuice] [2026-03-06T16:52:40+00:00] Fed's Schmid: Businesses are pausing on hiring.| FJ
-[Telegram:FinancialJuice] [2026-03-06T16:54:04+00:00] Fed's Schmid: The labor market is under structural, not cyclical, strain.| FJ
-[Telegram:FinancialJuice] [2026-03-06T16:55:59+00:00] US Oil rises above $90 a barrel for the first time since October 2023.| FJ
-[Telegram:WalterBloomberg] [2026-03-06T15:08:39+00:00] IRAN'S MILITARY WARN IRAQ'S KURDISTAN REGIONAL GOVERNMENT THAT IT WILL TAKE STRONG ACTION AGAINST ANY MOVE TO DEPLOY HOSTILE FORCES ALONG IRANIAN BORDER - STATE TV ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-06T15:10:15+00:00] TRUMP: WE ARE MOVING THOUSANDS OF PEOPLE OUT OF VARIOUS COUNTRIES THROUGHOUT MIDDLE EAST TRUMP: IT IS BEING DONE QUIETLY, BUT SEAMLESSLY ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-06T15:36:13+00:00] FIRE AT UAE'S FUJAIRAH OIL INDUSTRY ZONE BROUGHT UNDER CONTROL - STATE NEWS AGENCY ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-06T15:38:41+00:00] *IRAN DELAYS NAMING NEW LEADER OUT OF SECURITY CONCERNS: NYT ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-06T16:05:05+00:00] QATARENERGY IS OFFERING 10 LNG TANKERS FOR LEASE - INDUSTRY SOURCES ( @WalterBloomberg )
+[WEB] S&P 500 poised to resume larger rally after testing this technical level: Evercore (2026-03-02T15:39:00+00:00): The S&P 500's volatile start to 2026 has not altered the broader upward trajectory, with Evercore ISI arguing that a pullback toward key support should provide a buying opportunity.
+[Telegram:FinancialJuice] [2026-03-06T21:39:35+00:00] ❗ US Treasury Secretary Bessent: We may unsanction other Russian oil - Fox Business| FJ
+[Telegram:FinancialJuice] [2026-03-06T21:41:35+00:00] Canada's Trade Minister LeBlanc's Office: Leblanc had a constructive and substantive discussion on USMCA Agreement joint review process with USTR Greer.| FJ
+[Telegram:FinancialJuice] [2026-03-06T21:45:39+00:00] Lockheed agrees to quadruple critical munitions output. $LMT| FJ
+[Telegram:FinancialJuice] [2026-03-06T21:52:58+00:00] Japan Trade Minister Akazawa: We requested that Japan wouldn't be put at a disadvantage.| FJ
+[Telegram:FinancialJuice] [2026-03-06T21:53:26+00:00] Japan Trade Minister Akazawa: We requested with the US that the two countries would stick to last year's trade agreement, and that the new 15% tariff wouldn't apply to Japan.| FJ
+[Telegram:WalterBloomberg] [2026-03-06T20:05:15+00:00] U.S. COURT OF INTERNATIONAL TRADE SUSPENDS MARCH 5 ORDER DIRECTING CUSTOMS ON TARIFF REFUNDS 'TO THE EXTENT THAT IT DIRECTS IMMEDIATE COMPLIANCE' ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-06T21:17:06+00:00] IRAN UN ENVOY: TRUMP STATEMENT ON CHOOSING NEW SUPREME LEADER IN IRAN CONSTITUTES VIOLATION OF PRINCIPLE OF NON INTERFERENCE IN INTERNAL AFFAIRS OF STATES ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-06T21:17:29+00:00] U.S. MILITARY DAMAGES OR DESTROYS 43 IRANIAN WARSHIPS SO FAR, U.S. CENTRAL COMMAND SAYS ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-06T21:42:30+00:00] BESSENT: WE MAY UNSANCTION OTHER RUSSIAN OIL -FOX BUSINESS ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-06T21:45:44+00:00] BESSENT, ON SAFE PASSAGE OF SHIPS IN STRAIT OF HORMUZ, SAYS U.S. IS ON TRACK TO GET THIS SOLVED  -FOX BUSINESS ( @WalterBloomberg )
