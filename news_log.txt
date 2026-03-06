@@ -2,14 +2,14 @@
 [WEB] Oil VIX surges but fear was higher last year (2026-03-04T12:07:00+00:00): The Cboe Crude Oil ETF Volatility index (OVZ) is a 'fear gauge' for the oil market. Like Cboe's VIX, which measures expected volatility over the next 30 days for the S&P 500, the OVZ tracks option activity in the United States Oil ETF,
 [WEB] Pure Storage Stock Analysis: Buy, Hold, or Sell? (2025-05-24T15:48:00+00:00): Pure Storage (NYSE: PSTG) is experiencing an increase in demand for its products due to the rising effectiveness of artificial intelligence. Where to invest $1,000 right now? Our analyst team just revealed what they believe are the 10 best stocks to buy ...
 [WEB] SPHD: Here Appreciation Is Sacrificed For Dividends, And Today It Seems Right That Way (2026-02-26T21:51:00+00:00): SPHD is a passive ETF that tracks the S&P 500 Low Volatility High Dividend Index, therefore it seeks to achieve high correlation and minimal tracking error. The expense ratio is 0.30% with a median Bid/Ask spread of 0.02%.
-[WEB] S&P 500 poised to resume larger rally after testing this technical level: Evercore (2026-03-02T15:39:00+00:00): The S&P 500's volatile start to 2026 has not altered the broader upward trajectory, with Evercore ISI arguing that a pullback toward key support should provide a buying opportunity.
-[Telegram:FinancialJuice] [2026-03-06T13:00:30+00:00] Secured overnight financing rate 3.66% March 5th vs 3.67% March 4th| FJ
-[Telegram:FinancialJuice] [2026-03-06T13:05:26+00:00] Swiss government weighs temporary VAT increase to bolster defense| FJ
-[Telegram:FinancialJuice] [2026-03-06T13:09:40+00:00] Two liquefied petroleum gas tankers sailed from Iran on Friday - Ship trackers and trade sources| FJ
-[Telegram:FinancialJuice] [2026-03-06T13:10:36+00:00] Indian oil rejects reports of petrol and diesel shortages| FJ
-[Telegram:FinancialJuice] [2026-03-06T13:16:18+00:00] Trump and Hegseth to meet CEOs of defense companies today - CBS Reporter on X| FJ
-[Telegram:WalterBloomberg] [2026-03-05T21:40:56+00:00] TRUMP ON IRAN: FURTHER ACTION TO REDUCE PRESSURE ON OIL IS IMMINENT ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-05T21:41:13+00:00] Trump: Calling on Iranian military to lay down their arms ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-05T21:41:38+00:00] TRUMP: WE URGE IRANIAN DIPLOMATS AROUND WORLD TO REQUEST ASYLUM ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-05T21:44:58+00:00] TRUMP: WE WANT TO FINISH IRAN FIRST, BUT CUBA IS A QUESTION OF TIME ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-05T21:46:19+00:00] Trump: Cuba wants to make a deal so badly ( @WalterBloomberg )
+[WEB] S&P 500 Stages a Comeback, Fueled by Economic Data and Sector Shifts (2026-03-06T13:26:00+00:00): The S&P 500 has successfully broken free from a period of heightened volatility, closing two days ago with a solid 0.8% gain at 6,869.50 points. This revers
+[Telegram:FinancialJuice] [2026-03-06T14:40:46+00:00] WH Sr. Adviser Hassett: There are no systemic issues with markets.| FJ
+[Telegram:FinancialJuice] [2026-03-06T14:42:06+00:00] JPMorgan expects Bank of England to deliver the next interest rate cut in April 2026 instead of March.| FJ
+[Telegram:FinancialJuice] [2026-03-06T14:51:01+00:00] GPD jamming floods the Strait of Hormuz, adding to the fog of war. Dozens of signal jammers crowd coastlines, scrambling GPS.| FJ
+[Telegram:FinancialJuice] [2026-03-06T14:51:21+00:00] GPS jamming floods the Strait of Hormuz, adding to the fog of war. Dozens of signal jammers crowd coastlines, scrambling GPS.| FJ
+[Telegram:FinancialJuice] [2026-03-06T14:52:22+00:00] ❗ Fed's Goolsbee: It was a tough miss on the jobs report today. Fed's Goolsbee: If you got several months like that, it would be a concern.| FJ
+[Telegram:WalterBloomberg] [2026-03-06T14:37:14+00:00] WHITE HOUSE ECONOMIC ADVISER ON IRAN, OIL: EFFORT IN IRAN IS WAY AHEAD OF SCHEDULE ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-06T14:38:53+00:00] CBOE VOLATILITY INDEX TOUCHES OVER FOUR-MONTH HIGH, LAST UP 4.82 POINTS AT 28.57 ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-06T14:40:00+00:00] WHITE HOUSE ECONOMIC ADVISER HASSETT ON REDEMPTIONS: SEEING NOTHING LIKE 2008 ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-06T14:40:15+00:00] HASSETT: MARKETS WILL MOVE FORWARD QUICKLY WHEN IRAN RESOLVED ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-06T14:41:30+00:00] *UK TWO-YEAR BOND YIELD CLIMBS 20BPS AS ENERGY PRICES SOAR ( @WalterBloomberg )
