@@ -1,15 +1,15 @@
 [WEB] Macro Week Ahead: US Jobs Data on Deck (2026-03-02T07:19:00+00:00): The Week That Was. Trump's SOTU and tariffs. A light data calendar last week left markets at the mercy of headlines. US politics, Fed speak, and a blowout earnings report from N
-[WEB] VIX surges to three-month high as Iran conflict sparks market turmoil (2026-03-03T14:07:00+00:00): Market turbulence intensified on Tuesday as geopolitical tensions between Iran, Israel, and the United States rattled investor sentiment, sending equities sharply lower and volatility sharply higher.
-[WEB] Pure Storage Stock Analysis: Buy, Hold, or Sell? (2025-05-24T15:48:00+00:00): Pure Storage (NYSE: PSTG) is experiencing an increase in demand for its products due to the rising effectiveness of artificial intelligence. Where to invest $1,000 right now? Our analyst team just revealed what they believe are the 10 best stocks to buy ...
+[WEB] VIX tops 30 for the first time since April tariff turmoil (2026-03-09T11:08:24+00:00): Wall Street's fear gauge reached levels not seen in nearly a year on Monday as an oil shock continued to roil global markets. The CBOE Volatility Index (VIX) topped the 30 level for the first time since April 22 amid the Liberation Day tariff volatility that took the index above 60 intraday at the p
+[WEB] Why Pure Storage (PSTG) Stock Is Down Today (2025-09-02T20:49:00+00:00): Shares of data storage solutions provider Pure Storage (NYSE:PSTG) fell 1.4% in the afternoon session after the stock was caught in a broader tech-sector swoon as rising bond yields pressured Wall Street. The market kicked off September on a sour note ...
 [WEB] 3 Dividend ETFs Designed for Conservative Retirees (2026-02-24T17:45:00+00:00): You've worked hard and saved diligently your whole life. And you've finally clocked out for the last time and have taken the plunge into your Golden Years. Now, you want to live the life you deserve.
 [WEB] S&P 500 poised to resume larger rally after testing this technical level: Evercore (2026-03-02T15:39:00+00:00): The S&P 500's volatile start to 2026 has not altered the broader upward trajectory, with Evercore ISI arguing that a pullback toward key support should provide a buying opportunity.
-[Telegram:FinancialJuice] [2026-03-09T11:14:41+00:00] EU Commission Spokesperson: We are far less concerned about the security of supply of oil and gas than we are about the high energy prices| FJ
-[Telegram:FinancialJuice] [2026-03-09T11:16:16+00:00] EU Commission Spokesperson: All member states have between 85 to 90 days of stocks of oil or equivalent| FJ
-[Telegram:FinancialJuice] [2026-03-09T11:19:20+00:00] EU commission spokesperson: No comment on the prices of oil and gas, except that we do follow the increases with some concern| FJ
-[Telegram:FinancialJuice] [2026-03-09T11:40:27+00:00] German Chemical Makers' Association VCI: Higher energy costs will have to be passed on to customers, and higher prices will dampen demand.| FJ
-[Telegram:FinancialJuice] [2026-03-09T11:41:27+00:00] German Chemical Makers' Association VCI: There is a risk that the effects of the war in Iran could drag on for weeks or even months| FJ
-[Telegram:WalterBloomberg] [2026-03-09T00:06:56+00:00] *S. KOREA'S KOSPI FALLS MORE THAN 6% AS SAMSUNG, SK HYNIX TUMBLE ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-09T00:09:19+00:00] *HEGSETH SAYS TRUMP WILL 'SET THE TERMS' OF IRAN SURRENDER: CBS ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-09T00:13:48+00:00] *JAPAN'S NIKKEI DROPS 5.4%, MOST SINCE APRIL TARIFFS SELLOFF ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-09T00:15:21+00:00] *HEGSETH TELLS CBS IRANIAN NAVY IS 'LARGELY NO MORE' ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-09T01:30:12+00:00] YIELD ON 10-YR U.S. TREASURY NOTES UP 5.5 BASIS POINTS AT 4.1867% ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-03-09T13:22:42+00:00] Iraq's Kirkuk crude oil flows to Turkey's Ceyhan port stopped on March 9th - Shipping source| FJ
+[Telegram:FinancialJuice] [2026-03-09T13:25:57+00:00] US Secretary of State Rubio: Goals of Iran mission are clear, to destroy missiles| FJ
+[Telegram:FinancialJuice] [2026-03-09T13:27:07+00:00] US Secretary of State Rubio: US forces are also trying to destroy Iran's navy| FJ
+[Telegram:FinancialJuice] [2026-03-09T13:32:53+00:00] EU's Von der Leyen and Costa discussed energy with Middle East leaders| FJ
+[Telegram:FinancialJuice] [2026-03-09T13:33:47+00:00] EU open to 'further tailor' maritime defensive operations| FJ
+[Telegram:WalterBloomberg] [2026-03-09T13:18:54+00:00] STRAIT OF HORMUZ CRISIS HITS GLOBAL ENERGY The near-closure of the Strait of Hormuz—a key route for 25% of seaborne oil and 20% of LNG—has disrupted tanker traffic and pushed crude above $100, the first time since 2022. Backups in the Persian Gulf, filling storage, and https://t.co/llBvMhAnQw ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-09T13:22:27+00:00] 🚨 IRAQ'S KIRKUK CRUDE OIL FLOWS TO TURKEY'S CEYHAN PORT STOPPED ON MARCH 9 - SHIPPING SOURCE ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-09T13:27:42+00:00] *GOALS OF IRAN MISSION ARE CLEAR, TO DESTROY MISSILES: RUBIO *IRAN IS A 'TERRORISTIC REGIME' AND IS ATTACKING NEIGHBORS ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-09T13:33:50+00:00] U.S. STOCKS EXTEND FALL, S&P 500 DOWN 1.00 PCT ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-09T13:36:12+00:00] *EU OPEN TO ‘FURTHER TAILOR’ MARITIME DEFENSIVE OPERATIONS ( @WalterBloomberg )
