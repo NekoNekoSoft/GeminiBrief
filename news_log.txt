@@ -2,14 +2,14 @@
 [WEB] Cboe to Launch BITVX, A New Volatility Index Based on IBIT Options (2026-03-09T17:18:00+00:00): Cboe Global Markets, Inc. (Cboe: CBOE), the world's leading derivatives and securities exchange network, today announced plans to launch the Cboe IBIT Volatility Index (Ticker: BITVX) on Monday, March 23.
 [WEB] Why Pure Storage (PSTG) stock is falling today (2025-12-13T00:05:00+00:00): Shares of data storage solutions provider Pure Storage (NYSE:PSTG) fell 4.6% in the afternoon session after investors rotated out of AI-linked high-flyers following underwhelming earnings updates from Oracle and Broadcom as the core thesis shifted from ...
 [WEB] 3 Dividend ETFs Designed for Conservative Retirees (2026-02-24T17:45:00+00:00): You've worked hard and saved diligently your whole life. And you've finally clocked out for the last time and have taken the plunge into your Golden Years. Now, you want to live the life you deserve.
-[WEB] S&P 500 and Nasdaq 100: US Indices Rise Today as Oil Drop Lifts Tech Stocks (2026-03-11T12:19:00+00:00): US stock market edges higher as crude oil retreats, lifting S&P 500 and Nasdaq 100. Traders watch oil prices and key technical levels for the next move in US indices.
-[Telegram:FinancialJuice] [2026-03-11T16:49:34+00:00] Trump concludes remarks to reporters.| FJ
-[Telegram:FinancialJuice] [2026-03-11T16:55:12+00:00] Volland SPX Dealer Premium: $300.21B This widget shows the total option premium dealers have collected from open positions. Net dealer premium stands at roughly $300.21B, signaling a very large premium cushion embedded in SPX options positioning. 0DTE premium is about $3.17B| FJ
-[Telegram:FinancialJuice] [2026-03-11T17:00:23+00:00] Treasury WI 10-year yield 4.210% before $39 billion auction.| FJ
-[Telegram:FinancialJuice] [2026-03-11T17:00:59+00:00] Trump on reopening Strait of Hormuz: It's working out very well.| FJ
-[Telegram:FinancialJuice] [2026-03-11T17:03:03+00:00] US 10-Year Note Auction High Yield 4.217% (Tailed by 0.7 basis points) Bid-to-cover 2.45 Sells $39 bln Awards 24.68% of bids at high Primary Dealers take 12.72% Direct 12.83% Indirect 74.45%| FJ
-[Telegram:WalterBloomberg] [2026-03-11T16:39:29+00:00] TRUMP ON MILITARY ACTION TO END IRAN OPERATION: MORE OF SAME ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-11T16:41:06+00:00] TRUMP: NOT WORRIED ABOUT ANY IRAN-BACKED ATTACKS ON US SOIL ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-11T16:45:07+00:00] 🚨 TRUMP ON HITTING IRAN: NOT FINISHED YET ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-11T16:45:48+00:00] TRUMP ON SPAIN: THEY HAVE BEEN BAD, IT MAY CUT OFF TRADE WITH SPAIN ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-11T17:02:25+00:00] TRUMP SAYS ON REOPENING STRAIT OF HORMUZ: IT'S WORKING OUT VERY WELL ( @WalterBloomberg )
+[WEB] S&P 500 and Nasdaq 100: US Indices Rise Today as Oil Drop Lifts Tech Stocks (2026-03-11T19:38:00+00:00): US stock market edges higher as crude oil retreats, lifting S&P 500 and Nasdaq 100. Traders watch oil prices and key technical levels for the next move in US indices.
+[Telegram:FinancialJuice] [2026-03-11T20:54:44+00:00] Trump: There are more people working in America than ever in our history.| FJ
+[Telegram:FinancialJuice] [2026-03-11T20:55:36+00:00] Trump praises stock market highs and 401(K) gains.| FJ
+[Telegram:FinancialJuice] [2026-03-11T20:59:18+00:00] Trump: Tim Cook of Apple has done a good job. $AAPL| FJ
+[Telegram:FinancialJuice] [2026-03-11T21:01:14+00:00] Trump on Iran: We did an excursion to get rid of evil people.| FJ
+[Telegram:FinancialJuice] [2026-03-11T22:31:11+00:00] ❗ Iranian explosive-laden boats strike two fuel tankers in Iraqi waters, initial investigation from Iraqi security officials shows.| FJ
+[Telegram:WalterBloomberg] [2026-03-11T21:17:05+00:00] *TRUMP ON IRAN, OIL PRICES: WE HAVE TO FINISH THE JOB ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-11T21:21:59+00:00] ATTENDEE FAINTS AT TRUMP RALLY IN KY ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-11T21:35:58+00:00] IRAN'S REVOLUTIONARY GUARDS SAYS IT CARRIED OUT A JOINT OPERATION WITH LEBANON'S HEZBOLLAH AGAINST ISRAEL ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-11T21:53:47+00:00] TWO FOREIGN TANKERS CARRYING IRAQI FUEL OIL WERE SUBJECTED TO UNIDENTIFIED ATTACKS INSIDE TERRITORIAL WATERS, CAUSING THEM TO CATCH FIRE - IRAQI PORT OFFICIAL TO REUTERS ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-11T22:33:05+00:00] IRANIAN EXPLOSIVE-LADEN BOATS HIT TWO FUEL TANKERS IN IRAQI WATERS, INITIAL INVESTIGATION FROM IRAQI SECURITY OFFICIALS SHOWS ( @WalterBloomberg )
