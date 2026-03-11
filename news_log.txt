@@ -3,13 +3,13 @@
 [WEB] Why Pure Storage (PSTG) stock is falling today (2025-12-13T00:05:00+00:00): Shares of data storage solutions provider Pure Storage (NYSE:PSTG) fell 4.6% in the afternoon session after investors rotated out of AI-linked high-flyers following underwhelming earnings updates from Oracle and Broadcom as the core thesis shifted from ...
 [WEB] 3 Dividend ETFs Designed for Conservative Retirees (2026-02-24T17:45:00+00:00): You've worked hard and saved diligently your whole life. And you've finally clocked out for the last time and have taken the plunge into your Golden Years. Now, you want to live the life you deserve.
 [WEB] S&P 500 and Nasdaq 100: US Indices Rise Today as Oil Drop Lifts Tech Stocks (2026-03-11T12:19:00+00:00): US stock market edges higher as crude oil retreats, lifting S&P 500 and Nasdaq 100. Traders watch oil prices and key technical levels for the next move in US indices.
-[Telegram:FinancialJuice] [2026-03-11T15:42:24+00:00] Speaker of Iran’s Parliament: Iran can target any location it chooses with fewer missiles. Today, the Iron Dome appears to be an irony. - Post on X| FJ
-[Telegram:FinancialJuice] [2026-03-11T15:48:25+00:00] What would the solution be? (Worst ideas only)| FJ
-[Telegram:FinancialJuice] [2026-03-11T15:49:50+00:00] ECB's Schnabel: Creating a European safe asset doesn't imply issuing more debt.| FJ
-[Telegram:FinancialJuice] [2026-03-11T15:52:48+00:00] Eurozone money markets now fully price in an ECB rate hike by July.| FJ
-[Telegram:FinancialJuice] [2026-03-11T15:55:20+00:00] US Interior Secretary Burgum on the Strategic Petroleum Reserve: Trump would announce. - Fox Business| FJ
-[Telegram:WalterBloomberg] [2026-03-11T15:37:27+00:00] BLS STRUGGLES WITH DATA COLLECTION AMID STAFF SHORTAGE The Bureau of Labor Statistics has faced staffing shortages and a federal hiring freeze, forcing reliance on less precise estimation methods for price data. In February, “different-cell imputation” was used in 40% of ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-11T15:52:15+00:00] EURO ZONE MONEY MARKETS NOW FULLY PRICE IN ECB RATE HIKE BY JULY ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-11T15:56:18+00:00] IEA TO RELEASE 400M BARRELS OF OIL—BUT IMPACT LIMITED The International Energy Agency will release 400 million barrels from emergency reserves—about four days of global oil use and 22% of members’ stocks. Physical limits mean releases can’t exceed 2.5 million barrels per day, ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-11T15:56:58+00:00] 🚨 IRAN HAS LAID ABOUT A DOZEN MINES IN STRAIT OF HORMUZ, SOURCES SAY ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-11T15:58:02+00:00] Iran has deployed about a dozen mines in the Strait of Hormuz, halting oil and LNG exports and pushing energy prices higher. The U.S. Navy has destroyed 16 mine-laying vessels but is not escorting commercial ships. President Trump demanded immediate removal of the mines, warning ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-03-11T16:49:34+00:00] Trump concludes remarks to reporters.| FJ
+[Telegram:FinancialJuice] [2026-03-11T16:55:12+00:00] Volland SPX Dealer Premium: $300.21B This widget shows the total option premium dealers have collected from open positions. Net dealer premium stands at roughly $300.21B, signaling a very large premium cushion embedded in SPX options positioning. 0DTE premium is about $3.17B| FJ
+[Telegram:FinancialJuice] [2026-03-11T17:00:23+00:00] Treasury WI 10-year yield 4.210% before $39 billion auction.| FJ
+[Telegram:FinancialJuice] [2026-03-11T17:00:59+00:00] Trump on reopening Strait of Hormuz: It's working out very well.| FJ
+[Telegram:FinancialJuice] [2026-03-11T17:03:03+00:00] US 10-Year Note Auction High Yield 4.217% (Tailed by 0.7 basis points) Bid-to-cover 2.45 Sells $39 bln Awards 24.68% of bids at high Primary Dealers take 12.72% Direct 12.83% Indirect 74.45%| FJ
+[Telegram:WalterBloomberg] [2026-03-11T16:39:29+00:00] TRUMP ON MILITARY ACTION TO END IRAN OPERATION: MORE OF SAME ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-11T16:41:06+00:00] TRUMP: NOT WORRIED ABOUT ANY IRAN-BACKED ATTACKS ON US SOIL ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-11T16:45:07+00:00] 🚨 TRUMP ON HITTING IRAN: NOT FINISHED YET ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-11T16:45:48+00:00] TRUMP ON SPAIN: THEY HAVE BEEN BAD, IT MAY CUT OFF TRADE WITH SPAIN ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-11T17:02:25+00:00] TRUMP SAYS ON REOPENING STRAIT OF HORMUZ: IT'S WORKING OUT VERY WELL ( @WalterBloomberg )
