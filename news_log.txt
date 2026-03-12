@@ -3,13 +3,13 @@
 [WEB] Why Pure Storage (PSTG) stock is falling today (2025-12-13T00:05:00+00:00): Shares of data storage solutions provider Pure Storage (NYSE:PSTG) fell 4.6% in the afternoon session after investors rotated out of AI-linked high-flyers following underwhelming earnings updates from Oracle and Broadcom as the core thesis shifted from ...
 [WEB] 3 Dividend ETFs Designed for Conservative Retirees (2026-02-24T17:45:00+00:00): You've worked hard and saved diligently your whole life. And you've finally clocked out for the last time and have taken the plunge into your Golden Years. Now, you want to live the life you deserve.
 [WEB] S&P 500 and Nasdaq 100: US Indices Rise Today as Oil Drop Lifts Tech Stocks (2026-03-11T21:05:00+00:00): US stock market edges higher as crude oil retreats, lifting S&P 500 and Nasdaq 100. Traders watch oil prices and key technical levels for the next move in US indices.
-[Telegram:FinancialJuice] [2026-03-11T23:20:18+00:00] USTR Greer Comments Summary: Section 301 investigation will focus on structural excess capacity and production among various manufacturing sectors. Would like to target concluding Section 301 investigations before the Section 122 tariffs expire EU has done approximately zero| FJ
-[Telegram:FinancialJuice] [2026-03-11T23:21:17+00:00] US DoE: US to release 172 million barrels of crude from SPR. US DoE: This will take approximately 120 days to deliver based on planned discharge rates.| FJ
-[Telegram:FinancialJuice] [2026-03-11T23:24:16+00:00] Iran’s Khatam al-Anbiya Central Headquarters calls the recent attack at Oman’s Salalah port "highly suspicious" and confirms an ongoing investigation.| FJ
-[Telegram:FinancialJuice] [2026-03-11T23:25:31+00:00] Iran’s Khatam al-Anbiya reiterated that Iran's armed forces fully respect the national security & sovereignty of the friendly nation of Oman.| FJ
-[Telegram:FinancialJuice] [2026-03-11T23:34:28+00:00] ❗ Iraqi official: Oil ports have completely stopped operations. Commercial ports continue to operate after attack on fuel tanker - State News Agency| FJ
-[Telegram:WalterBloomberg] [2026-03-11T22:57:23+00:00] UNITED STATES TO RELEASE 172 MLN BARRELS OF OIL FROM STRATEGIC PETROLEUM RESERVE - DOE ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-11T22:57:45+00:00] TRUMP AUTHORIZED DEPARTMENT OF ENERGY TO RELEASE 172 MLN BARRELS FROM STRATEGIC PETROLEUM RESERVE, BEGINNING NEXT WEEK, DOE SAYS ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-11T23:03:43+00:00] U.S. INTELLIGENCE FINDS IRAN GOVERNMENT NOT AT RISK OF COLLAPSE -SOURCES ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-03-11T23:50:36+00:00] ❗ US Fed Fund futures continue slide, only 26 BPS of cuts priced for this year.| FJ
+[Telegram:FinancialJuice] [2026-03-11T23:58:19+00:00] ❗ Iranian attack targets fuel tanks at a facility in Bahrain's Muharraq - Interior Ministry.| FJ
+[Telegram:FinancialJuice] [2026-03-12T01:11:04+00:00] US officials said Iran laid mines in the Strait of Hormuz - WSJ| FJ
+[Telegram:FinancialJuice] [2026-03-12T01:14:47+00:00] Pentagon informed Congress the first week of the ongoing war against Iran cost the US $11.3 bln, a source told AP| FJ
+[Telegram:FinancialJuice] [2026-03-12T02:42:23+00:00] ❗ Oman has evacuated all vessels from its key oil export terminal at Mina Al Fahal as a precautionary measure.| FJ
 [Telegram:WalterBloomberg] [2026-03-11T23:12:15+00:00] USTR GREER: EU HAS DONE 'APPROXIMATELY ZERO PERCENT' OF WHAT WAS AGREED IN BI-LAT TRADE DEAL ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-03-11T23:15:56+00:00] USTR Greer: US Initiating Section 301 Investigation Into 16 Trading Partners Including China, Eu, Mexico, Vietnam, India, And Japan ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-12T01:09:22+00:00] *US OFFICIALS SAID IRAN LAID MINES IN STRAIT OF HORMUZ: WSJ *US ESTIMATED 10 MINES LAID IN STRAIT OF HORMUZ: WSJ ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-12T02:23:48+00:00] *OMAN SAID TO EVACUATE SHIPS FROM MINA AL FAHAL OIL TERMINAL ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-12T02:24:01+00:00] UAE REPORTS NEW WAVE OF IRANIAN MISSILE AND DRONE ATTACK ( @WalterBloomberg )
