@@ -1,15 +1,15 @@
 [WEB] Macro Week Ahead: US Jobs Data on Deck (2026-03-02T07:19:00+00:00): The Week That Was. Trump's SOTU and tariffs. A light data calendar last week left markets at the mercy of headlines. US politics, Fed speak, and a blowout earnings report from N
 [WEB] Cboe to Launch BITVX, A New Volatility Index Based on IBIT Options (2026-03-09T17:18:00+00:00): Cboe Global Markets, Inc. (Cboe: CBOE), the world's leading derivatives and securities exchange network, today announced plans to launch the Cboe IBIT Volatility Index (Ticker: BITVX) on Monday, March 23.
-[WEB] Pure Storage Stock Analysis: Buy, Hold, or Sell? (2025-05-24T15:48:00+00:00): Pure Storage (NYSE: PSTG) is experiencing an increase in demand for its products due to the rising effectiveness of artificial intelligence. Where to invest $1,000 right now? Our analyst team just revealed what they believe are the 10 best stocks to buy ...
+[WEB] Why Pure Storage (PSTG) stock is falling today (2025-12-13T00:05:00+00:00): Shares of data storage solutions provider Pure Storage (NYSE:PSTG) fell 4.6% in the afternoon session after investors rotated out of AI-linked high-flyers following underwhelming earnings updates from Oracle and Broadcom as the core thesis shifted from ...
 [WEB] 3 Dividend ETFs Designed for Conservative Retirees (2026-02-24T17:45:00+00:00): You've worked hard and saved diligently your whole life. And you've finally clocked out for the last time and have taken the plunge into your Golden Years. Now, you want to live the life you deserve.
 [WEB] S&P 500 and Nasdaq 100: US Indices Rise Today as Oil Drop Lifts Tech Stocks (2026-03-11T21:05:00+00:00): US stock market edges higher as crude oil retreats, lifting S&P 500 and Nasdaq 100. Traders watch oil prices and key technical levels for the next move in US indices.
-[Telegram:FinancialJuice] [2026-03-12T14:56:55+00:00] Trump administration tells the oil industry to prepare for a possible Jones Act waiver, according to sources.| FJ
-[Telegram:FinancialJuice] [2026-03-12T15:02:01+00:00] UK's Defence Secretary Healey: Iran is likely mining the Hormuz Strait.| FJ
-[Telegram:FinancialJuice] [2026-03-12T15:03:11+00:00] Upcoming US Treasury Auctions| FJ
-[Telegram:FinancialJuice] [2026-03-12T15:04:01+00:00] UK's Defence Secretary Healey: Mine clearance is near impossible during conflict, the best way to reopen the shipping route is to de-escalate.| FJ
-[Telegram:FinancialJuice] [2026-03-12T15:04:51+00:00] ❗ Traders no longer fully price in one Fed rate cut in 2026.| FJ
-[Telegram:WalterBloomberg] [2026-03-12T14:52:29+00:00] 🚨 NORWAY MARITIME AUTHORITY: UNTIL FURTHER NOTICE, NORWEGIAN-FLAGGED SHIPS WILL NOT BE PERMITTED TO ENTER THE STRAIT OF HORMUZ ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-12T14:53:20+00:00] https://t.co/ib4ndIRV17 ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-12T15:01:40+00:00] TRUMP: IRAN NATIONAL SOCCER TEAM IS WELCOME TO WORLD CUP TRUMP: I REALLY DON'T BELIEVE IT IS APPROPRIATE THAT THEY BE THERE ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-12T15:03:50+00:00] IEA OIL RELEASE LIMITED BY TIMING, MIX The International Energy Agency plans a 400 million-barrel emergency release to offset Strait of Hormuz disruptions, enough for roughly 32–45 days of supply if delivered quickly. Analyst Homayoun Falakshahi warns impact depends on timing ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-12T15:04:38+00:00] 🚨 *TRADERS NO LONGER FULLY PRICE IN ONE FED RATE CUT IN 2026 ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-03-12T16:01:34+00:00] US CENTCOM: 60+ Iranian vessels, 30+ minelayers damaged or destroyed - Post on X.| FJ
+[Telegram:FinancialJuice] [2026-03-12T16:02:10+00:00] US 15-Year Fixed-Rate Mortgage Averaged 5.5% as of March 12th - Freddie Mac.| FJ
+[Telegram:FinancialJuice] [2026-03-12T16:02:48+00:00] Meta introduces new AI tools on the Facebook marketplace. $META| FJ
+[Telegram:FinancialJuice] [2026-03-12T16:06:17+00:00] TotalEnergies: production shutting down in Qatar, Iraq, and the UAE offshore - Statement.| FJ
+[Telegram:FinancialJuice] [2026-03-12T16:07:41+00:00] TotalEnergies: Operations at Satorp are continuing normally for now.| FJ
+[Telegram:WalterBloomberg] [2026-03-12T15:40:21+00:00] *IRAN DEPUTY FM SAYS NOT LAYING MINES IN HORMUZ STRAIT: AFP ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-12T15:42:49+00:00] *IRAN ALLOWED SOME SHIPS TO CROSS STRAIT, DEPUTY FM SAYS: AFP ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-12T15:51:23+00:00] IRANIAN STATE MEDIA SAYS WIFE OF IRAN'S LATE SUPREME LEADER ALI KHAMENEI IS ALIVE, REPORTS OF HER DEATH WERE INCORRECT ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-12T16:02:56+00:00] US Centcom: Hit approximately 6,000 targets in Iran, more than 60 ships, and more than 30 minelayers damaged or destroyed ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-12T16:10:27+00:00] U.S. HEATING OIL HITS $5+ — TIGHT OIL SUPPLY BLOWS PRICES UP U.S. residential heating oil prices have climbed above $5 a gallon — a level not seen since late 2022 — as the ongoing conflict involving Iran disrupts global crude and diesel flows through key routes like the Strait ( @WalterBloomberg )
