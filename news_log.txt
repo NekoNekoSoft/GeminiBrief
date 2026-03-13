@@ -3,13 +3,13 @@
 [WEB] Why Pure Storage (PSTG) stock is falling today (2025-12-13T00:05:00+00:00): Shares of data storage solutions provider Pure Storage (NYSE:PSTG) fell 4.6% in the afternoon session after investors rotated out of AI-linked high-flyers following underwhelming earnings updates from Oracle and Broadcom as the core thesis shifted from ...
 [WEB] 3 Monthly Dividend ETFs That Can Compound Into an Income Avalanche (2026-02-24T00:00:00+00:00): Dividend investing isn't just a defensive play or a retiree's game. It's a strategy that works exceptionally well over the long run, and stocks like Invesco High Yield Equity Dividend Achievers ETF (NASDAQ:PEY), Invesco S&P 500 High Dividend Low Volatility ...
 [WEB] S&P 500 and Nasdaq 100: US Indices Rise Today as Oil Drop Lifts Tech Stocks (2026-03-12T15:10:00+00:00): US stock market edges higher as crude oil retreats, lifting S&P 500 and Nasdaq 100. Traders watch oil prices and key technical levels for the next move in US indices.
-[Telegram:FinancialJuice] [2026-03-12T21:42:22+00:00] US Military: We're aware of the loss of a United States KC-135 refuelling aircraft.| FJ
-[Telegram:FinancialJuice] [2026-03-12T21:43:28+00:00] US Military: The incident occurred in friendly airspace during Operation Epic Fury, and rescue efforts are ongoing.| FJ
-[Telegram:FinancialJuice] [2026-03-12T22:58:37+00:00] Qatari Foreign Ministry: We strongly condemn the Israeli attacks on southern Lebanon. Qatari Foreign Ministry: We call on the international community to compel the Israeli occupation to cease its repeated attacks on Lebanon.| FJ
-[Telegram:FinancialJuice] [2026-03-12T23:36:39+00:00] ❗ US license permits sale of Russian crude oil and petroleum products loaded on vessels as of March 12 - Treasury website| FJ
-[Telegram:FinancialJuice] [2026-03-12T23:37:31+00:00] US license permits sale of such Russian crude oil and petroleum products until 12:01 AM ET on April 11 - Treasury website| FJ
-[Telegram:WalterBloomberg] [2026-03-12T21:17:05+00:00] BESSENT: LOWER OIL PRICE REGIME OVER MEDIUM TERM AFTER CONFLICT ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-12T21:17:45+00:00] BESSENT: A LONG WAY FROM FED GOING BACK TO QE ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-03-12T23:43:27+00:00] US Treasury Secretary Bessent: To increase the global reach of existing supply, Treasury is providing temporary authorization to permit countries to purchase Russian oil currently stranded at sea.| FJ
+[Telegram:FinancialJuice] [2026-03-12T23:43:36+00:00] ❗ Meta postpones rollout of new AI model due to performance concerns - NYT. $META| FJ
+[Telegram:FinancialJuice] [2026-03-13T00:28:18+00:00] US fired at an Iranian vessel that approached the USS Abraham Lincoln aircraft carrier earlier this week, officials tell CBS News.| FJ
+[Telegram:FinancialJuice] [2026-03-13T00:35:24+00:00] Pentagon & NSC significantly underestimated Iran’s readiness to close the Strait of Hormuz in answer to US military strikes while planning the ongoing operation - CNN citing sources| FJ
+[Telegram:FinancialJuice] [2026-03-13T00:38:09+00:00] Top Trump officials recognized they did not plan for the chance of Iran closing the Strait in response to strikes - CNN, citing sources| FJ
 [Telegram:WalterBloomberg] [2026-03-12T21:26:46+00:00] BESSENT: WE KNOW IRAN HASN'T MINED THE HORMUZ STRAIT ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-03-12T21:42:46+00:00] U.S. MILITARY SAYS IT IS AWARE OF THE LOSS OF A U.S. KC-135 REFUELING AIRCRAFT ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-03-12T21:48:01+00:00] WHITE HOUSE CONSIDERING DEFUNDING A PROGRAM THAT AIMS TO PROTECT MINORITY VOTERS' RIGHTS -CBS NEWS ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-12T23:47:02+00:00] *TREASURY: LICENSE AUTHORIZING SALE OF CRUDE OIL FROM RUSSIA ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-13T02:17:00+00:00] TRUMP BELIEVES MOJTABA KHAMENEI IS INJURED BUT ALIVE: FOX ( @WalterBloomberg )
