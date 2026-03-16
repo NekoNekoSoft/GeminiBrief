@@ -3,13 +3,13 @@
 [WEB] Why Pure Storage (PSTG) stock is falling today (2025-12-13T00:05:00+00:00): Shares of data storage solutions provider Pure Storage (NYSE:PSTG) fell 4.6% in the afternoon session after investors rotated out of AI-linked high-flyers following underwhelming earnings updates from Oracle and Broadcom as the core thesis shifted from ...
 [WEB] 7 Dividend ETFs Built to Survive a Recession and Pay You Through It (2026-03-16T13:30:00+00:00): Consumer sentiment hit 56.4 in January 2026, which falls below the 60-point threshold that historically marks recessionary territory. That reading reflects a labor market that has quietly deteriorated — unemployment has drifted up to 4.
 [WEB] S&P 500 poised to resume larger rally after testing this technical level: Evercore (2026-03-02T15:39:00+00:00): The S&P 500's volatile start to 2026 has not altered the broader upward trajectory, with Evercore ISI arguing that a pullback toward key support should provide a buying opportunity.
-[Telegram:FinancialJuice] [2026-03-16T13:15:22+00:00] US Industrial Production MoM Actual 0.2% (Forecast 0.1%, Previous 0.7%)| FJ
-[Telegram:FinancialJuice] [2026-03-16T13:15:28+00:00] US Capacity Utilization Actual 76.3% (Forecast 76.2%, Previous 76.2%)| FJ
-[Telegram:FinancialJuice] [2026-03-16T13:19:48+00:00] US Treasury Secretary Bessent: China visit postponement would be because Trump wants to| FJ
-[Telegram:FinancialJuice] [2026-03-16T13:21:29+00:00] OpenAI offers preferred equity in a joint venture, Anthropic proposes common equity - Sources| FJ
-[Telegram:FinancialJuice] [2026-03-16T13:22:35+00:00] US Trade Representative Greer: The US and China agreed on a work plan for potential deliverables for Trump and Xi.| FJ
-[Telegram:WalterBloomberg] [2026-03-16T13:24:00+00:00] U.S. CRUDE FUTURES  FALL MORE THAN $4 TO INTRA-DAY LOW OF $94.31 PER BARREL ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-16T13:27:51+00:00] 🚨 TRUMP TO HOLD WHITE HOUSE NEWS CONFERENCE Donald Trump said he will hold a news conference at the White House on Monday. In a post on Truth Social, Trump said the briefing will take place before his 11:45 a.m. closed-door meeting with the board of the John F. Kennedy Center ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-16T13:29:45+00:00] YARDENI WARNS CONTRARIAN BUY SIGNAL MAY FAIL Market pessimism is usually a classic buy signal, but veteran strategist Ed Yardeni says this time could be different. The S&P 500 has fallen nearly 5% from its January peak as the Iran war keeps oil prices elevated and threatens https://t.co/ymHxDlIuLe ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-16T13:30:56+00:00] U.S. STOCKS EXTEND GAINS, NASDAQ UP 1.00% ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-16T13:39:30+00:00] *US EYES ZAMBIA'S CRITICAL MINERALS IN EXCHANGE FOR HIV AID: NYT ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-03-16T14:09:34+00:00] IEA Executive Director Birol: We must be prepared if conflict continues for a while longer| FJ
+[Telegram:FinancialJuice] [2026-03-16T14:58:47+00:00] ❗ Trading halted in key contracts on the LME.| FJ
+[Telegram:FinancialJuice] [2026-03-16T15:11:11+00:00] Trading in copper, zinc, aluminium and other contracts has been halted on the LME.| FJ
+[Telegram:FinancialJuice] [2026-03-16T15:15:30+00:00] The Fed bids for 3-month bills total $7.1 bln.| FJ
+[Telegram:FinancialJuice] [2026-03-16T15:15:58+00:00] Fed bids for 6-Month bills total $6.2 bln.| FJ
+[Telegram:WalterBloomberg] [2026-03-16T14:09:42+00:00] BIROL: MUST BE PREPARED FOR IF CONFLICT CONTINUES FOR A WHILE LONGER ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-16T14:26:45+00:00] IRAN'S MEHR NEWS AGENCY SAYS IRANIAN SUPREME LEADER MOJTABA KHAMENEI APPOINTED FORMER REVOLUTIONARY GUARDS COMMANDER MOHSEN REZAEI AS MILITARY ADVISER ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-16T14:27:18+00:00] SPAIN’S SÁNCHEZ SAYS TRUMP IRAN WAR UNDERMINES GLOBAL ORDER Pedro Sánchez accused Donald Trump of weakening the international order by launching a unilateral war with Iran without consulting allies. The Spanish prime minister said the conflict risks damaging the global system ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-16T14:31:52+00:00] IRANIAN FOREIGN MINISTER SAYS REPORTS CLAIM SOME 'NEIGHBORING STATES' WHICH HOST U.S. FORCES AND PERMIT ATTACKS ON IRAN ARE ALSO ACTIVELY ENCOURAGING KILLINGS ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-16T15:04:36+00:00] IRAN-LINKED TANKERS SURGE THROUGH HORMUZ Shipping through the Strait of Hormuz has nearly stalled, but some traffic continues — led increasingly by Iranian-linked vessels. A Pakistan-flagged Aframax tanker carrying crude cleared the strait Sunday and is heading to Karachi, ( @WalterBloomberg )
