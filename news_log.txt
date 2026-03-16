@@ -1,15 +1,15 @@
 [WEB] Macro Week Ahead: US Jobs Data on Deck (2026-03-02T07:19:00+00:00): The Week That Was. Trump's SOTU and tariffs. A light data calendar last week left markets at the mercy of headlines. US politics, Fed speak, and a blowout earnings report from N
-[WEB] Cboe to Launch BITVX, A New Volatility Index Based on IBIT Options (2026-03-09T17:18:00+00:00): Cboe Global Markets, Inc. (Cboe: CBOE), the world's leading derivatives and securities exchange network, today announced plans to launch the Cboe IBIT Volatility Index (Ticker: BITVX) on Monday, March 23.
-[WEB] Why Pure Storage (PSTG) stock is falling today (2025-12-13T00:05:00+00:00): Shares of data storage solutions provider Pure Storage (NYSE:PSTG) fell 4.6% in the afternoon session after investors rotated out of AI-linked high-flyers following underwhelming earnings updates from Oracle and Broadcom as the core thesis shifted from ...
+[WEB] Understanding the CBOE Volatility Index (VIX) in Investing (2025-11-11T00:00:00+00:00): Samantha (Sam) Silberstein, CFP®, CSLP®, EA, is an experienced financial consultant. She has a demonstrated history of working in both institutional and retail environments, from broker-dealers to RIAs. She is a current CFA level 3 candidate and also has ...
+[WEB] Why Pure Storage (PSTG) Stock Is Down Today (2025-09-02T20:49:00+00:00): Shares of data storage solutions provider Pure Storage (NYSE:PSTG) fell 1.4% in the afternoon session after the stock was caught in a broader tech-sector swoon as rising bond yields pressured Wall Street. The market kicked off September on a sour note ...
 [WEB] 7 Dividend ETFs Built to Survive a Recession and Pay You Through It (2026-03-16T09:29:00+00:00): Consumer sentiment hit 56.4 in January 2026, which falls below the 60-point threshold that historically marks recessionary territory. That reading reflects a labor market that has quietly deteriorated — unemployment has drifted up to 4.
 [WEB] S&P 500 poised to resume larger rally after testing this technical level: Evercore (2026-03-02T15:39:00+00:00): The S&P 500's volatile start to 2026 has not altered the broader upward trajectory, with Evercore ISI arguing that a pullback toward key support should provide a buying opportunity.
-[Telegram:FinancialJuice] [2026-03-16T17:12:13+00:00] Trump on gas prices: When this is over, oil prices and inflation will decrease rapidly| FJ
-[Telegram:FinancialJuice] [2026-03-16T17:12:33+00:00] Trump: UK's PM Starmer told me he'd ask advisers about sending help.| FJ
-[Telegram:FinancialJuice] [2026-03-16T17:13:55+00:00] Trump on Iran: We still have some missiles left.| FJ
-[Telegram:FinancialJuice] [2026-03-16T17:15:04+00:00] LME set to resume electronic trading at 5:30 PM London time (1:30 PM ET)| FJ
-[Telegram:FinancialJuice] [2026-03-16T17:15:26+00:00] Trump ends remarks to reporters at the White House.| FJ
-[Telegram:WalterBloomberg] [2026-03-16T17:11:29+00:00] TRUMP ON GAS PRICES, DURATION OF SPIKE: I DON'T NEED ADVISORS ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-16T17:11:49+00:00] TRUMP ON GAS PRICES:  WHEN THIS IS OVER OIL PRICES, INFLATION WILL GO DOWN RAPIDLY ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-16T17:13:30+00:00] TRUMP: IRAN MAY HAVE 8% OF MISSILES LEFT ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-16T17:13:48+00:00] TRUMP ON IRAN: STILL HAVE SOME MISSILES LEFT ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-16T17:14:51+00:00] TRUMP ENDS NEWS CONFERENCE ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-03-16T20:57:08+00:00] Trump on China trip timing: Important that I'm here due to war.| FJ
+[Telegram:FinancialJuice] [2026-03-16T20:58:43+00:00] Trump, asked about Cuba: Believe I'll have the honour of taking Cuba.| FJ
+[Telegram:FinancialJuice] [2026-03-16T20:58:54+00:00] Trump: I think I could do anything with Cuba, free or take it.| FJ
+[Telegram:FinancialJuice] [2026-03-16T22:13:03+00:00] US Department of Commerce announces new American AI exports program phase - statement| FJ
+[Telegram:FinancialJuice] [2026-03-16T22:29:31+00:00] Trump administration said to tell Cuba that its president has to go - NYT| FJ
+[Telegram:WalterBloomberg] [2026-03-16T19:02:33+00:00] EXPLOSION HEARD NEAR U.S. EMBASSY IN BAGHDAD, SIRENS SOUND - REUTERS WITNESS ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-16T19:27:28+00:00] KALSHI RE-INTRODUCES BUFFETT'S $1 BILLION PERFECT BRACKET CHALLENGE - X ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-16T21:10:25+00:00] TRUMP SAYS US REQUESTED A DELAY OF XI SUMMIT BY 'A MONTH OR SO ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-16T21:10:45+00:00] *TRUMP, ASKED IF IRAN WAR WILL END THIS WEEK: I DON'T THINK SO ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-16T21:11:16+00:00] TRUMP, ASKED ON CUBA: BELIEVE I'LL HAVE THE HONOR OF TAKING IT ( @WalterBloomberg )
