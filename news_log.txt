@@ -1,15 +1,15 @@
 [WEB] Macro Week Ahead: US Jobs Data on Deck (2026-03-02T07:19:00+00:00): The Week That Was. Trump's SOTU and tariffs. A light data calendar last week left markets at the mercy of headlines. US politics, Fed speak, and a blowout earnings report from N
 [WEB] Cboe to Launch BITVX, A New Volatility Index Based on IBIT Options (2026-03-09T17:18:00+00:00): Cboe Global Markets, Inc. (Cboe: CBOE), the world's leading derivatives and securities exchange network, today announced plans to launch the Cboe IBIT Volatility Index (Ticker: BITVX) on Monday, March 23.
 [WEB] Why Pure Storage (PSTG) stock is falling today (2025-12-13T00:05:00+00:00): Shares of data storage solutions provider Pure Storage (NYSE:PSTG) fell 4.6% in the afternoon session after investors rotated out of AI-linked high-flyers following underwhelming earnings updates from Oracle and Broadcom as the core thesis shifted from ...
-[WEB] 7 Dividend ETFs Built to Survive a Recession and Pay You Through It (2026-03-16T09:29:00+00:00): Consumer sentiment hit 56.4 in January 2026, which falls below the 60-point threshold that historically marks recessionary territory. That reading reflects a labor market that has quietly deteriorated — unemployment has drifted up to 4.
+[WEB] 7 Dividend ETFs Built to Survive a Recession and Pay You Through It (2026-03-16T13:30:00+00:00): Consumer sentiment hit 56.4 in January 2026, which falls below the 60-point threshold that historically marks recessionary territory. That reading reflects a labor market that has quietly deteriorated — unemployment has drifted up to 4.
 [WEB] S&P 500 poised to resume larger rally after testing this technical level: Evercore (2026-03-02T15:39:00+00:00): The S&P 500's volatile start to 2026 has not altered the broader upward trajectory, with Evercore ISI arguing that a pullback toward key support should provide a buying opportunity.
-[Telegram:FinancialJuice] [2026-03-16T11:44:20+00:00] US Treasury Secretary Bessent, on the Strait of Hormuz: We believe Chinese ships have gone out| FJ
-[Telegram:FinancialJuice] [2026-03-16T11:46:19+00:00] US Treasury Secretary Bessent, on oil supply: The deficit is somewhere between 10 and 14 million barrels| FJ
-[Telegram:FinancialJuice] [2026-03-16T11:47:06+00:00] US Treasury Secretary Bessent: Putin would get even more money if oil spiked to $150| FJ
-[Telegram:FinancialJuice] [2026-03-16T11:48:12+00:00] US Treasury Secretary Bessent, on whether they could intervene in oil markets: Have not done that - CNBC| FJ
-[Telegram:FinancialJuice] [2026-03-16T11:50:05+00:00] US Treasury Secretary Bessent: Inflation expectations are well anchored| FJ
-[Telegram:WalterBloomberg] [2026-03-15T23:04:53+00:00] S&P 500 EMINIS BOUNCE 0.3%, NASDAQ FUTURES ADD 0.3% ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-15T23:30:56+00:00] *TRUMP SAYS COULD DELAY SUMMIT WITH CHINA’S XI: FT ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-15T23:31:08+00:00] *TRUMP SAYS EXPECTING CHINA TO HELP UNBLOCK HORMUZ: ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-15T23:31:39+00:00] *TRUMP TELLS NATO TO HELP US IN IRAN: FT *TRUMP SAYS NATO FACES BAD FUTURE IF ALLIES FAIL TO HELP: FT *TRUMP WARNS PREPARED TO LAUNCH NEW STRIKES ON KHARG ISLAND: FT ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-16T09:45:32+00:00] IRAN FM: 'WE DID NOT REQUEST A CEASEFIRE AND WILL CONTINUE THE RESISTANCE' ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-03-16T13:15:22+00:00] US Industrial Production MoM Actual 0.2% (Forecast 0.1%, Previous 0.7%)| FJ
+[Telegram:FinancialJuice] [2026-03-16T13:15:28+00:00] US Capacity Utilization Actual 76.3% (Forecast 76.2%, Previous 76.2%)| FJ
+[Telegram:FinancialJuice] [2026-03-16T13:19:48+00:00] US Treasury Secretary Bessent: China visit postponement would be because Trump wants to| FJ
+[Telegram:FinancialJuice] [2026-03-16T13:21:29+00:00] OpenAI offers preferred equity in a joint venture, Anthropic proposes common equity - Sources| FJ
+[Telegram:FinancialJuice] [2026-03-16T13:22:35+00:00] US Trade Representative Greer: The US and China agreed on a work plan for potential deliverables for Trump and Xi.| FJ
+[Telegram:WalterBloomberg] [2026-03-16T13:24:00+00:00] U.S. CRUDE FUTURES  FALL MORE THAN $4 TO INTRA-DAY LOW OF $94.31 PER BARREL ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-16T13:27:51+00:00] 🚨 TRUMP TO HOLD WHITE HOUSE NEWS CONFERENCE Donald Trump said he will hold a news conference at the White House on Monday. In a post on Truth Social, Trump said the briefing will take place before his 11:45 a.m. closed-door meeting with the board of the John F. Kennedy Center ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-16T13:29:45+00:00] YARDENI WARNS CONTRARIAN BUY SIGNAL MAY FAIL Market pessimism is usually a classic buy signal, but veteran strategist Ed Yardeni says this time could be different. The S&P 500 has fallen nearly 5% from its January peak as the Iran war keeps oil prices elevated and threatens https://t.co/ymHxDlIuLe ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-16T13:30:56+00:00] U.S. STOCKS EXTEND GAINS, NASDAQ UP 1.00% ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-16T13:39:30+00:00] *US EYES ZAMBIA'S CRITICAL MINERALS IN EXCHANGE FOR HIV AID: NYT ( @WalterBloomberg )
