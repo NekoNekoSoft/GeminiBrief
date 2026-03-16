@@ -1,15 +1,15 @@
 [WEB] Macro Week Ahead: US Jobs Data on Deck (2026-03-02T07:19:00+00:00): The Week That Was. Trump's SOTU and tariffs. A light data calendar last week left markets at the mercy of headlines. US politics, Fed speak, and a blowout earnings report from N
 [WEB] Cboe to Launch BITVX, A New Volatility Index Based on IBIT Options (2026-03-09T17:18:00+00:00): Cboe Global Markets, Inc. (Cboe: CBOE), the world's leading derivatives and securities exchange network, today announced plans to launch the Cboe IBIT Volatility Index (Ticker: BITVX) on Monday, March 23.
 [WEB] Why Pure Storage (PSTG) stock is falling today (2025-12-13T00:05:00+00:00): Shares of data storage solutions provider Pure Storage (NYSE:PSTG) fell 4.6% in the afternoon session after investors rotated out of AI-linked high-flyers following underwhelming earnings updates from Oracle and Broadcom as the core thesis shifted from ...
-[WEB] 7 Dividend ETFs Built to Survive a Recession and Pay You Through It (2026-03-16T13:30:00+00:00): Consumer sentiment hit 56.4 in January 2026, which falls below the 60-point threshold that historically marks recessionary territory. That reading reflects a labor market that has quietly deteriorated — unemployment has drifted up to 4.
+[WEB] 7 Dividend ETFs Built to Survive a Recession and Pay You Through It (2026-03-16T09:29:00+00:00): Consumer sentiment hit 56.4 in January 2026, which falls below the 60-point threshold that historically marks recessionary territory. That reading reflects a labor market that has quietly deteriorated — unemployment has drifted up to 4.
 [WEB] S&P 500 poised to resume larger rally after testing this technical level: Evercore (2026-03-02T15:39:00+00:00): The S&P 500's volatile start to 2026 has not altered the broader upward trajectory, with Evercore ISI arguing that a pullback toward key support should provide a buying opportunity.
-[Telegram:FinancialJuice] [2026-03-16T14:09:34+00:00] IEA Executive Director Birol: We must be prepared if conflict continues for a while longer| FJ
-[Telegram:FinancialJuice] [2026-03-16T14:58:47+00:00] ❗ Trading halted in key contracts on the LME.| FJ
-[Telegram:FinancialJuice] [2026-03-16T15:11:11+00:00] Trading in copper, zinc, aluminium and other contracts has been halted on the LME.| FJ
-[Telegram:FinancialJuice] [2026-03-16T15:15:30+00:00] The Fed bids for 3-month bills total $7.1 bln.| FJ
-[Telegram:FinancialJuice] [2026-03-16T15:15:58+00:00] Fed bids for 6-Month bills total $6.2 bln.| FJ
-[Telegram:WalterBloomberg] [2026-03-16T14:09:42+00:00] BIROL: MUST BE PREPARED FOR IF CONFLICT CONTINUES FOR A WHILE LONGER ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-16T14:26:45+00:00] IRAN'S MEHR NEWS AGENCY SAYS IRANIAN SUPREME LEADER MOJTABA KHAMENEI APPOINTED FORMER REVOLUTIONARY GUARDS COMMANDER MOHSEN REZAEI AS MILITARY ADVISER ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-16T14:27:18+00:00] SPAIN’S SÁNCHEZ SAYS TRUMP IRAN WAR UNDERMINES GLOBAL ORDER Pedro Sánchez accused Donald Trump of weakening the international order by launching a unilateral war with Iran without consulting allies. The Spanish prime minister said the conflict risks damaging the global system ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-16T14:31:52+00:00] IRANIAN FOREIGN MINISTER SAYS REPORTS CLAIM SOME 'NEIGHBORING STATES' WHICH HOST U.S. FORCES AND PERMIT ATTACKS ON IRAN ARE ALSO ACTIVELY ENCOURAGING KILLINGS ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-16T15:04:36+00:00] IRAN-LINKED TANKERS SURGE THROUGH HORMUZ Shipping through the Strait of Hormuz has nearly stalled, but some traffic continues — led increasingly by Iranian-linked vessels. A Pakistan-flagged Aframax tanker carrying crude cleared the strait Sunday and is heading to Karachi, ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-03-16T17:12:13+00:00] Trump on gas prices: When this is over, oil prices and inflation will decrease rapidly| FJ
+[Telegram:FinancialJuice] [2026-03-16T17:12:33+00:00] Trump: UK's PM Starmer told me he'd ask advisers about sending help.| FJ
+[Telegram:FinancialJuice] [2026-03-16T17:13:55+00:00] Trump on Iran: We still have some missiles left.| FJ
+[Telegram:FinancialJuice] [2026-03-16T17:15:04+00:00] LME set to resume electronic trading at 5:30 PM London time (1:30 PM ET)| FJ
+[Telegram:FinancialJuice] [2026-03-16T17:15:26+00:00] Trump ends remarks to reporters at the White House.| FJ
+[Telegram:WalterBloomberg] [2026-03-16T17:11:29+00:00] TRUMP ON GAS PRICES, DURATION OF SPIKE: I DON'T NEED ADVISORS ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-16T17:11:49+00:00] TRUMP ON GAS PRICES:  WHEN THIS IS OVER OIL PRICES, INFLATION WILL GO DOWN RAPIDLY ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-16T17:13:30+00:00] TRUMP: IRAN MAY HAVE 8% OF MISSILES LEFT ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-16T17:13:48+00:00] TRUMP ON IRAN: STILL HAVE SOME MISSILES LEFT ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-16T17:14:51+00:00] TRUMP ENDS NEWS CONFERENCE ( @WalterBloomberg )
