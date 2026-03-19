@@ -2,12 +2,12 @@
 [WEB] Cboe to Launch BITVX, A New Volatility Index Based on IBIT Options (2026-03-09T17:18:00+00:00): Cboe Global Markets, Inc. (Cboe: CBOE), the world's leading derivatives and securities exchange network, today announced plans to launch the Cboe IBIT Volatility Index (Ticker: BITVX) on Monday, March 23.
 [WEB] Why Pure Storage (PSTG) Stock Is Down Today (2025-09-02T20:49:00+00:00): Shares of data storage solutions provider Pure Storage (NYSE:PSTG) fell 1.4% in the afternoon session after the stock was caught in a broader tech-sector swoon as rising bond yields pressured Wall Street. The market kicked off September on a sour note ...
 [WEB] 7 Dividend ETFs Built to Survive a Recession and Pay You Through It (2026-03-16T09:29:00+00:00): Consumer sentiment hit 56.4 in January 2026, which falls below the 60-point threshold that historically marks recessionary territory. That reading reflects a labor market that has quietly deteriorated — unemployment has drifted up to 4.
-[WEB] NASDAQ Index, Dow Jones and S&P 500 Forecasts - US Indices Slumps Ahead of Fed Session (2026-03-18T14:44:00+00:00): TradingView. The Nasdaq 100 tried to rally early during the trading session on Wednesday to test the 25,000 level but has failed yet ag
-[Telegram:FinancialJuice] [2026-03-19T10:05:12+00:00] German Economy Minister: Concerned attacks on oil refineries and gas fields in the Gulf could lead to a slump| FJ
-[Telegram:FinancialJuice] [2026-03-19T10:20:00+00:00] Iran: Response to South Pars attack isn't complete - ISNA| FJ
+[WEB] S&P 500, Crude Oil Forecast: Adjusting to the Market's 'New Normal' (2026-03-13T06:59:00+00:00): Unless or until we see meaningful progress toward a ceasefire in the Middle East, traders should shift their expectations toward expecting higher WTI crude oil prices and downside
 [Telegram:FinancialJuice] [2026-03-19T10:35:33+00:00] Libya's NOC says fire at Sharara pipeline is extinguished - Statement| FJ
 [Telegram:FinancialJuice] [2026-03-19T10:39:50+00:00] UAE says 7 missiles and 15 drones targeted the country on Thursday.| FJ
 [Telegram:FinancialJuice] [2026-03-19T10:50:16+00:00] Russian Energy Ministry: Fuel export ban may be introduced preventively in case of high prices| FJ
+[Telegram:FinancialJuice] [2026-03-19T11:05:42+00:00] EU parliament to hold vote on US trade deal next week| FJ
+[Telegram:FinancialJuice] [2026-03-19T11:41:48+00:00] IEA Executive Director Birol: Met with the Chinese ambassador to France and discussed the importance of international cooperation to stabilise oil markets| FJ
 [Telegram:WalterBloomberg] [2026-03-18T20:28:16+00:00] TRADERS PUSH OUT BETS ON FED RATE CUT TO APRIL 2027, RATE-FUTURES PRICING SHOWS ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-03-18T20:35:55+00:00] OIL FUTURES EXTEND GAINS IN POST-SETTLEMENT TRADE AS IRAN LAUNCHES ATTACKS ON MIDDLE EASTERN ENERGY INFRASTRUCTURE; BRENT FUTURES LAST UP 7.7%, WTI UP 4% ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-03-18T20:37:35+00:00] ISRAELI MILITARY SAYS IT BEGAN STRIKING TARGETS IN NORTHERN IRAN 'FOR FIRST TIME' ( @WalterBloomberg )
