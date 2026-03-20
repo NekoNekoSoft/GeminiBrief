@@ -1,15 +1,15 @@
 [WEB] US stock market down again today: Why Dow and S&P 500 are in red while Nasdaq is in green - Gold and silver prices fell sharply (2026-01-16T15:20:00+00:00): US stock market down again today: U.S. stock market ended Friday with a mixed and data-heavy picture, underscoring the growing divide between strong earnings momentum in select sectors and broader concerns about valuations, political risk, and market breadth.
 [WEB] Understanding the CBOE Volatility Index (VIX) in Investing (2025-11-11T00:00:00+00:00): Samantha (Sam) Silberstein, CFP®, CSLP®, EA, is an experienced financial consultant. She has a demonstrated history of working in both institutional and retail environments, from broker-dealers to RIAs. She is a current CFA level 3 candidate and also has ...
-[WEB] Pure Storage Stock Analysis: Buy, Hold, or Sell? (2025-05-24T15:48:00+00:00): Pure Storage (NYSE: PSTG) is experiencing an increase in demand for its products due to the rising effectiveness of artificial intelligence. Where to invest $1,000 right now? Our analyst team just revealed what they believe are the 10 best stocks to buy ...
-[WEB] $500 a Month in Passive Income Is Closer Than You Think With These 4 Dividend ETFs (2026-03-19T18:05:00+00:00): If you're an income investor like me, you'll always be on the lookout for ways to make your money work for you. Every time I make an investment, I hope to see it grow, but I also want to keep making money from it.
-[WEB] JPMorgan Slashes S&P 500 Forecast Amid Oil Crisis and Escalating Middle East Tensions (2026-03-19T17:00:00+00:00): JPMorgan slashes S&P 500 target to 7,200 from 7,500, warning oil price surge and Middle East conflict could cut earnings by 2-5% if crude stays near $110.
-[Telegram:FinancialJuice] [2026-03-20T09:52:49+00:00] Trump mulls to occupy or blockade Iran's Kharg Island - Axios| FJ
-[Telegram:FinancialJuice] [2026-03-20T09:53:39+00:00] UBS global research expects BoE to deliver two 25 bps interest rate cuts each in November 2026 and February 2027 vs the prior forecast of cuts in April and July 2026| FJ
-[Telegram:FinancialJuice] [2026-03-20T09:53:49+00:00] ECB’s Makhlouf: Don't think ECB has a tightening bias| FJ
-[Telegram:FinancialJuice] [2026-03-20T09:54:59+00:00] ECB’s Makhlouf: I hadn't contemplated cuts before the Iran War| FJ
-[Telegram:FinancialJuice] [2026-03-20T09:55:08+00:00] ECB’s Makhlouf: Can well understand why markets are pricing two hikes| FJ
-[Telegram:WalterBloomberg] [2026-03-19T18:43:21+00:00] TRUMP'S JOB APPROVAL WAS 40%, UP 1 PERCENTAGE POINT FROM PRIOR REUTERS/IPSOS POLL ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-19T18:49:18+00:00] NETANYAHU: IRAN HAS NO CAPACITY TO ENRICH URANIUM OR MAKE BALLISTIC MISSILES AFTER 20 DAYS OF WAR ( @WalterBloomberg )
+[WEB] Pure Storage, Inc. (PSTG) is Attracting Investor Attention: Here is What You Should Know (2025-08-04T22:19:00+00:00): Pure Storage (PSTG) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.
+[WEB] The Income ETF Built for Bear Markets: Why SPHD Belongs in Every Retirement Portfolio (2026-03-20T10:37:00+00:00): When markets get choppy and retirement accounts start shrinking, most retirees face the same uncomfortable tension: they need income now, but they can't afford to watch their portfolio collapse. Invesco S&P 500 High Dividend Low Volatility ETF (NYSEARCA:SPHD) was built specifically to navigate that
+[WEB] JPMorgan cuts official S&P 500 forecast, noting rising recession risk from oil shock (2026-03-19T14:09:00+00:00): Bujas, the firm's head of global markets strategy, now expects the S&P 500 will end the year at 7,200, instead of 7,500.
+[Telegram:FinancialJuice] [2026-03-20T10:09:19+00:00] Amazon is developing a new mobile phone - Sources. $AMZN| FJ
+[Telegram:FinancialJuice] [2026-03-20T10:10:34+00:00] Kremlin on EU's plan to quit Russian LNG: Europeans are shooting themselves in the foot| FJ
+[Telegram:FinancialJuice] [2026-03-20T10:12:00+00:00] Kremlin: Russia is discussing various help with Cuba - Tass| FJ
+[Telegram:FinancialJuice] [2026-03-20T10:13:50+00:00] ECB's Vujcic: The ECB is in a good position and can maintain price stability| FJ
+[Telegram:FinancialJuice] [2026-03-20T10:21:16+00:00] Investors more than fully price in 3 BoE quarter-point interest rate hikes by the end of 2026 - OIS curve| FJ
 [Telegram:WalterBloomberg] [2026-03-19T19:04:51+00:00] NETANYAHU: THERE ARE MANY POSSIBILITIES FOR A GROUND COMPONENT, I WON'T SHARE WHAT THEY ARE ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-03-19T19:09:14+00:00] NETANYAHU: NEED ALTERNATIVE ROUTES THAT AVOID HORMUZ AND RED SEA CHOKEPOINTS ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-03-19T21:38:21+00:00] KALSHI IS RAISING ABOUT $1B AT $22B VALUATION: WSJ ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-20T10:00:37+00:00] 55% OF AMERICANS SAY RISING GASOLINE PRICES HAVE HIT THEIR HOUSEHOLD FINANCES, POLL FINDS ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-20T10:01:05+00:00] AMAZON DEVELOPING NEW MOBILE PHONE, ITS FIRST SINCE 2014’S FIRE PHONE, SOURCES SAY ( @WalterBloomberg )
