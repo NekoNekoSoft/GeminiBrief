@@ -3,13 +3,13 @@
 [WEB] Why Pure Storage (PSTG) stock is falling today (2025-12-13T00:05:00+00:00): Shares of data storage solutions provider Pure Storage (NYSE:PSTG) fell 4.6% in the afternoon session after investors rotated out of AI-linked high-flyers following underwhelming earnings updates from Oracle and Broadcom as the core thesis shifted from ...
 [WEB] The income ETF built for bear markets: Why SPHD belongs in every retirement portfolio (2026-03-20T10:25:42+00:00): Quick Read Invesco S&P 500 High Dividend Low Volatility ETF (SPHD) delivered 3.69% year-to-date returns while the S&P 500 ETF (SPY) fell 3% through mid-March 2026, with SPHD's 4.39% yield exceeding the 10-year Treasury's 4.
 [WEB] JPMorgan cuts official S&P 500 forecast, noting rising recession risk from oil shock (2026-03-19T14:09:00+00:00): Bujas, the firm's head of global markets strategy, now expects the S&P 500 will end the year at 7,200, instead of 7,500.
-[Telegram:FinancialJuice] [2026-03-23T10:48:31+00:00] Russia's Ust-Luga port resumed oil and fuel loadings on Monday after the drone alert was lifted - Sources| FJ
-[Telegram:FinancialJuice] [2026-03-23T10:49:50+00:00] German Economy Ministry spokesperson: Not aware of any concrete goods delivery issues due to the Iran war| FJ
-[Telegram:FinancialJuice] [2026-03-23T11:01:11+00:00] USA Rare Earth and Arnold Magnetic Technologies partner to expand US-made rare earth magnet supply for critical industries| FJ
-[Telegram:FinancialJuice] [2026-03-23T11:07:24+00:00] Trump on Iran: I have instructed the Department of War to postpone any and all military strikes against Iranian power plants and energy infrastructure for a five-day period, subject to the success of ongoing meetings| FJ
-[Telegram:FinancialJuice] [2026-03-23T11:08:27+00:00] Trump: Talks with Iran to continue| FJ
-[Telegram:WalterBloomberg] [2026-03-22T18:55:35+00:00] ISRAEL MILITARY SPOKESMAN: WE EXPECT 'WEEKS' MORE OF FIGHTING AGAINST IRAN AND HEZBOLLAH ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-23T11:06:51+00:00] *TRUMP: HAVE HAD TALKS WITH IRAN REGARDING END TO HOSTILIES ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-23T11:07:07+00:00] *TRUMP: INSTRUCTED TO POSTPONE ALL STRIKES AGAINST IRAN ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-23T11:07:19+00:00] *TRUMP: TOLD DEPARTMENT OF WAR TO POSTPONE STRIKES ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-23T11:08:19+00:00] TALKS PROGRESS, STRIKES DELAYED Trump: “The United States and Iran have had productive discussions over the past two days toward fully resolving hostilities in the Middle East. As talks continue this week, I’ve ordered a five-day pause on any military strikes against Iranian ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-03-23T11:11:28+00:00] Traders pare ECB and BoE rate bets, see less than 3 hikes in 2026| FJ
+[Telegram:FinancialJuice] [2026-03-23T11:12:49+00:00] UK interest rate futures pare bets on BoE rate rises this year, price in 58 bps of hikes by December meeting versus around 90 bps before| FJ
+[Telegram:FinancialJuice] [2026-03-23T11:37:26+00:00] Iranian Embassy in Kabul: Trump backs down from attacking energy infrastructures after Iran's firm warning.| FJ
+[Telegram:FinancialJuice] [2026-03-23T11:47:38+00:00] ❗ Iran's Fars news agency, citing source: There are no direct communication with US, nor through intermediaries| FJ
+[Telegram:FinancialJuice] [2026-03-23T11:48:00+00:00] Iran's Fars, citing source: Trump retreated after hearing that Iran would target all power plants in West Asia| FJ
+[Telegram:WalterBloomberg] [2026-03-23T11:46:16+00:00] IRAN'S FOREIGN MINISTRY SAYS THERE ARE NO TALKS WITH WASHINGTON AND ACCUSES US PRESIDENT OF BUYING TIME WHILE REGIONAL DE-ESCALATION EFFORTS GO ON. ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-23T11:47:37+00:00] IRAN'S FARS NEWS AGENCY CITING SOURCE SAYS THERE ARE NO DIRECT COMMUNICATION WITH U.S. NOR THROUGH INTERMEDIARIES ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-23T11:48:18+00:00] IRAN'S FARS CITING SOURCE SAYS TRUMP RETREATED AFTER HEARING THAT IRAN WOULD TARGET ALL POWER PLANTS IN WEST ASIA ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-23T11:48:53+00:00] *IRAN'S FARS: THERE'S NO DIRECT, INDIRECT CONTACT WITH TRUMP ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-23T11:50:59+00:00] *IRAN'S FARS: TRUMP RETREATED DUE TO IRANIAN THREATS ( @WalterBloomberg )
