@@ -1,15 +1,14 @@
-[WEB] US stock market down again today: Why Dow and S&P 500 are in red while Nasdaq is in green - Gold and silver prices fell sharply (2026-01-16T15:20:00+00:00): US stock market down again today: U.S. stock market ended Friday with a mixed and data-heavy picture, underscoring the growing divide between strong earnings momentum in select sectors and broader concerns about valuations, political risk, and market breadth.
 [WEB] VIX moves higher on Thursday, holding above its historical average (2026-03-26T16:45:00+00:00): The Cboe Volatility Index — often called Wall Street's "fear gauge" — was moving higher on Thursday, trading around 26.9. The VIX's historical average is around 20. The last time it traded below 20 was on Feb.
-[WEB] Pure Storage Stock Analysis: Buy, Hold, or Sell? (2025-05-24T00:00:00+00:00): Pure Storage (NYSE: PSTG) is experiencing an increase in demand for its products due to the rising effectiveness of artificial intelligence. Where to invest $1,000 right now? Our analyst team just revealed what they believe are the 10 best stocks to buy ...
+[WEB] Pure Storage, PAR Technology, IMAX, Getty Images, and Kyndryl stocks trade down, what you need to know (2026-03-27T18:30:50+00:00): What Happened? A number of stocks fell in the afternoon session after U.S. equities traded lower as escalating geopolitical tensions between the U.S. and Iran pushed oil prices above $100 a barrel, rattling investor confidence.
 [WEB] The Income ETF Built for Bear Markets: Why SPHD Belongs in Every Retirement Portfolio (2026-03-20T17:24:00+00:00): When markets get choppy and retirement accounts start shrinking, most retirees face the same uncomfortable tension: they need income now, but they can't afford to watch their portfolio collapse. Invesco S&P 500 High Dividend Low Volatility ETF (NYSEARCA:SPHD) was built specifically to navigate that
 [WEB] The S&P 500 Just Broke a Key Technical Level, but History Says Don't Be Concerned (2026-03-23T11:56:00+00:00): The S&P 500 has notched four losing weeks in a row and it just fell below a key technical level. The benchmark index just dipped below its 200-day moving average for the first time in 214 trading days. The same technical breakdown hit the Nasdaq Composite and Dow Jones Industrial Average to end the
-[Telegram:FinancialJuice] [2026-03-27T17:00:50+00:00] Israeli Military has struck a uranium extraction facility from ore located in Yazd in central Iran - Statement.| FJ
-[Telegram:FinancialJuice] [2026-03-27T17:01:13+00:00] US Baker Hughes Total Rig Count Actual 543 (Forecast 554, Previous 552) US Baker Hughes Oil Rig Count Actual 409 (Forecast -, Previous 414)| FJ
-[Telegram:FinancialJuice] [2026-03-27T17:02:03+00:00] ❗ US Secretary of State Rubio claimed that the US is close to holding serious talks with Iran - Axios.| FJ
-[Telegram:FinancialJuice] [2026-03-27T17:03:36+00:00] ECB's Schnabel: The ECB is monitoring inflation expectations and the price-setting.| FJ
-[Telegram:FinancialJuice] [2026-03-27T17:07:42+00:00] ❗ The US signals to allies no immediate plans for an Iran invasion.| FJ
-[Telegram:WalterBloomberg] [2026-03-27T16:46:25+00:00] ISRAELI MILITARY SAYS IT HAS STRUCK THE HEAVY WATER PLANT IN ARAK IN CENTRAL IRAN A SHORT WHILE AGO ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-27T16:47:07+00:00] RUBIO:  IRANIAN TOLLING OF THE STRAIT OF HORMUZ WOULD NOT BE ACCEPTABLE ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-27T16:50:17+00:00] GERMAN CHANCELLOR MERZ: US AND ISRAEL HAVE NO STRATEGY ON WHAT THEY WANT ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-27T16:50:33+00:00] 🚨 TRUMP: WE'RE DOING REALLY WELL IN IRAN ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-27T17:07:33+00:00] *TRUMP: SEEKING CONGRESSIONAL ACTION TO ALLOW E15 ALL YEAR ROUND ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-03-27T20:45:12+00:00] ❗ Houthis: We are going to intervene in the war if the Red Sea is used to attack Iran.| FJ
+[Telegram:FinancialJuice] [2026-03-27T21:08:58+00:00] Iranian missile struck the Prince Sultan Airbase in Saudi Arabia on Friday, damaging several US refueling aircraft - WSJ| FJ
+[Telegram:FinancialJuice] [2026-03-27T21:44:08+00:00] Trump on Iran: They are negotiating| FJ
+[Telegram:FinancialJuice] [2026-03-27T21:44:45+00:00] Trump on Iran: Iran must open Strait of Hormuz| FJ
+[Telegram:FinancialJuice] [2026-03-27T21:45:01+00:00] Iranian missile struck the Prince Sultan Air Base in Saudi Arabia on Friday injuring several US service members - WSJ| FJ
+[Telegram:WalterBloomberg] [2026-03-27T21:09:50+00:00] TIGER WOODS TAKEN TO JAIL AFTER CHARGE OF DUI FOR ROLLOVER CRASH IN FLORIDA, COUNTY SHERIFF SAYS ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-27T21:41:30+00:00] IRANIAN MISSILE STRUCK THE PRINCE SULTAN AIR BASE IN SAUDI ARABIA ON FRIDAY WOUNDING SEVERAL U.S. SERVICE MEMBERS - WSJ ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-27T21:43:33+00:00] TRUMP ON IRAN: IRAN HAS TO OPEN UP STRAIT OF HORMUZ ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-27T22:05:05+00:00] TRUMP: CUBA IS NEXT ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-27T22:48:16+00:00] TRUMP: I GUESS WE DON'T HAVE TO BE THERE FOR NATO ( @WalterBloomberg )
