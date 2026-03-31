@@ -3,13 +3,13 @@
 [WEB] Pure Storage, PAR Technology, IMAX, Getty Images, and Kyndryl stocks trade down, what you need to know (2026-03-27T18:30:50+00:00): What Happened? A number of stocks fell in the afternoon session after U.S. equities traded lower as escalating geopolitical tensions between the U.S. and Iran pushed oil prices above $100 a barrel, rattling investor confidence.
 [WEB] The Income ETF Built for Bear Markets: Why SPHD Belongs in Every Retirement Portfolio (2026-03-20T17:24:00+00:00): When markets get choppy and retirement accounts start shrinking, most retirees face the same uncomfortable tension: they need income now, but they can't afford to watch their portfolio collapse. Invesco S&P 500 High Dividend Low Volatility ETF (NYSEARCA:SPHD) was built specifically to navigate that
 [WEB] The S&P 500 Just Broke a Key Technical Level, but History Says Don't Be Concerned (2026-03-23T11:56:00+00:00): The S&P 500 has notched four losing weeks in a row and it just fell below a key technical level. The benchmark index just dipped below its 200-day moving average for the first time in 214 trading days. The same technical breakdown hit the Nasdaq Composite and Dow Jones Industrial Average to end the
-[Telegram:FinancialJuice] [2026-03-31T09:53:26+00:00] EU probes French plan to back EDF nuclear reactors| FJ
-[Telegram:FinancialJuice] [2026-03-31T09:53:59+00:00] EU and Australia start talks on Horizon Program participation| FJ
-[Telegram:FinancialJuice] [2026-03-31T10:03:02+00:00] EU clears Netomnia and BRSK assets sale to Liberty Global and others| FJ
-[Telegram:FinancialJuice] [2026-03-31T10:16:21+00:00] Qatar foreign ministry spokesperson: Our understanding is that there is a unified stance in the Gulf on ending escalation| FJ
-[Telegram:FinancialJuice] [2026-03-31T11:07:08+00:00] Gcore: GPU virtual machines on NVIDIA AI infrastructure. $NVDA| FJ
-[Telegram:WalterBloomberg] [2026-03-31T09:25:45+00:00] RUSSIA'S LAVROV: MIDDLE EAST CRISIS MAY SPILL OVER INTO A WIDER CONFLICT ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-31T09:25:56+00:00] RUSSIAN FOREIGN MINISTER LAVROV: REGIME CHANGES WE ARE WITNESSING ARE MEANT TO GAIN MORE CONTROL OVER OIL AND GAS RESOURCES ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-31T09:43:20+00:00] OIL RISKS RISE AS HOUTHI THREATS GROW Escalation by Yemen’s Houthi militants could push oil toward $140 a barrel, especially if the US deepens involvement in the Iran war, analysts warn. Strikes on Red Sea shipping or Saudi energy sites would hit supply, raising inflation and https://t.co/vbpp1KfvEY ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-03-31T11:13:43+00:00] Trump urges countries to go to Hormuz straight and take it - Truth Social| FJ
+[Telegram:FinancialJuice] [2026-03-31T11:20:56+00:00] Trump: The country of France wouldn’t let planes headed to Israel, loaded up with military supplies, fly over France| FJ
+[Telegram:FinancialJuice] [2026-03-31T11:31:37+00:00] EU's Costa: Had a phone call today with Iran's president| FJ
+[Telegram:FinancialJuice] [2026-03-31T11:40:35+00:00] ECB's Radev: Past inflation shocks have left a “durable imprint"| FJ
+[Telegram:FinancialJuice] [2026-03-31T11:55:35+00:00] US-Israel airstrike hit Iran's Qeshm Island in the Hormuz Strait| FJ
 [Telegram:WalterBloomberg] [2026-03-31T09:45:35+00:00] ECB'S MULLER: CAN'T RULE OUT RATE HIKE IN APRIL ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-03-31T09:50:06+00:00] S&P 500 MAY FALL FURTHER AS VALUATIONS COMPRESS Wolfe Research warns stocks could drift lower as war-related risks weigh on markets, with no clear bottom yet. They see the S&P 500’s valuation dropping to about 18x forward earnings, implying roughly 5% more downside. While ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-31T11:21:30+00:00] TRUMP ON IRAN: FRANCE HAS BEEN VERY UNHELPFUL ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-31T11:28:27+00:00] TRUMP SAYS 'HARD PART IS DONE' ON IRAN WAR ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-03-31T11:56:20+00:00] US-ISRAEL AIRSTRIKE HIT IRAN'S QESHM ISLAND IN HORMUZ STRAIT ( @WalterBloomberg )
