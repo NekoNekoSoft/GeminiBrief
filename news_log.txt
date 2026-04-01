@@ -1,10 +1,11 @@
-[Telegram:FinancialJuice] [2026-04-01T15:09:00+00:00] JP Morgan expects the BoE to hike interest rates by 25 bps in June, vs the prior forecast to hike interest rates in April and July $JPM| FJ
-[Telegram:FinancialJuice] [2026-04-01T15:09:31+00:00] JPMorgan expects the BoE to hike interest rates by 25 bps in June, vs the prior forecast to hike interest rates in April and July $JPM| FJ
-[Telegram:FinancialJuice] [2026-04-01T15:12:47+00:00] Maersk: From Monday, 6th April, reefer cargo bookings will be accepted from Oman (Salalah and Sohar) and the UAE (Khor Fakkan - import only).| FJ
-[Telegram:FinancialJuice] [2026-04-01T15:17:36+00:00] Musk’s SpaceX has filed confidentially for an IPO.| FJ
-[Telegram:FinancialJuice] [2026-04-01T15:20:46+00:00] US and Iran discussing ceasefire for reopening strait - Axios| FJ
-[Telegram:WalterBloomberg] [2026-04-01T14:19:47+00:00] IRAN'S FOREIGN MINISTER SEYYED ABBAS ARAGHCHI SAYS WE DO NOT ACCEPT A CEASEFIRE; WE ARE SEEKING AN END TO THE WAR. WE SEEK GUARANTEES THAT SUCH AGGRESSIONS WILL NOT BE REPEATED ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-04-01T14:20:50+00:00] IRANIAN FOREIGN MINISTRY SPOKESPERSON SAYS TRUMP'S STATEMENTS ABOUT IRAN REQUESTING A CEASEFIRE ARE FALSE AND BASELESS ( @WalterBloomberg )
+[WEB] US stock market crash biggest losers and winners list: S&P 500 and Nasdaq fall as Dow Jones survives on big tech AI spending concerns (2026-01-29T17:05:00+00:00): US stock market crash biggest losers and winners list highlights how Wall Street reacted to earnings from major technology companies, rising spending on artificial intelligence, and the Federal Reserve's latest policy decision. The S&P 500 and Nasdaq ...
+[Telegram:FinancialJuice] [2026-04-01T16:43:59+00:00] French Navy Chief: France is trying to bring several nations together at political level to determine conditions under which the Strait of Hormuz can be reopened in a lasting way.| FJ
+[Telegram:FinancialJuice] [2026-04-01T16:44:07+00:00] French Navy Chief: No evidence thus far that Strait of Hormuz has been mined.| FJ
+[Telegram:FinancialJuice] [2026-04-01T16:44:18+00:00] French Navy Chief: Military will eventually be needed to monitor Hormuz Strait reopening.| FJ
+[Telegram:FinancialJuice] [2026-04-01T16:44:56+00:00] IMF: Heads of the IEA, IMF, and World Bank have agreed to form a coordination group to maximize response to the effects of the war in the Middle East.| FJ
+[Telegram:FinancialJuice] [2026-04-01T17:03:33+00:00] SPX Greek Hedging Greek Hedging (SPX) estimates the day’s dealer rebalancing flows implied by the current options book  essentially how much trading may be required for dealers to remain hedged as prices and volatility move. Here the dominant signal is Delta hedging ($109.6B),| FJ
 [Telegram:WalterBloomberg] [2026-04-01T15:22:00+00:00] *SPACEX HAS FILED CONFIDENTIALLY FOR IPO ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-04-01T15:22:11+00:00] US AND IRAN DISCUSSING CEASEFIRE FOR REOPENING STRAIT, OFFICIALS SAY – AXIOS ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-04-01T15:24:08+00:00] ZELENSKIY BEGINS HOLDING TALKS WITH U.S. NEGOTIATORS, SOURCE FAMILIAR SAYS ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-01T15:45:09+00:00] TRADERS POUR $977 MILLION INTO LEVERED BET THAT OIL WILL PLUNGE Oil traders made a big leveraged bet that prices would fall from war-driven highs — but many are losing badly. Investors poured $977M into the inverse oil ETF (SCO) in March, its biggest monthly inflow ever. The https://t.co/e1DZxIzGl0 ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-01T16:11:31+00:00] TRUMP EXPECTED TO REITERATE IN WEDNESDAY ADDRESS THE 2-3 WEEK TIMETABLE FOR ENDING OPERATIONS IN IRAN -WHITE HOUSE OFFICIAL ( @WalterBloomberg )
