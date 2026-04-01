@@ -1,10 +1,10 @@
-[Telegram:FinancialJuice] [2026-04-01T11:35:38+00:00] Poll: Euro forecast to trade at $1.16 in three months, $1.18 in six, and $1.20 in a year (vs $1.19, $1.20, and $1.21 respectively in the March poll)| FJ
-[Telegram:FinancialJuice] [2026-04-01T11:40:29+00:00] German government spokesperson on Trump's NATO comments: Of course, we remain committed to the NATO alliance| FJ
-[Telegram:FinancialJuice] [2026-04-01T11:57:13+00:00] Fed's Barkin: Firms and consumers, not acting as if they expect long-term effects from oil shock| FJ
-[Telegram:FinancialJuice] [2026-04-01T11:57:24+00:00] Fed's Barkin: I do not see inflation expectations at risk of breaking out| FJ
-[Telegram:FinancialJuice] [2026-04-01T11:57:38+00:00] Fed's Barkin: Goods firms feel pricing power is limited, but services firms feel they have more leeway| FJ
-[Telegram:WalterBloomberg] [2026-03-31T22:00:53+00:00] TRUMP SAYS IRAN DOES NOT HAVE TO MAKE A DEAL FOR THE U.S. TO END ITS WAR ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-03-31T22:47:13+00:00] TIGER WOODS: I AM STEPPING AWAY FOR A PERIOD OF TIME TO SEEK TREATMENT ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-04-01T01:55:48+00:00] *UAE PREPARING TO HELP US OPEN HORMUZ BY FORCE: WSJ *UAE LOBBYING FOR UNSC RESOLUTION TO AUTHORIZE ACTION: WSJ ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-04-01T01:56:02+00:00] *JAPAN’S NIKKEI 225 SURGES 4% ON TRUMP'S COMMENTS ON ENDING WAR ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-04-01T11:32:29+00:00] FRANCE'S JUNIOR ARMY MINISTER: NATO IS A MILITARY ALLIANCE THAT CONCERNS THE SECURITY OF EURO-ATLANTIC AREA, NOT TO CARRY OUT OPERATION IN STRAIT OF HORMUZ THAT DOESN'T RESPECT INTERNATIONAL LAW ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-04-01T13:52:01+00:00] Fed's Musalem: Taking steps to reduce demand for reserve from the financial system would be a smoother way to do it.| FJ
+[Telegram:FinancialJuice] [2026-04-01T13:52:44+00:00] Microsoft to invest over $1b in ai infrastructure in Thailand. $MSFT| FJ
+[Telegram:FinancialJuice] [2026-04-01T13:53:10+00:00] Fed's Musalem: AI's impact on the economy is mostly through data center build-out and energy investments.| FJ
+[Telegram:FinancialJuice] [2026-04-01T13:53:44+00:00] Fed's Barr: If the Iran war persists, it could impact inflation.| FJ
+[Telegram:FinancialJuice] [2026-04-01T14:00:46+00:00] ⚠ US ISM Manufacturing PMI Actual 52.7 (Forecast 52.3, Previous 52.4) US ISM Mfg. Employment Index Actual 48.7 (Forecast 49, Previous 48.8) US ISM Mfg. New Orders Index Actual 53.5 (Forecast 54.5, Previous 55.8) US ISM Mfg. Prices Paid Actual 78.3 (Forecast 74, Previous 70.5)| FJ
+[Telegram:WalterBloomberg] [2026-04-01T13:12:21+00:00] TRUMP: DOES NOT CARE ABOUT NUCLEAR MATERIAL; WILL WATCH BY SATELLITE ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-01T13:12:40+00:00] TRUMP: WE HAVE SOME MORE TARGETS LEFT; IF WE HAVE TO, WE'LL COME BACK TO DO SPOT HITS ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-01T13:13:23+00:00] TRUMP: WILL EXPRESS 'MY DISGUST' WITH NATO IN HIS SPEECH; SAYS HE IS 'ABSOLUTELY' CONSIDERING WITHDRAWING U.S. FROM NATO ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-01T13:14:07+00:00] IRAN'S REVOLUTIONARY GUARDS SAY THEY ATTACKED OIL TANKER AQUA ONE IN THE GULF; THE TANKER LEASED TO QATARENERGY WAS HIT IN QATARI WATERS ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-01T13:43:09+00:00] *IRAN: STRAIT WON'T REOPEN BASED ON TRUMP'S 'ABSURD' DISPLAYS ( @WalterBloomberg )
