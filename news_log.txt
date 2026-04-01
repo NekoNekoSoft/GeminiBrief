@@ -1,10 +1,10 @@
-[Telegram:FinancialJuice] [2026-04-01T13:52:01+00:00] Fed's Musalem: Taking steps to reduce demand for reserve from the financial system would be a smoother way to do it.| FJ
-[Telegram:FinancialJuice] [2026-04-01T13:52:44+00:00] Microsoft to invest over $1b in ai infrastructure in Thailand. $MSFT| FJ
-[Telegram:FinancialJuice] [2026-04-01T13:53:10+00:00] Fed's Musalem: AI's impact on the economy is mostly through data center build-out and energy investments.| FJ
-[Telegram:FinancialJuice] [2026-04-01T13:53:44+00:00] Fed's Barr: If the Iran war persists, it could impact inflation.| FJ
-[Telegram:FinancialJuice] [2026-04-01T14:00:46+00:00] ⚠ US ISM Manufacturing PMI Actual 52.7 (Forecast 52.3, Previous 52.4) US ISM Mfg. Employment Index Actual 48.7 (Forecast 49, Previous 48.8) US ISM Mfg. New Orders Index Actual 53.5 (Forecast 54.5, Previous 55.8) US ISM Mfg. Prices Paid Actual 78.3 (Forecast 74, Previous 70.5)| FJ
-[Telegram:WalterBloomberg] [2026-04-01T13:12:21+00:00] TRUMP: DOES NOT CARE ABOUT NUCLEAR MATERIAL; WILL WATCH BY SATELLITE ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-04-01T13:12:40+00:00] TRUMP: WE HAVE SOME MORE TARGETS LEFT; IF WE HAVE TO, WE'LL COME BACK TO DO SPOT HITS ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-04-01T13:13:23+00:00] TRUMP: WILL EXPRESS 'MY DISGUST' WITH NATO IN HIS SPEECH; SAYS HE IS 'ABSOLUTELY' CONSIDERING WITHDRAWING U.S. FROM NATO ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-04-01T13:14:07+00:00] IRAN'S REVOLUTIONARY GUARDS SAY THEY ATTACKED OIL TANKER AQUA ONE IN THE GULF; THE TANKER LEASED TO QATARENERGY WAS HIT IN QATARI WATERS ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-04-01T13:43:09+00:00] *IRAN: STRAIT WON'T REOPEN BASED ON TRUMP'S 'ABSURD' DISPLAYS ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-04-01T15:09:00+00:00] JP Morgan expects the BoE to hike interest rates by 25 bps in June, vs the prior forecast to hike interest rates in April and July $JPM| FJ
+[Telegram:FinancialJuice] [2026-04-01T15:09:31+00:00] JPMorgan expects the BoE to hike interest rates by 25 bps in June, vs the prior forecast to hike interest rates in April and July $JPM| FJ
+[Telegram:FinancialJuice] [2026-04-01T15:12:47+00:00] Maersk: From Monday, 6th April, reefer cargo bookings will be accepted from Oman (Salalah and Sohar) and the UAE (Khor Fakkan - import only).| FJ
+[Telegram:FinancialJuice] [2026-04-01T15:17:36+00:00] Musk’s SpaceX has filed confidentially for an IPO.| FJ
+[Telegram:FinancialJuice] [2026-04-01T15:20:46+00:00] US and Iran discussing ceasefire for reopening strait - Axios| FJ
+[Telegram:WalterBloomberg] [2026-04-01T14:19:47+00:00] IRAN'S FOREIGN MINISTER SEYYED ABBAS ARAGHCHI SAYS WE DO NOT ACCEPT A CEASEFIRE; WE ARE SEEKING AN END TO THE WAR. WE SEEK GUARANTEES THAT SUCH AGGRESSIONS WILL NOT BE REPEATED ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-01T14:20:50+00:00] IRANIAN FOREIGN MINISTRY SPOKESPERSON SAYS TRUMP'S STATEMENTS ABOUT IRAN REQUESTING A CEASEFIRE ARE FALSE AND BASELESS ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-01T15:22:00+00:00] *SPACEX HAS FILED CONFIDENTIALLY FOR IPO ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-01T15:22:11+00:00] US AND IRAN DISCUSSING CEASEFIRE FOR REOPENING STRAIT, OFFICIALS SAY – AXIOS ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-01T15:24:08+00:00] ZELENSKIY BEGINS HOLDING TALKS WITH U.S. NEGOTIATORS, SOURCE FAMILIAR SAYS ( @WalterBloomberg )
