@@ -1,10 +1,11 @@
-[Telegram:FinancialJuice] [2026-04-02T08:46:29+00:00] BoE: Increased price expectations due to rise in energy costs| FJ
-[Telegram:FinancialJuice] [2026-04-02T08:46:53+00:00] BoE Poll: Expected 12-month price growth rises to 3.7% vs 3.4%| FJ
-[Telegram:FinancialJuice] [2026-04-02T08:50:59+00:00] Japan decides to join UK-led online talks on Hormuz - Sources| FJ
-[Telegram:FinancialJuice] [2026-04-02T09:08:16+00:00] Putin to meet Egypt's foreign minister today - TASS| FJ
-[Telegram:FinancialJuice] [2026-04-02T09:08:35+00:00] Kremlin on Trump statement about Iran: If needed, Russia is ready to help contribute to resolving the Iran war| FJ
-[Telegram:WalterBloomberg] [2026-04-02T08:24:34+00:00] IRANIAN ARMY CHIEF: NO ENEMY MUST ESCAPE IF THEY ATTEMPT TO CARRY OUT A GROUND OPERATION ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-04-02T08:34:28+00:00] IRAN WARNS OF TOTAL RESPONSE AS US BUILDS FORCES Iran has escalated its rhetoric after Trump’s overnight threats. Army chief Amir Hatami warned that any ground invasion would face total destruction. Meanwhile, the US has deployed thousands of troops to the region, raising ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-04-02T08:51:51+00:00] *JAPAN DECIDES TO JOIN UK-LED ONLINE TALKS ON HORMUZ: REUTERS ( @WalterBloomberg )
+[WEB] A Wall Street analyst flags 3 'toxic' forces pushing the stock market toward a tipping point (2026-03-20T09:34:00+00:00): The S&P 500 is trading near an inflection point, Piper Sandler analysts warned, flagging a key resistance level that could signal more declines ahead.
+[Telegram:FinancialJuice] [2026-04-02T09:12:44+00:00] BofA Global Research expects BoE to deliver two 25 bps interest rate hikes each in June and July 2026 vs prior forecast of cuts in June and September this year| FJ
+[Telegram:FinancialJuice] [2026-04-02T09:13:05+00:00] BofA global research expects BoE to deliver three 25 bps cuts each in April, July, and November 2027| FJ
+[Telegram:FinancialJuice] [2026-04-02T09:46:07+00:00] Banks borrow £100.3bln in BoE short-term repo operation| FJ
+[Telegram:FinancialJuice] [2026-04-02T10:06:17+00:00] France’s President Macron: It's unrealistic to free the Strait of Hormuz by military means| FJ
+[Telegram:FinancialJuice] [2026-04-02T10:07:33+00:00] France’s President Macron: Hormuz Strait can only reopen in concertation with Iran| FJ
 [Telegram:WalterBloomberg] [2026-04-02T08:53:37+00:00] RYANAIR CEO EXPECTS OIL PRICES TO FALL SOON, ACCORDING TO WIRTSCHAFTSWOCHE INTERVIEW ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-04-02T09:05:42+00:00] KREMLIN: FOR RUSSIA, NATO IS A HOSTILE ALLIANCE KREMLIN ON TRUMP STATEMENT ABOUT IRAN: IF NEEDED, RUSSIA IS READY TO HELP CONTRIBUTE TO RESOLVING THE IRAN WAR ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-02T09:30:34+00:00] *INDIA SETS VOLATILITY MARGIN ON USDINR FORWARDS TO CURB SWINGS ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-02T09:31:08+00:00] GOLDMAN SACHS PARIS STAFF ALLOWED TO WORK REMOTELY ON THURSDAY AFTER ATTEMPTED ATTACK ON OTHER BANK- SOURCES ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-02T09:45:57+00:00] BLACKROCK BETS ON RISING EUROPEAN YIELDS BlackRock is increasing short positions on German bonds, expecting a sharp rise in inflation to push yields above recent 15-year highs. The firm sees higher government spending on energy support and defense driving more debt issuance, https://t.co/cd8n3s8Qsz ( @WalterBloomberg )
