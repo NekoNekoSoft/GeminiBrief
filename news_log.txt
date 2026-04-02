@@ -1,11 +1,12 @@
-[WEB] A Wall Street analyst flags 3 'toxic' forces pushing the stock market toward a tipping point (2026-03-20T09:34:00+00:00): The S&P 500 is trading near an inflection point, Piper Sandler analysts warned, flagging a key resistance level that could signal more declines ahead.
-[Telegram:FinancialJuice] [2026-04-02T09:12:44+00:00] BofA Global Research expects BoE to deliver two 25 bps interest rate hikes each in June and July 2026 vs prior forecast of cuts in June and September this year| FJ
-[Telegram:FinancialJuice] [2026-04-02T09:13:05+00:00] BofA global research expects BoE to deliver three 25 bps cuts each in April, July, and November 2027| FJ
-[Telegram:FinancialJuice] [2026-04-02T09:46:07+00:00] Banks borrow £100.3bln in BoE short-term repo operation| FJ
-[Telegram:FinancialJuice] [2026-04-02T10:06:17+00:00] France’s President Macron: It's unrealistic to free the Strait of Hormuz by military means| FJ
-[Telegram:FinancialJuice] [2026-04-02T10:07:33+00:00] France’s President Macron: Hormuz Strait can only reopen in concertation with Iran| FJ
-[Telegram:WalterBloomberg] [2026-04-02T08:53:37+00:00] RYANAIR CEO EXPECTS OIL PRICES TO FALL SOON, ACCORDING TO WIRTSCHAFTSWOCHE INTERVIEW ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-04-02T09:05:42+00:00] KREMLIN: FOR RUSSIA, NATO IS A HOSTILE ALLIANCE KREMLIN ON TRUMP STATEMENT ABOUT IRAN: IF NEEDED, RUSSIA IS READY TO HELP CONTRIBUTE TO RESOLVING THE IRAN WAR ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-04-02T09:30:34+00:00] *INDIA SETS VOLATILITY MARGIN ON USDINR FORWARDS TO CURB SWINGS ( @WalterBloomberg )
+[WEB] The Income ETF Built for Bear Markets: Why SPHD Belongs in Every Retirement Portfolio (2026-03-20T17:24:00+00:00): When markets get choppy and retirement accounts start shrinking, most retirees face the same uncomfortable tension: they need income now, but they can't afford to watch their portfolio collapse. Invesco S&P 500 High Dividend Low Volatility ETF (NYSEARCA:SPHD) was built specifically to navigate that
+[WEB] The S&P 500 is flashing 3 'ominous' signs there are more losses coming, Wall Street research firm says (2026-03-30T18:41:00+00:00): A cluster of trend indicators in the S&P 500 have flashed a "sell" signal or are moving closer to bearish territory, according to Ned Davis Research.
+[Telegram:FinancialJuice] [2026-04-02T10:49:21+00:00] Russia plans to send a second ship carrying fuel to Cuba - IFX| FJ
+[Telegram:FinancialJuice] [2026-04-02T10:50:47+00:00] Russia faces a cut in oil production due to drone attacks on energy facilities - Sources| FJ
+[Telegram:FinancialJuice] [2026-04-02T10:55:11+00:00] Iran's Revolutionary Guards: We targeted US-linked steel and aluminium facilities in Gulf states - State media| FJ
+[Telegram:FinancialJuice] [2026-04-02T10:55:37+00:00] Iran’s Revolutionary Guards: These strikes were a warning; if Iranian industries are hit again, Tehran’s next response will be more painful - State media| FJ
+[Telegram:FinancialJuice] [2026-04-02T11:01:01+00:00] Russia's oil export capacity cut by 1mbpd by drone strikes - Sources| FJ
 [Telegram:WalterBloomberg] [2026-04-02T09:31:08+00:00] GOLDMAN SACHS PARIS STAFF ALLOWED TO WORK REMOTELY ON THURSDAY AFTER ATTEMPTED ATTACK ON OTHER BANK- SOURCES ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-04-02T09:45:57+00:00] BLACKROCK BETS ON RISING EUROPEAN YIELDS BlackRock is increasing short positions on German bonds, expecting a sharp rise in inflation to push yields above recent 15-year highs. The firm sees higher government spending on energy support and defense driving more debt issuance, https://t.co/cd8n3s8Qsz ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-02T10:12:09+00:00] Macron says Trump's comments about his relationship are "neither elegant nor up to standard" ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-02T10:33:25+00:00] Macron says it is unrealistic to open Hormuz Strait by force ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-02T10:33:37+00:00] Macron says Trump cannot keep "contradicting" himself every day on Iran ( @WalterBloomberg )
