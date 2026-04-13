@@ -1,11 +1,11 @@
 [WEB] Stock Market Analysis (2026-04-06T16:29:00+00:00): Latest stories about Stock Market Analysis on Business Insider
-[Telegram:FinancialJuice] [2026-04-13T10:17:28+00:00] ECB's Vujcic: Energy prices still very close to ECB baseline scenario| FJ
-[Telegram:FinancialJuice] [2026-04-13T10:22:56+00:00] German Spokesperson on Iran: We are assuming a US blockade of Iranian ports, not of the Strait of Hormuz| FJ
-[Telegram:FinancialJuice] [2026-04-13T10:30:55+00:00] Two Iranian-linked tankers exit the Gulf via the Strait of Hormuz on Monday ahead of the US-announced blockade - Shipping data.| FJ
-[Telegram:FinancialJuice] [2026-04-13T10:40:39+00:00] EU's Von der Leyen: There can be no stability in the Middle East while Lebanon is in flames| FJ
-[Telegram:FinancialJuice] [2026-04-13T10:45:53+00:00] EU chief: The bill for fossil fuel imports increased by more than 22 billion Euros since the beginning of the conflict| FJ
-[Telegram:WalterBloomberg] [2026-04-13T01:31:41+00:00] *TRUMP ON IRAN: HORMUZ BLOCKADE WILL BE VERY EFFECTIVE *TRUMP ON IRAN: MOST OF THEIR MINE DROPPERS ARE GONE ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-04-13T01:32:01+00:00] TRUMP: WE HAVE MORE OIL THAN RUSSIA, SAUDI TOGETHER ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-04-13T01:32:11+00:00] TRUMP: IRAN IS IN VERY BAD SHAPE ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-04-13T01:33:08+00:00] IRANIAN OFFICIAL WARNS TEHRAN STILL HOLDS “UNUSED LEVERAGE” TO COUNTER U.S. MARITIME BLOCKADE ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-04-13T10:26:51+00:00] GERMAN SPOKESPERSON ON IRAN: WE ARE ASSUMING A US BLOCKADE OF IRANIAN PORTS, NOT OF THE STRAIT OF HORMUZ ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-04-13T12:00:48+00:00] OPEC leaves 2026 and 2027 full-year forecasts for global oil demand growth unchanged| FJ
+[Telegram:FinancialJuice] [2026-04-13T12:01:12+00:00] OPEC says OPEC+ crude output averaged 35.06 million bpd in March 2026, down 7.70 mln bpd from February, as Iran's war prompted Middle East members to cut output| FJ
+[Telegram:FinancialJuice] [2026-04-13T12:01:25+00:00] OPEC output suffers record plunge as Iran war throttles exports| FJ
+[Telegram:FinancialJuice] [2026-04-13T12:03:33+00:00] Russia's Patrushev: Tankers carrying Russian oil that crossed the English Channel last week were escorted by a Russian frigate - IFX| FJ
+[Telegram:FinancialJuice] [2026-04-13T12:05:50+00:00] Pakistan, Egypt & Turkey will continue talks with the US & Iran in the coming days to bridge the remaining gaps & reach a deal to end the war - Axios reporter on X| FJ
+[Telegram:WalterBloomberg] [2026-04-13T11:57:18+00:00] BITCOIN WEAKENS AS US–IRAN TALKS COLLAPSE Bitcoin remains under pressure after U.S.–Iran peace talks failed. Donald Trump announced a blockade on vessels tied to Iranian ports, raising fears of disruption at a key energy chokepoint. Analysts say rising oil prices and yields are ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-13T12:01:05+00:00] OPEC CUTS Q2 DEMAND VIEW AMID IRAN WAR OPEC lowered its Q2 2026 global oil demand forecast to 105.07M bpd (from 105.57M), citing the Iran war. 🔸 2026–2027 full-year demand growth unchanged 🔸 Q2 demand revised down across OECD and non-OECD 🔸 OPEC+ output fell to 35.06M bpd in ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-13T12:01:25+00:00] *STRATEGY BUYS 13,927 BITCOIN FOR AGGREGATE PURCHASE PRICE $1.00B ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-13T12:02:30+00:00] U.S. STOCK INDEX FUTURES EXTEND LOSSES U.S. S&P 500 E-MINI FUTURES AND NASDAQ 100 FUTURES DOWN 0.7% EACH, DOW FUTURES DOWN 1% ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-13T12:05:05+00:00] PAKISTAN, EGYPT, TURKEY WILL CONTINUE TALKS WITH US, IRAN:AXIOS ( @WalterBloomberg )
