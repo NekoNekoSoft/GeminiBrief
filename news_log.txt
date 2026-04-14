@@ -1,11 +1,11 @@
 [WEB] Stock Market Analysis (2026-04-06T16:29:00+00:00): Latest stories about Stock Market Analysis on Business Insider
-[Telegram:FinancialJuice] [2026-04-14T16:49:05+00:00] Dow, Exxon, and rivals are raising plastic prices as the Iran war convulses oil markets - Document.| FJ
-[Telegram:FinancialJuice] [2026-04-14T16:50:11+00:00] ❗ The US will allow the temporary waiver of sanctions on Iranian oil on the sea to expire this week - two US officials.| FJ
-[Telegram:FinancialJuice] [2026-04-14T16:52:13+00:00] US to Let Iranian Oil Waiver Expire - Document The Trump administration will allow the 30-day waiver on sanctions for Iranian oil at sea to expire on April 19, removing a temporary measure that had helped some oil reach global markets during the war. Reuters reported that the| FJ
-[Telegram:FinancialJuice] [2026-04-14T17:04:42+00:00] SPX Greek Hedging Greek Hedging (SPX) estimates the day’s dealer rebalancing flows implied by the current options book essentially how much trading may be required for dealers to remain hedged as prices and volatility move. Here the dominant signal is Delta hedging ($61.7B),| FJ
-[Telegram:FinancialJuice] [2026-04-14T17:09:40+00:00] Treasury warns banks in Oman, China, Hong Kong and the UAE about handling Iranian money - Fox Business| FJ
-[Telegram:WalterBloomberg] [2026-04-14T16:10:17+00:00] SPOT SILVER GAINS 5% TO $79.37/OZ ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-04-14T16:18:00+00:00] HORMUZ TRAFFIC CONTINUES DESPITE US BLOCKADE CLAIMS At least nine commercial vessels have passed through the Strait of Hormuz since the start of the US-declared maritime blockade, according to tracking data, including some sanctioned tankers linked to Iran and China. While ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-04-14T16:19:48+00:00] FRANCE WARNS HORMUZ CRISIS MUST END WITHIN WEEKS French Finance Minister Roland Lescure says the global economy can absorb the shock from the Strait of Hormuz crisis only if it is resolved within weeks, warning a prolonged conflict would trigger severe economic damage. He says ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-04-14T16:28:56+00:00] ECB'S MAKHLOUF: NOT IMPOSSIBLE FED AND ECB TAKE DIFFERENT PATHS IN THE SHORT TERM ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-04-14T16:37:45+00:00] US NAVY NOT ESCORTING ANY SHIPS THROUGH HORMUZ STRAIT: CNN ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-04-14T20:43:56+00:00] US API Crude Oil Stock Change Actual 6.1M (Forecast -1.3M, Previous 3.719M)| FJ
+[Telegram:FinancialJuice] [2026-04-14T20:46:54+00:00] US API Gasoline Stock Change Actual 0.626M, Previous -4M) US API Distillate Stock Change Actual -3.4M, Previous -0.6M) US API Cushing Stock Change Actual -1.7M, Previous -0.6M)| FJ
+[Telegram:FinancialJuice] [2026-04-14T20:48:45+00:00] WH Sr. Adviser Hassett on AI: It is raising the productivity of small and large businesses.| FJ
+[Telegram:FinancialJuice] [2026-04-14T20:59:47+00:00] Haaretz, citing sources: Israel's Prime Minister Netanyahu is using talks with Lebanon to buy time against Hezbollah to show goodwill to the Trump administration.| FJ
+[Telegram:FinancialJuice] [2026-04-14T22:22:37+00:00] VP Vance: We are negotiating with Iran. Ceasefire is holding| FJ
+[Telegram:WalterBloomberg] [2026-04-14T22:24:28+00:00] VANCE: WE ARE NEGOTIATING WITH IRAN ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-14T22:24:47+00:00] VANCE: CEASEFIRE IS HOLDING ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-14T22:25:07+00:00] VANCE: IRANIAN NEGOTIATORS WANTED TO MAKE A DEAL ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-14T22:25:49+00:00] VANCE ON IRAN: FEEL GOOD ABOUT WHERE WE ARE ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-14T22:26:21+00:00] VANCE: LOT OF MISTRUST BETWEEN U.S. AND IRAN, CAN'T BE SOLVED OVERNIGHT ( @WalterBloomberg )
