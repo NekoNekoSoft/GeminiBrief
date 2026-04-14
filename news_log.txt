@@ -1,11 +1,11 @@
 [WEB] Stock Market Analysis (2026-04-06T16:29:00+00:00): Latest stories about Stock Market Analysis on Business Insider
-[Telegram:FinancialJuice] [2026-04-14T06:00:22+00:00] Swedish CPI YoY Actual 0.6% (Forecast 0.6%, Previous 0.6%)| FJ
-[Telegram:FinancialJuice] [2026-04-14T06:00:27+00:00] Swedish CPI MoM Actual -0.6% (Forecast -0.6%, Previous -0.6%)| FJ
-[Telegram:FinancialJuice] [2026-04-14T06:00:43+00:00] German Wholesale Price Index YoY Actual 4.1% (Forecast -, Previous 1.2%)| FJ
-[Telegram:FinancialJuice] [2026-04-14T06:00:49+00:00] German Wholesale Price Index MoM Actual 2.7% (Forecast -, Previous 0.6%)| FJ
-[Telegram:FinancialJuice] [2026-04-14T06:04:44+00:00] Iran's Oil Minister Paknejad: Oil sales since start of war have been 'favourable’, part of resources will be used to restore industry - Fars News| FJ
-[Telegram:WalterBloomberg] [2026-04-13T17:46:47+00:00] HEZBOLLAH HEAD NAIM QASSEM CALLS ON LEBANESE GOVERNMENT TO CANCEL TUESDAY MEETING WITH ISRAELI OFFICIALS IN WASHINGTON ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-04-14T08:31:57+00:00] Global equity allocation dropped to net 13% overweight, down from 37% in February - BofA FMS.| FJ
+[Telegram:FinancialJuice] [2026-04-14T08:32:01+00:00] 58% of investors still expect Fed to cut rates in next 12 months, 46% expect ECB to hike in next 12 months - BofA FMS| FJ
+[Telegram:FinancialJuice] [2026-04-14T08:32:07+00:00] 34% of investors expect oil to trade between $80-90 a barrel by end 2026, 28% see $70-80, 22% see $90-100 - BofA FMS| FJ
+[Telegram:FinancialJuice] [2026-04-14T09:30:45+00:00] Kremlin on extension of US Russian oil sales waiver: There have been no such announcements.| FJ
+[Telegram:FinancialJuice] [2026-04-14T09:31:09+00:00] Kremlin on Trump posting an AI image of himself as Jesus-like figure: No comment.| FJ
 [Telegram:WalterBloomberg] [2026-04-13T17:54:34+00:00] THERE IS CONTINUED ENGAGEMENT BETWEEN THE U.S. AND IRAN AND FORWARD MOTION ON TRYING TO GET TO AN AGREEMENT -U.S. OFFICIAL ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-04-13T21:28:11+00:00] US ENERGY PRICES LIKELY TO RISE UNTIL 'MEANINGFUL' SHIP TRAFFIC RESUMES THROUGH STRAIT OF HORMUZ, LIKELY 'IN NEXT FEW WEEKS,' ENERGY SEC WRIGHT SAYS ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-04-13T22:19:46+00:00] VANCE TELLS FOX NEWS:MADE A LOT OF PROGRESS IN TALKS WITH IRAN ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-04-13T22:27:09+00:00] VANCE ON STRAIT OF HORMUZ: EXPECTATION IS THAT IRAN WILL MAKE PROGRESS TO OPENING THE STRAIT ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-14T08:42:05+00:00] NEXT ROUND OF TALKS BETWEEN U.S. AND IRAN COULD TAKE PLACE THIS WEEK OR EARLY NEXT WEEK - IRANIAN EMBASSY OFFICIAL IN PAKISTAN ( @WalterBloomberg )
