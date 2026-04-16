@@ -1,11 +1,11 @@
 [WEB] Stock Market Analysis (2026-04-06T16:29:00+00:00): Latest stories about Stock Market Analysis on Business Insider
-[Telegram:FinancialJuice] [2026-04-16T10:14:57+00:00] EU's Ribera: Data is key input for online search and AI| FJ
-[Telegram:FinancialJuice] [2026-04-16T10:30:30+00:00] Russia: Oil tanker was attacked in its waters - Tass| FJ
-[Telegram:FinancialJuice] [2026-04-16T10:48:19+00:00] ECB to scrutinize Anthropic’s Mythos on call with executives| FJ
-[Telegram:FinancialJuice] [2026-04-16T10:53:57+00:00] IEA Head: Europe has 'maybe' 6 weeks of jet fuel left - AP News| FJ
-[Telegram:FinancialJuice] [2026-04-16T11:04:41+00:00] Iran's Ghalibaf: Ceasefire as important in Lebanon as Iran| FJ
-[Telegram:WalterBloomberg] [2026-04-15T20:48:35+00:00] IRAN'S PARLIAMENT SPEAKER GHALIBAF: US MUST COMPLY WITH AGREEMENT IRAN'S PARLIAMENT SPEAKER GHALIBAF: RESISTANCE AND IRAN ARE ONE SOUL, BOTH IN WAR AND IN CEASEFIRE IRAN'S PARLIAMENT SPEAKER GHALIBAF: US SHOULD WITHDRAW FROM “ISRAEL FIRST” MISTAKE ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-04-15T21:44:55+00:00] CEASEFIRE BETWEEN ISRAEL AND LEBANON EXPECTED ‘SOON’, SAY LEBANESE OFFICIALS - FT ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-04-16T10:15:01+00:00] ISRAEL SEEKS BUFFER ZONE AND OPERATIONAL FREEDOM IN ANY LEBANON CEASEFIRE DEAL: WSJ ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-04-16T10:29:48+00:00] RUSSIA REPORTS AN ATTACK ON AN OIL TANKER IN ITS WATERS, SAYS TASS ( @WalterBloomberg )
-[Telegram:WalterBloomberg] [2026-04-16T10:54:35+00:00] *EUROPE HAS 'MAYBE' 6 WKS OF JET FUEL LEFT, IEA HEAD SAYS: AP ( @WalterBloomberg )
+[Telegram:FinancialJuice] [2026-04-16T13:56:39+00:00] US Rep. Moolenaar: Airbus has likely given Chinese entity satellite images.| FJ
+[Telegram:FinancialJuice] [2026-04-16T13:57:14+00:00] US Rep. Moolenaar: Airbus has likely given Chinese entity satellite images. Satellite imagery was of US military assets.| FJ
+[Telegram:FinancialJuice] [2026-04-16T14:04:55+00:00] US CENTCOM on X: After 72 hours of enforcement, 14 vessels have turned around to comply with the blockade at the direction of American forces.| FJ
+[Telegram:FinancialJuice] [2026-04-16T14:05:15+00:00] China foreign minister: priority is to push United States and Iran back to negotiation| FJ
+[Telegram:FinancialJuice] [2026-04-16T14:05:35+00:00] ECB Schnabel: we should have fresh discussion about joint eurobond issuance| FJ
+[Telegram:WalterBloomberg] [2026-04-16T12:37:21+00:00] HEGSETH: WE WOULD WELCOME OTHER COUNTRIES COMING IN TO HELP WITH STRAIT OF HORMUZ ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-16T12:37:49+00:00] HEGSETH: IRAN'S SUPREME LEADER IS BELIEVED TO BE WOUNDED AND ALIVE ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-16T13:33:08+00:00] *IRAN TOLD PAKISTAN THAT US MUST FULFILL COMMITMENTS: TASNIM *IRAN EMPHASIZED US MUST DROP 'EXCESSIVE DEMANDS': TASNIM ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-16T14:04:24+00:00] PREDICTION MARKETS ADD SAFEGUARDS Before Kalshi took off, CEO Tarek Mansour pitched a safer form of betting. Now, Kalshi is rolling out tools like deposit limits and backing SelfExclude, a cross-platform blocklist built by IC360, with firms like Robinhood set to join. As https://t.co/tEEkVKIB6E ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-16T14:05:19+00:00] CHINA FOREIGN MINISTER: PRIORITY IS TO PUSH US, IRAN BACK TO NEGOTIATION ( @WalterBloomberg )
