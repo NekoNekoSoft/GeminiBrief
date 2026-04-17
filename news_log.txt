@@ -4,8 +4,8 @@
 [Telegram:FinancialJuice] [2026-04-16T20:40:31+00:00] US CENTCOM: USS Abraham Lincoln transits Arabian Sea as US enforces blockade of Iran’s ports with 12+ ships, 100+ aircraft, 10,000 troops; no vessels violating blockade so far| FJ
 [Telegram:FinancialJuice] [2026-04-16T20:41:33+00:00] US CENTCOM: No vessels violating blockade so far.| FJ
 [Telegram:FinancialJuice] [2026-04-16T20:55:56+00:00] Israel launched airstrikes on southern Lebanon minutes before ceasefire - Asharq Correspondent.| FJ
-[Telegram:WalterBloomberg] [2026-04-16T19:23:41+00:00] US OFFICIALS INFORM EUROPEAN COUNTRIES OF WEAPONS DELIVERY DELAYS AMID IRAN WAR,  SOURCES SAY ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-04-16T19:51:18+00:00] IRAN'S PARLIAMENT SPEAKER GHALIBAF ON LEBANON CEASEFIRE: WE'LL DEAL WITH CEASEFIRE WITH CAUTION ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-04-16T20:14:29+00:00] IRAN WELCOMES CEASEFIRE IN LEBANON, SAYING IT WAS PART OF IRAN-U.S. CEASEFIRE UNDERSTANDING MEDIATED BY PAKISTAN -IRANIAN MEDIA CITING FOREIGN MINISTRY SPOKESPERSON ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-04-16T20:39:15+00:00] IRAN STRESSES NEED FOR FULL ISRAELI WITHDRAWAL FROM SOUTHERN LEBANON -IRANIAN MEDIA CITING FOREIGN MINISTRY SPOKESPERSON ( @WalterBloomberg )
 [Telegram:WalterBloomberg] [2026-04-16T20:41:36+00:00] SLASH HITS $1.4B WITH AI PUSH Slash Financial raised $100M, reaching a $1.4B valuation. The startup, run by two 24-year-old founders, now makes nearly $300M in revenue. It offers banking tools for small businesses and is launching an AI agent to automate financial tasks. After ( @WalterBloomberg )
+[Telegram:WalterBloomberg] [2026-04-17T01:30:09+00:00] OPENAI TO SPEND MORE THAN $20 BILLION ON CEREBRAS CHIPS, RECEIVE EQUITY STAKE - THE INFORMATION ( @WalterBloomberg )
